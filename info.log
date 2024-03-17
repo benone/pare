@@ -1,0 +1,1901 @@
+# Logfile created on 2024-03-17 11:07:14 +0100 by logger.rb/v1.6.0
+I, [2024-03-17T11:07:50.485917 #77126]  INFO -- : 1-2-3-magic-en; 0.001825; 7 chapters
+I, [2024-03-17T11:07:50.488852 #77126]  INFO -- : 10-days-to-faster-reading-en; 0.002861; 8 chapters
+I, [2024-03-17T11:07:50.490935 #77126]  INFO -- : 10-leadership-virtues-for-disruptive-times-en; 0.002037; 9 chapters
+I, [2024-03-17T11:07:50.493421 #77126]  INFO -- : 10-percent-happier-en; 0.002454; 9 chapters
+I, [2024-03-17T11:07:50.495073 #77126]  INFO -- : 100-million-years-of-food-en; 0.001622; 9 chapters
+I, [2024-03-17T11:07:50.496705 #77126]  INFO -- : 100-things-every-designer-needs-to-know-about-people-en; 0.001596; 9 chapters
+I, [2024-03-17T11:07:50.498049 #77126]  INFO -- : 100-ways-to-change-your-life-en; 0.001316; 7 chapters
+I, [2024-03-17T11:07:50.499629 #77126]  INFO -- : 100m-leads-en; 0.001552; 7 chapters
+I, [2024-03-17T11:07:50.500928 #77126]  INFO -- : 100m-offers-en; 0.001275; 7 chapters
+I, [2024-03-17T11:07:50.503196 #77126]  INFO -- : 101-essays-that-will-change-the-way-you-think-en; 0.002212; 13 chapters
+I, [2024-03-17T11:07:50.504330 #77126]  INFO -- : 10x-is-easier-than-2x-en; 0.001109; 7 chapters
+I, [2024-03-17T11:07:50.505510 #77126]  INFO -- : 12-months-to-1-dollars-million-en; 0.001151; 6 chapters
+I, [2024-03-17T11:07:50.508509 #77126]  INFO -- : 12-rules-for-life-en; 0.002974; 14 chapters
+I, [2024-03-17T11:07:50.510733 #77126]  INFO -- : 13-things-mentally-strong-parents-dont-do-en; 0.002195; 10 chapters
+I, [2024-03-17T11:07:50.513848 #77126]  INFO -- : 13-things-mentally-strong-people-dont-do-en; 0.003089; 15 chapters
+I, [2024-03-17T11:07:50.516227 #77126]  INFO -- : 1491-en; 0.002338; 11 chapters
+I, [2024-03-17T11:07:50.518040 #77126]  INFO -- : 15-secrets-successful-people-know-about-time-management-en-kevin-kruse; 0.001782; 10 chapters
+I, [2024-03-17T11:07:50.520911 #77126]  INFO -- : 168-hours-en; 0.002838; 10 chapters
+I, [2024-03-17T11:07:50.521916 #77126]  INFO -- : 18-minutes-en; 0.000948; 7 chapters
+I, [2024-03-17T11:07:50.524555 #77126]  INFO -- : 2030-en; 0.002599; 10 chapters
+I, [2024-03-17T11:07:50.528382 #77126]  INFO -- : 21-days-to-a-big-idea-en; 0.003768; 9 chapters
+I, [2024-03-17T11:07:50.530423 #77126]  INFO -- : 21-lessons-for-the-21st-century-en; 0.001976; 8 chapters
+I, [2024-03-17T11:07:50.532811 #77126]  INFO -- : 21st-century-investing-en; 0.002355; 8 chapters
+I, [2024-03-17T11:07:50.534757 #77126]  INFO -- : 23-things-they-dont-tell-you-about-capitalism-en; 0.001835; 12 chapters
+I, [2024-03-17T11:07:50.536076 #77126]  INFO -- : 28-day-fast-start-day-by-day-en; 0.001282; 6 chapters
+I, [2024-03-17T11:07:50.537478 #77126]  INFO -- : 30-lessons-for-loving-en; 0.00137; 8 chapters
+I, [2024-03-17T11:07:50.539266 #77126]  INFO -- : 30-ways-to-reboot-your-body-en; 0.001737; 6 chapters
+I, [2024-03-17T11:07:50.541837 #77126]  INFO -- : 5-gears-en; 0.002484; 10 chapters
+I, [2024-03-17T11:07:50.543235 #77126]  INFO -- : 5-levels-of-leadership-en; 0.001359; 9 chapters
+I, [2024-03-17T11:07:50.552988 #77126]  INFO -- : 5-voices-en; 0.008121; 10 chapters
+I, [2024-03-17T11:07:50.558442 #77126]  INFO -- : 59-seconds-en; 0.00444; 10 chapters
+I, [2024-03-17T11:07:50.560075 #77126]  INFO -- : 60-seconds-and-youre-hired-en; 0.001593; 7 chapters
+I, [2024-03-17T11:07:50.562950 #77126]  INFO -- : 7-business-habits-that-drive-high-performance-en; 0.002849; 9 chapters
+I, [2024-03-17T11:07:50.564539 #77126]  INFO -- : 7-powers-en; 0.001566; 9 chapters
+I, [2024-03-17T11:07:50.566383 #77126]  INFO -- : 7-strategies-for-wealth-and-happiness-en; 0.00182; 9 chapters
+I, [2024-03-17T11:07:50.567650 #77126]  INFO -- : 8-secrets-to-powerful-manifesting-en; 0.001238; 10 chapters
+I, [2024-03-17T11:07:50.568572 #77126]  INFO -- : 80-slash-20-internet-lead-generation-en; 0.000893; 8 chapters
+I, [2024-03-17T11:07:50.569478 #77126]  INFO -- : 80-slash-20-sales-and-marketing-en; 0.000886; 6 chapters
+I, [2024-03-17T11:07:50.570629 #77126]  INFO -- : a-better-world-inc-en; 0.001124; 10 chapters
+I, [2024-03-17T11:07:50.571788 #77126]  INFO -- : a-bigger-prize-en; 0.001138; 8 chapters
+I, [2024-03-17T11:07:50.574467 #77126]  INFO -- : a-biography-of-loneliness-en; 0.002641; 10 chapters
+I, [2024-03-17T11:07:50.576603 #77126]  INFO -- : a-bone-to-pick-en; 0.002098; 8 chapters
+I, [2024-03-17T11:07:50.577787 #77126]  INFO -- : a-brief-history-of-everyone-who-ever-lived-en; 0.00116; 10 chapters
+I, [2024-03-17T11:07:50.579918 #77126]  INFO -- : a-brief-history-of-motion-en; 0.002098; 11 chapters
+I, [2024-03-17T11:07:50.581309 #77126]  INFO -- : a-brief-history-of-thought-en; 0.001367; 9 chapters
+I, [2024-03-17T11:07:50.584667 #77126]  INFO -- : a-brief-history-of-time-en; 0.003335; 14 chapters
+I, [2024-03-17T11:07:50.586098 #77126]  INFO -- : a-city-on-mars-en; 0.001406; 7 chapters
+I, [2024-03-17T11:07:50.587772 #77126]  INFO -- : a-complaint-free-world-en; 0.001653; 7 chapters
+I, [2024-03-17T11:07:50.588953 #77126]  INFO -- : a-court-of-thorns-and-roses-en; 0.001159; 7 chapters
+I, [2024-03-17T11:07:50.590292 #77126]  INFO -- : a-crack-in-creation-en; 0.001319; 10 chapters
+I, [2024-03-17T11:07:50.592159 #77126]  INFO -- : a-cure-for-the-common-company-en; 0.001842; 9 chapters
+I, [2024-03-17T11:08:02.834718 #77396]  INFO -- : 1-2-3-magic-en; 0.001974; 7 chapters
+I, [2024-03-17T11:08:02.837019 #77396]  INFO -- : 10-days-to-faster-reading-en; 0.00224; 8 chapters
+I, [2024-03-17T11:08:02.838829 #77396]  INFO -- : 10-leadership-virtues-for-disruptive-times-en; 0.001785; 9 chapters
+I, [2024-03-17T11:08:02.841001 #77396]  INFO -- : 10-percent-happier-en; 0.002148; 9 chapters
+I, [2024-03-17T11:08:02.842345 #77396]  INFO -- : 100-million-years-of-food-en; 0.001324; 9 chapters
+I, [2024-03-17T11:08:02.843575 #77396]  INFO -- : 100-things-every-designer-needs-to-know-about-people-en; 0.001211; 9 chapters
+I, [2024-03-17T11:08:02.844723 #77396]  INFO -- : 100-ways-to-change-your-life-en; 0.001126; 7 chapters
+I, [2024-03-17T11:08:02.845777 #77396]  INFO -- : 100m-leads-en; 0.001033; 7 chapters
+I, [2024-03-17T11:08:02.847278 #77396]  INFO -- : 100m-offers-en; 0.001485; 7 chapters
+I, [2024-03-17T11:08:02.849052 #77396]  INFO -- : 101-essays-that-will-change-the-way-you-think-en; 0.001723; 13 chapters
+I, [2024-03-17T11:08:02.850055 #77396]  INFO -- : 10x-is-easier-than-2x-en; 0.000973; 7 chapters
+I, [2024-03-17T11:08:02.851244 #77396]  INFO -- : 12-months-to-1-dollars-million-en; 0.001168; 6 chapters
+I, [2024-03-17T11:08:02.853414 #77396]  INFO -- : 12-rules-for-life-en; 0.002151; 14 chapters
+I, [2024-03-17T11:08:02.855507 #77396]  INFO -- : 13-things-mentally-strong-parents-dont-do-en; 0.002073; 10 chapters
+I, [2024-03-17T11:08:02.858193 #77396]  INFO -- : 13-things-mentally-strong-people-dont-do-en; 0.002668; 15 chapters
+I, [2024-03-17T11:08:02.859900 #77396]  INFO -- : 1491-en; 0.001687; 11 chapters
+I, [2024-03-17T11:08:02.861804 #77396]  INFO -- : 15-secrets-successful-people-know-about-time-management-en-kevin-kruse; 0.001886; 10 chapters
+I, [2024-03-17T11:08:02.863157 #77396]  INFO -- : 168-hours-en; 0.001331; 10 chapters
+I, [2024-03-17T11:08:02.863759 #77396]  INFO -- : 18-minutes-en; 0.000586; 7 chapters
+I, [2024-03-17T11:08:02.865471 #77396]  INFO -- : 2030-en; 0.001694; 10 chapters
+I, [2024-03-17T11:08:02.866839 #77396]  INFO -- : 21-days-to-a-big-idea-en; 0.001352; 9 chapters
+I, [2024-03-17T11:08:02.868065 #77396]  INFO -- : 21-lessons-for-the-21st-century-en; 0.001206; 8 chapters
+I, [2024-03-17T11:08:02.869028 #77396]  INFO -- : 21st-century-investing-en; 0.000945; 8 chapters
+I, [2024-03-17T11:08:02.870365 #77396]  INFO -- : 23-things-they-dont-tell-you-about-capitalism-en; 0.00103; 12 chapters
+I, [2024-03-17T11:08:02.871019 #77396]  INFO -- : 28-day-fast-start-day-by-day-en; 0.000632; 6 chapters
+I, [2024-03-17T11:08:02.871792 #77396]  INFO -- : 30-lessons-for-loving-en; 0.000755; 8 chapters
+I, [2024-03-17T11:08:02.872779 #77396]  INFO -- : 30-ways-to-reboot-your-body-en; 0.000968; 6 chapters
+I, [2024-03-17T11:08:02.873850 #77396]  INFO -- : 5-gears-en; 0.001043; 10 chapters
+I, [2024-03-17T11:08:02.874789 #77396]  INFO -- : 5-levels-of-leadership-en; 0.000916; 9 chapters
+I, [2024-03-17T11:08:02.883335 #77396]  INFO -- : 5-voices-en; 0.007148; 10 chapters
+I, [2024-03-17T11:08:02.886099 #77396]  INFO -- : 59-seconds-en; 0.001957; 10 chapters
+I, [2024-03-17T11:08:02.886964 #77396]  INFO -- : 60-seconds-and-youre-hired-en; 0.000836; 7 chapters
+I, [2024-03-17T11:08:02.889226 #77396]  INFO -- : 7-business-habits-that-drive-high-performance-en; 0.002219; 9 chapters
+I, [2024-03-17T11:08:02.890689 #77396]  INFO -- : 7-powers-en; 0.001421; 9 chapters
+I, [2024-03-17T11:08:02.893666 #77396]  INFO -- : 7-strategies-for-wealth-and-happiness-en; 0.002915; 9 chapters
+I, [2024-03-17T11:08:02.894873 #77396]  INFO -- : 8-secrets-to-powerful-manifesting-en; 0.001174; 10 chapters
+I, [2024-03-17T11:08:02.895919 #77396]  INFO -- : 80-slash-20-internet-lead-generation-en; 0.001004; 8 chapters
+I, [2024-03-17T11:08:02.898004 #77396]  INFO -- : 80-slash-20-sales-and-marketing-en; 0.000763; 6 chapters
+I, [2024-03-17T11:08:02.898840 #77396]  INFO -- : a-better-world-inc-en; 0.000816; 10 chapters
+I, [2024-03-17T11:08:02.899839 #77396]  INFO -- : a-bigger-prize-en; 0.000981; 8 chapters
+I, [2024-03-17T11:08:02.900780 #77396]  INFO -- : a-biography-of-loneliness-en; 0.000925; 10 chapters
+I, [2024-03-17T11:08:02.902213 #77396]  INFO -- : a-bone-to-pick-en; 0.001417; 8 chapters
+I, [2024-03-17T11:08:02.903056 #77396]  INFO -- : a-brief-history-of-everyone-who-ever-lived-en; 0.000827; 10 chapters
+I, [2024-03-17T11:08:02.906295 #77396]  INFO -- : a-brief-history-of-motion-en; 0.00321; 11 chapters
+I, [2024-03-17T11:08:02.908802 #77396]  INFO -- : a-brief-history-of-thought-en; 0.002398; 9 chapters
+I, [2024-03-17T11:08:02.911994 #77396]  INFO -- : a-brief-history-of-time-en; 0.003156; 14 chapters
+I, [2024-03-17T11:08:02.913087 #77396]  INFO -- : a-city-on-mars-en; 0.001072; 7 chapters
+I, [2024-03-17T11:08:02.914351 #77396]  INFO -- : a-complaint-free-world-en; 0.001241; 7 chapters
+I, [2024-03-17T11:08:02.915449 #77396]  INFO -- : a-court-of-thorns-and-roses-en; 0.00108; 7 chapters
+I, [2024-03-17T11:08:02.916877 #77396]  INFO -- : a-crack-in-creation-en; 0.001412; 10 chapters
+I, [2024-03-17T11:08:02.917739 #77396]  INFO -- : a-cure-for-the-common-company-en; 0.000844; 9 chapters
+I, [2024-03-17T11:08:37.630080 #78003]  INFO -- : 1-2-3-magic-en; 0.002089; 7 chapters
+I, [2024-03-17T11:08:37.632368 #78003]  INFO -- : 10-days-to-faster-reading-en; 0.002107; 8 chapters
+I, [2024-03-17T11:08:37.634234 #78003]  INFO -- : 10-leadership-virtues-for-disruptive-times-en; 0.00184; 9 chapters
+I, [2024-03-17T11:08:37.636498 #78003]  INFO -- : 10-percent-happier-en; 0.00224; 9 chapters
+I, [2024-03-17T11:08:37.638058 #78003]  INFO -- : 100-million-years-of-food-en; 0.001538; 9 chapters
+I, [2024-03-17T11:08:37.639465 #78003]  INFO -- : 100-things-every-designer-needs-to-know-about-people-en; 0.001388; 9 chapters
+I, [2024-03-17T11:08:37.640709 #78003]  INFO -- : 100-ways-to-change-your-life-en; 0.001226; 7 chapters
+I, [2024-03-17T11:08:37.642224 #78003]  INFO -- : 100m-leads-en; 0.001497; 7 chapters
+I, [2024-03-17T11:08:37.643586 #78003]  INFO -- : 100m-offers-en; 0.001343; 7 chapters
+I, [2024-03-17T11:08:37.645936 #78003]  INFO -- : 101-essays-that-will-change-the-way-you-think-en; 0.002305; 13 chapters
+I, [2024-03-17T11:08:37.647398 #78003]  INFO -- : 10x-is-easier-than-2x-en; 0.001213; 7 chapters
+I, [2024-03-17T11:08:37.651968 #78003]  INFO -- : 12-months-to-1-dollars-million-en; 0.001229; 6 chapters
+I, [2024-03-17T11:08:37.654701 #78003]  INFO -- : 12-rules-for-life-en; 0.002711; 14 chapters
+I, [2024-03-17T11:08:37.656847 #78003]  INFO -- : 13-things-mentally-strong-parents-dont-do-en; 0.002124; 10 chapters
+I, [2024-03-17T11:08:37.659825 #78003]  INFO -- : 13-things-mentally-strong-people-dont-do-en; 0.002955; 15 chapters
+I, [2024-03-17T11:08:37.661928 #78003]  INFO -- : 1491-en; 0.002073; 11 chapters
+I, [2024-03-17T11:08:37.663858 #78003]  INFO -- : 15-secrets-successful-people-know-about-time-management-en-kevin-kruse; 0.001895; 10 chapters
+I, [2024-03-17T11:08:37.666259 #78003]  INFO -- : 168-hours-en; 0.002358; 10 chapters
+I, [2024-03-17T11:08:37.667072 #78003]  INFO -- : 18-minutes-en; 0.000783; 7 chapters
+I, [2024-03-17T11:08:37.669024 #78003]  INFO -- : 2030-en; 0.001923; 10 chapters
+I, [2024-03-17T11:08:37.670587 #78003]  INFO -- : 21-days-to-a-big-idea-en; 0.001545; 9 chapters
+I, [2024-03-17T11:08:37.672108 #78003]  INFO -- : 21-lessons-for-the-21st-century-en; 0.001502; 8 chapters
+I, [2024-03-17T11:08:37.673223 #78003]  INFO -- : 21st-century-investing-en; 0.001087; 8 chapters
+I, [2024-03-17T11:08:37.674548 #78003]  INFO -- : 23-things-they-dont-tell-you-about-capitalism-en; 0.001304; 12 chapters
+I, [2024-03-17T11:08:37.676097 #78003]  INFO -- : 28-day-fast-start-day-by-day-en; 0.001526; 6 chapters
+I, [2024-03-17T11:08:37.676932 #78003]  INFO -- : 30-lessons-for-loving-en; 0.000813; 8 chapters
+I, [2024-03-17T11:08:37.677890 #78003]  INFO -- : 30-ways-to-reboot-your-body-en; 0.00094; 6 chapters
+I, [2024-03-17T11:08:37.679245 #78003]  INFO -- : 5-gears-en; 0.001337; 10 chapters
+I, [2024-03-17T11:08:37.680147 #78003]  INFO -- : 5-levels-of-leadership-en; 0.000883; 9 chapters
+I, [2024-03-17T11:08:37.685286 #78003]  INFO -- : 5-voices-en; 0.003803; 10 chapters
+I, [2024-03-17T11:08:37.688191 #78003]  INFO -- : 59-seconds-en; 0.002043; 10 chapters
+I, [2024-03-17T11:08:37.689272 #78003]  INFO -- : 60-seconds-and-youre-hired-en; 0.001062; 7 chapters
+I, [2024-03-17T11:08:37.691379 #78003]  INFO -- : 7-business-habits-that-drive-high-performance-en; 0.002085; 9 chapters
+I, [2024-03-17T11:08:37.693124 #78003]  INFO -- : 7-powers-en; 0.001727; 9 chapters
+I, [2024-03-17T11:08:37.694958 #78003]  INFO -- : 7-strategies-for-wealth-and-happiness-en; 0.001806; 9 chapters
+I, [2024-03-17T11:08:37.696304 #78003]  INFO -- : 8-secrets-to-powerful-manifesting-en; 0.001329; 10 chapters
+I, [2024-03-17T11:08:37.697342 #78003]  INFO -- : 80-slash-20-internet-lead-generation-en; 0.001022; 8 chapters
+I, [2024-03-17T11:08:37.698351 #78003]  INFO -- : 80-slash-20-sales-and-marketing-en; 0.000988; 6 chapters
+I, [2024-03-17T11:08:37.699969 #78003]  INFO -- : a-better-world-inc-en; 0.001597; 10 chapters
+I, [2024-03-17T11:08:37.701274 #78003]  INFO -- : a-bigger-prize-en; 0.001275; 8 chapters
+I, [2024-03-17T11:08:37.703691 #78003]  INFO -- : a-biography-of-loneliness-en; 0.002397; 10 chapters
+I, [2024-03-17T11:08:37.707189 #78003]  INFO -- : a-bone-to-pick-en; 0.003476; 8 chapters
+I, [2024-03-17T11:08:37.708784 #78003]  INFO -- : a-brief-history-of-everyone-who-ever-lived-en; 0.001563; 10 chapters
+I, [2024-03-17T11:08:37.711866 #78003]  INFO -- : a-brief-history-of-motion-en; 0.003064; 11 chapters
+I, [2024-03-17T11:08:37.713198 #78003]  INFO -- : a-brief-history-of-thought-en; 0.001317; 9 chapters
+I, [2024-03-17T11:08:37.716535 #78003]  INFO -- : a-brief-history-of-time-en; 0.003321; 14 chapters
+I, [2024-03-17T11:08:37.717893 #78003]  INFO -- : a-city-on-mars-en; 0.001343; 7 chapters
+I, [2024-03-17T11:08:37.719428 #78003]  INFO -- : a-complaint-free-world-en; 0.001519; 7 chapters
+I, [2024-03-17T11:08:37.720596 #78003]  INFO -- : a-court-of-thorns-and-roses-en; 0.001147; 7 chapters
+I, [2024-03-17T11:08:37.722035 #78003]  INFO -- : a-crack-in-creation-en; 0.001413; 10 chapters
+I, [2024-03-17T11:08:37.723385 #78003]  INFO -- : a-cure-for-the-common-company-en; 0.001328; 9 chapters
+I, [2024-03-17T11:08:37.725035 #78003]  INFO -- : a-first-rate-madness-en; 0.001382; 7 chapters
+I, [2024-03-17T11:08:37.727924 #78003]  INFO -- : a-force-for-good-en; 0.002867; 14 chapters
+I, [2024-03-17T11:08:37.730068 #78003]  INFO -- : a-general-theory-of-love-en; 0.002109; 10 chapters
+I, [2024-03-17T11:08:37.731442 #78003]  INFO -- : a-guide-to-the-good-life-en; 0.001348; 11 chapters
+I, [2024-03-17T11:08:37.732824 #78003]  INFO -- : a-handbook-for-new-stoics-en; 0.001349; 10 chapters
+I, [2024-03-17T11:08:37.734436 #78003]  INFO -- : a-higher-loyalty-en; 0.001581; 13 chapters
+I, [2024-03-17T11:08:37.737113 #78003]  INFO -- : a-history-of-god-en; 0.00258; 13 chapters
+I, [2024-03-17T11:08:37.739710 #78003]  INFO -- : a-history-of-nigeria-en; 0.002541; 12 chapters
+I, [2024-03-17T11:08:37.744233 #78003]  INFO -- : a-history-of-the-world-in-6-glasses-en; 0.004449; 10 chapters
+I, [2024-03-17T11:08:37.746194 #78003]  INFO -- : a-hope-more-powerful-than-the-sea-en; 0.001889; 8 chapters
+I, [2024-03-17T11:08:37.748401 #78003]  INFO -- : a-hunter-gatherers-guide-to-the-21st-century-en; 0.002177; 8 chapters
+I, [2024-03-17T11:08:37.750586 #78003]  INFO -- : a-life-decoded-en; 0.002164; 10 chapters
+I, [2024-03-17T11:08:37.751631 #78003]  INFO -- : a-life-on-our-planet-en; 0.001028; 8 chapters
+I, [2024-03-17T11:08:37.753670 #78003]  INFO -- : a-little-history-of-economics-en; 0.002022; 11 chapters
+I, [2024-03-17T11:08:37.754830 #78003]  INFO -- : a-little-history-of-philosophy-en; 0.001145; 9 chapters
+I, [2024-03-17T11:08:37.756356 #78003]  INFO -- : a-little-life-en; 0.001509; 8 chapters
+I, [2024-03-17T11:08:37.758286 #78003]  INFO -- : a-long-way-gone-en; 0.001915; 9 chapters
+I, [2024-03-17T11:08:37.759334 #78003]  INFO -- : a-message-to-garcia-en; 0.00103; 6 chapters
+I, [2024-03-17T11:08:37.760892 #78003]  INFO -- : a-million-years-in-a-day-en; 0.001542; 8 chapters
+I, [2024-03-17T11:08:37.762114 #78003]  INFO -- : a-mind-for-numbers-en; 0.001207; 10 chapters
+I, [2024-03-17T11:08:37.763463 #78003]  INFO -- : a-minute-to-think-en; 0.001332; 9 chapters
+I, [2024-03-17T11:08:37.765179 #78003]  INFO -- : a-monks-guide-to-happiness-en; 0.001702; 10 chapters
+I, [2024-03-17T11:08:37.766372 #78003]  INFO -- : a-more-beautiful-question-en; 0.001176; 8 chapters
+I, [2024-03-17T11:08:37.768370 #78003]  INFO -- : a-new-earth-en; 0.001984; 8 chapters
+I, [2024-03-17T11:08:37.769594 #78003]  INFO -- : a-new-way-for-mothers-en; 0.001209; 8 chapters
+I, [2024-03-17T11:08:37.770390 #78003]  INFO -- : a-new-way-to-think-en; 0.000779; 3 chapters
+I, [2024-03-17T11:08:37.772967 #78003]  INFO -- : a-peace-to-end-all-peace-en-david-fromkin; 0.002556; 14 chapters
+I, [2024-03-17T11:08:37.775012 #78003]  INFO -- : a-people-betrayed-en; 0.002024; 12 chapters
+I, [2024-03-17T11:08:37.778274 #78003]  INFO -- : a-peoples-history-of-the-united-states-en; 0.003245; 16 chapters
+I, [2024-03-17T11:08:37.779334 #78003]  INFO -- : a-planet-of-viruses-en; 0.001042; 7 chapters
+I, [2024-03-17T11:08:37.781158 #78003]  INFO -- : a-promised-land-en; 0.001807; 12 chapters
+I, [2024-03-17T11:08:37.781910 #78003]  INFO -- : a-radical-awakening-en; 0.000737; 6 chapters
+I, [2024-03-17T11:08:37.782281 #78003]  INFO -- : a-random-walk-down-wall-street-en; 0.000356; 3 chapters
+I, [2024-03-17T11:08:37.784220 #78003]  INFO -- : a-really-good-day-en; 0.001921; 10 chapters
+I, [2024-03-17T11:08:37.785283 #78003]  INFO -- : a-return-to-love-en; 0.001035; 9 chapters
+I, [2024-03-17T11:08:37.786181 #78003]  INFO -- : a-river-in-darkness-en; 0.000884; 8 chapters
+I, [2024-03-17T11:08:37.787271 #78003]  INFO -- : a-room-of-ones-own-en; 0.001072; 8 chapters
+I, [2024-03-17T11:08:37.788686 #78003]  INFO -- : a-rose-for-emily-en; 0.001397; 7 chapters
+I, [2024-03-17T11:08:37.790738 #78003]  INFO -- : a-short-history-of-brexit-en; 0.002032; 12 chapters
+I, [2024-03-17T11:08:37.793306 #78003]  INFO -- : a-short-history-of-nearly-everything-en; 0.002551; 15 chapters
+I, [2024-03-17T11:08:37.794357 #78003]  INFO -- : a-sky-full-of-birds-en; 0.001036; 9 chapters
+I, [2024-03-17T11:08:37.795435 #78003]  INFO -- : a-slash-b-testing-en; 0.001064; 9 chapters
+I, [2024-03-17T11:08:37.797950 #78003]  INFO -- : a-splendid-exchange-en; 0.0025; 11 chapters
+I, [2024-03-17T11:08:37.799723 #78003]  INFO -- : a-spy-among-friends-en; 0.001753; 12 chapters
+I, [2024-03-17T11:08:37.800803 #78003]  INFO -- : a-tale-of-two-cities-en; 0.001062; 5 chapters
+I, [2024-03-17T11:08:37.802151 #78003]  INFO -- : a-team-of-leaders-en; 0.001333; 7 chapters
+I, [2024-03-17T11:08:37.802758 #78003]  INFO -- : a-theory-of-justice-en; 0.000592; 4 chapters
+I, [2024-03-17T11:08:37.803872 #78003]  INFO -- : a-thousand-brains-en; 0.000946; 7 chapters
+I, [2024-03-17T11:08:37.804890 #78003]  INFO -- : a-very-english-scandal-en; 0.001002; 8 chapters
+I, [2024-03-17T11:08:37.807371 #78003]  INFO -- : a-very-stable-genius-en; 0.002466; 9 chapters
+I, [2024-03-17T11:08:37.808677 #78003]  INFO -- : a-vindication-of-the-rights-of-woman-en; 0.001284; 7 chapters
+I, [2024-03-17T11:08:37.810444 #78003]  INFO -- : a-walk-in-the-woods-en; 0.001739; 12 chapters
+I, [2024-03-17T11:08:37.812191 #78003]  INFO -- : a-warning-en; 0.001733; 10 chapters
+I, [2024-03-17T11:08:37.813810 #78003]  INFO -- : a-wealth-of-common-sense-en; 0.001605; 8 chapters
+I, [2024-03-17T11:08:37.815179 #78003]  INFO -- : a-whole-new-mind-en; 0.00135; 10 chapters
+I, [2024-03-17T11:08:37.817021 #78003]  INFO -- : a-woman-of-no-importance-en; 0.001826; 11 chapters
+I, [2024-03-17T11:08:37.818293 #78003]  INFO -- : a-world-gone-social-en; 0.001258; 10 chapters
+I, [2024-03-17T11:08:37.820126 #78003]  INFO -- : a-world-in-disarray-en; 0.001819; 9 chapters
+I, [2024-03-17T11:08:37.821398 #78003]  INFO -- : a-world-without-email-en; 0.001256; 10 chapters
+I, [2024-03-17T11:08:37.822985 #78003]  INFO -- : a-world-without-ice-en; 0.001568; 9 chapters
+I, [2024-03-17T11:08:37.824741 #78003]  INFO -- : a-world-without-work-en; 0.001738; 9 chapters
+I, [2024-03-17T11:08:37.825811 #78003]  INFO -- : a-year-in-the-life-of-william-shakespeare-en; 0.001052; 9 chapters
+I, [2024-03-17T11:08:37.827126 #78003]  INFO -- : a-year-of-positive-thinking-en; 0.001298; 14 chapters
+I, [2024-03-17T11:08:37.827942 #78003]  INFO -- : a-year-of-self-care-en; 0.000802; 7 chapters
+I, [2024-03-17T11:08:37.829488 #78003]  INFO -- : a-year-with-peter-drucker-en; 0.001532; 9 chapters
+I, [2024-03-17T11:08:37.830651 #78003]  INFO -- : abortion-and-the-law-in-america-en; 0.001146; 7 chapters
+I, [2024-03-17T11:08:37.831894 #78003]  INFO -- : abundance-en-deepak-chopra; 0.001228; 7 chapters
+I, [2024-03-17T11:08:37.834302 #78003]  INFO -- : accelerate-en; 0.002394; 7 chapters
+I, [2024-03-17T11:08:37.835359 #78003]  INFO -- : accelerating-performance-en; 0.00104; 7 chapters
+I, [2024-03-17T11:08:37.837599 #78003]  INFO -- : accessing-the-healing-power-of-the-vagus-nerve-en; 0.002227; 8 chapters
+I, [2024-03-17T11:08:37.838830 #78003]  INFO -- : accidental-genius-en; 0.001215; 10 chapters
+I, [2024-03-17T11:08:37.839850 #78003]  INFO -- : accounting-for-non-accountants-en; 0.001005; 8 chapters
+I, [2024-03-17T11:08:37.840707 #78003]  INFO -- : accounting-made-simple-en; 0.000843; 8 chapters
+I, [2024-03-17T11:08:37.841407 #78003]  INFO -- : achieve-more-by-working-less-en; 0.000686; 5 chapters
+I, [2024-03-17T11:08:37.842357 #78003]  INFO -- : across-that-bridge-en; 0.000932; 9 chapters
+I, [2024-03-17T11:08:37.844155 #78003]  INFO -- : acting-with-power-en; 0.001777; 10 chapters
+I, [2024-03-17T11:08:37.845675 #78003]  INFO -- : activate-your-brain-en; 0.001493; 10 chapters
+I, [2024-03-17T11:08:37.847338 #78003]  INFO -- : activate-your-greatness-en; 0.001646; 6 chapters
+I, [2024-03-17T11:08:37.848848 #78003]  INFO -- : adaptability-en; 0.001492; 10 chapters
+I, [2024-03-17T11:08:37.850719 #78003]  INFO -- : adaptive-markets-en; 0.001851; 10 chapters
+I, [2024-03-17T11:08:37.851694 #78003]  INFO -- : adaptive-resilience-en; 0.000957; 7 chapters
+I, [2024-03-17T11:08:37.852734 #78003]  INFO -- : adhd-2-dot-0-en; 0.001025; 8 chapters
+I, [2024-03-17T11:08:37.853845 #78003]  INFO -- : adhd-an-a-z-en; 0.001094; 6 chapters
+I, [2024-03-17T11:08:37.854700 #78003]  INFO -- : adhd-for-smart-ass-women-en; 0.000838; 6 chapters
+I, [2024-03-17T11:08:37.855948 #78003]  INFO -- : adrift-en; 0.001233; 7 chapters
+I, [2024-03-17T11:08:37.857392 #78003]  INFO -- : adult-children-of-emotionally-immature-parents-en; 0.001427; 8 chapters
+I, [2024-03-17T11:08:37.858805 #78003]  INFO -- : adult-daughters-of-narcissistic-mothers-en; 0.001397; 6 chapters
+I, [2024-03-17T11:08:37.859734 #78003]  INFO -- : adults-in-the-room-en; 0.000911; 9 chapters
+I, [2024-03-17T11:08:37.860815 #78003]  INFO -- : adventures-in-human-being-en; 0.001067; 9 chapters
+I, [2024-03-17T11:08:37.862765 #78003]  INFO -- : adventures-in-the-anthropocene-en; 0.001933; 12 chapters
+I, [2024-03-17T11:08:37.864432 #78003]  INFO -- : advice-not-given-en; 0.001653; 10 chapters
+I, [2024-03-17T11:08:37.866462 #78003]  INFO -- : affluenza-en; 0.002016; 11 chapters
+I, [2024-03-17T11:08:37.867950 #78003]  INFO -- : afropean-en; 0.001471; 11 chapters
+I, [2024-03-17T11:08:37.869450 #78003]  INFO -- : after-the-fall-en; 0.001474; 9 chapters
+I, [2024-03-17T11:08:37.870826 #78003]  INFO -- : against-creativity-en; 0.001354; 8 chapters
+I, [2024-03-17T11:08:37.872688 #78003]  INFO -- : against-empathy-en; 0.001849; 9 chapters
+I, [2024-03-17T11:08:37.873517 #78003]  INFO -- : age-of-anger-en; 0.000815; 7 chapters
+I, [2024-03-17T11:08:37.874547 #78003]  INFO -- : age-of-discovery-en; 0.001016; 9 chapters
+I, [2024-03-17T11:08:37.875625 #78003]  INFO -- : age-of-propaganda-en; 0.001061; 11 chapters
+I, [2024-03-17T11:08:37.877338 #78003]  INFO -- : agent-sonya-en; 0.0017; 10 chapters
+I, [2024-03-17T11:08:37.878407 #78003]  INFO -- : agile-selling-en; 0.001046; 9 chapters
+I, [2024-03-17T11:08:37.879832 #78003]  INFO -- : ai-2041-en; 0.001405; 11 chapters
+I, [2024-03-17T11:08:37.880817 #78003]  INFO -- : ai-superpowers-en; 0.000969; 9 chapters
+I, [2024-03-17T11:08:37.882218 #78003]  INFO -- : aint-i-a-woman-en; 0.001386; 9 chapters
+I, [2024-03-17T11:08:37.883412 #78003]  INFO -- : alchemy-en; 0.001177; 9 chapters
+I, [2024-03-17T11:08:37.884465 #78003]  INFO -- : alcoholics-anonymous-en; 0.001038; 7 chapters
+I, [2024-03-17T11:08:37.885876 #78003]  INFO -- : alex-and-me-en; 0.001393; 9 chapters
+I, [2024-03-17T11:08:37.887869 #78003]  INFO -- : alexander-hamilton-en; 0.001979; 17 chapters
+I, [2024-03-17T11:08:37.891104 #78003]  INFO -- : alexander-the-great-en; 0.00322; 14 chapters
+I, [2024-03-17T11:08:37.893722 #78003]  INFO -- : algorithms-to-live-by-en; 0.002572; 12 chapters
+I, [2024-03-17T11:08:37.895625 #78003]  INFO -- : ali-en; 0.001862; 12 chapters
+I, [2024-03-17T11:08:37.897784 #78003]  INFO -- : alibaba-en; 0.002121; 10 chapters
+I, [2024-03-17T11:08:37.899414 #78003]  INFO -- : alibabas-world-en; 0.001599; 9 chapters
+I, [2024-03-17T11:08:37.900587 #78003]  INFO -- : alien-thinking-en; 0.001142; 8 chapters
+I, [2024-03-17T11:08:37.901549 #78003]  INFO -- : all-about-love-en; 0.000925; 8 chapters
+I, [2024-03-17T11:08:37.903105 #78003]  INFO -- : all-about-me-en; 0.00154; 10 chapters
+I, [2024-03-17T11:08:37.904017 #78003]  INFO -- : all-boys-arent-blue-en; 0.000896; 5 chapters
+I, [2024-03-17T11:08:37.905260 #78003]  INFO -- : all-creatures-great-and-small-en; 0.001211; 9 chapters
+I, [2024-03-17T11:08:37.906188 #78003]  INFO -- : all-in-en-mike-michalowicz; 0.000899; 7 chapters
+I, [2024-03-17T11:08:37.907937 #78003]  INFO -- : all-in-en; 0.001734; 13 chapters
+I, [2024-03-17T11:08:37.908432 #78003]  INFO -- : all-in-on-ai-en; 0.000459; 3 chapters
+I, [2024-03-17T11:08:37.909912 #78003]  INFO -- : all-joy-and-no-fun-en; 0.001457; 8 chapters
+I, [2024-03-17T11:08:37.911423 #78003]  INFO -- : all-marketers-are-liars-en; 0.001477; 8 chapters
+I, [2024-03-17T11:08:37.912444 #78003]  INFO -- : all-my-knotted-up-life-en; 0.001002; 8 chapters
+I, [2024-03-17T11:08:37.914835 #78003]  INFO -- : all-the-frequent-troubles-of-our-days-en; 0.002374; 11 chapters
+I, [2024-03-17T11:08:37.915781 #78003]  INFO -- : all-the-sinners-bleed-en; 0.000919; 6 chapters
+I, [2024-03-17T11:08:37.916552 #78003]  INFO -- : all-work-no-play-en; 0.000756; 8 chapters
+I, [2024-03-17T11:08:37.918292 #78003]  INFO -- : all-you-have-to-do-is-ask-en; 0.001725; 10 chapters
+I, [2024-03-17T11:08:37.919278 #78003]  INFO -- : allen-carrs-easy-way-to-quit-emotional-eating-en; 0.000971; 7 chapters
+I, [2024-03-17T11:08:37.922742 #78003]  INFO -- : alone-together-en; 0.003441; 13 chapters
+I, [2024-03-17T11:08:37.924814 #78003]  INFO -- : altered-traits-en; 0.002013; 10 chapters
+I, [2024-03-17T11:08:37.927133 #78003]  INFO -- : altruism-en; 0.002291; 11 chapters
+I, [2024-03-17T11:08:37.929345 #78003]  INFO -- : always-hungry-en; 0.00219; 10 chapters
+I, [2024-03-17T11:08:37.931481 #78003]  INFO -- : amazon-en; 0.00212; 10 chapters
+I, [2024-03-17T11:08:37.935480 #78003]  INFO -- : america-before-en; 0.003979; 12 chapters
+I, [2024-03-17T11:08:37.937511 #78003]  INFO -- : american-carnage-en; 0.00201; 10 chapters
+I, [2024-03-17T11:08:37.939402 #78003]  INFO -- : american-crisis-en; 0.001876; 10 chapters
+I, [2024-03-17T11:08:37.940884 #78003]  INFO -- : american-kompromat-en; 0.001455; 8 chapters
+I, [2024-03-17T11:08:37.943379 #78003]  INFO -- : american-lion-en; 0.002479; 13 chapters
+I, [2024-03-17T11:08:37.944691 #78003]  INFO -- : american-prometheus-en; 0.001294; 7 chapters
+I, [2024-03-17T11:08:37.945904 #78003]  INFO -- : american-psycho-en; 0.001195; 6 chapters
+I, [2024-03-17T11:08:37.948264 #78003]  INFO -- : american-savage-en; 0.002345; 10 chapters
+I, [2024-03-17T11:08:37.950412 #78003]  INFO -- : americana-en; 0.00213; 13 chapters
+I, [2024-03-17T11:08:37.951990 #78003]  INFO -- : americas-bank-en; 0.001556; 10 chapters
+I, [2024-03-17T11:08:37.952959 #78003]  INFO -- : amp-it-up-en; 0.000948; 8 chapters
+I, [2024-03-17T11:08:37.953834 #78003]  INFO -- : amusing-ourselves-to-death-en; 0.00086; 8 chapters
+I, [2024-03-17T11:08:37.956743 #78003]  INFO -- : an-american-sickness-en; 0.002893; 12 chapters
+I, [2024-03-17T11:08:37.958124 #78003]  INFO -- : an-astronauts-guide-to-life-on-earth-en; 0.001362; 8 chapters
+I, [2024-03-17T11:08:37.960008 #78003]  INFO -- : an-audience-of-one-en; 0.001867; 10 chapters
+I, [2024-03-17T11:08:37.963525 #78003]  INFO -- : an-autobiography-en; 0.003499; 13 chapters
+I, [2024-03-17T11:08:37.965076 #78003]  INFO -- : an-economist-walks-into-a-brothel-en; 0.001537; 8 chapters
+I, [2024-03-17T11:08:37.967443 #78003]  INFO -- : an-elegant-defense-en; 0.002352; 13 chapters
+I, [2024-03-17T11:08:37.968945 #78003]  INFO -- : an-enquiry-concerning-human-understanding-en; 0.001487; 9 chapters
+I, [2024-03-17T11:08:37.970839 #78003]  INFO -- : an-immense-world-en; 0.001879; 6 chapters
+I, [2024-03-17T11:08:37.972117 #78003]  INFO -- : an-ordinary-man-en; 0.001263; 6 chapters
+I, [2024-03-17T11:08:37.973584 #78003]  INFO -- : an-ugly-truth-en; 0.001452; 10 chapters
+I, [2024-03-17T11:08:37.974977 #78003]  INFO -- : analysis-without-paralysis-en; 0.001379; 12 chapters
+I, [2024-03-17T11:08:37.976639 #78003]  INFO -- : anarchism-en; 0.001645; 7 chapters
+I, [2024-03-17T11:08:37.978548 #78003]  INFO -- : anatomy-of-an-epidemic-en; 0.001895; 9 chapters
+I, [2024-03-17T11:08:37.980843 #78003]  INFO -- : ancient-egypt-en; 0.002277; 9 chapters
+I, [2024-03-17T11:08:37.982279 #78003]  INFO -- : and-finally-en; 0.001418; 7 chapters
+I, [2024-03-17T11:08:37.983776 #78003]  INFO -- : and-the-good-news-is-dot-dot-dot-en; 0.001483; 8 chapters
+I, [2024-03-17T11:08:37.986086 #78003]  INFO -- : and-there-was-light-en; 0.002292; 10 chapters
+I, [2024-03-17T11:08:37.987857 #78003]  INFO -- : anger-management-for-dummies-en; 0.001752; 8 chapters
+I, [2024-03-17T11:08:37.989908 #78003]  INFO -- : angrynomics-en; 0.002034; 7 chapters
+I, [2024-03-17T11:08:37.991268 #78003]  INFO -- : animal-farm-en; 0.001343; 6 chapters
+I, [2024-03-17T11:08:37.993569 #78003]  INFO -- : anticipate-en; 0.002285; 9 chapters
+I, [2024-03-17T11:08:37.996147 #78003]  INFO -- : antifragile-en; 0.002555; 13 chapters
+I, [2024-03-17T11:08:37.997478 #78003]  INFO -- : antigone-en; 0.001313; 6 chapters
+I, [2024-03-17T11:08:37.999250 #78003]  INFO -- : antimatter-en; 0.001755; 8 chapters
+I, [2024-03-17T11:08:38.001177 #78003]  INFO -- : anxiety-at-work-en; 0.00191; 9 chapters
+I, [2024-03-17T11:08:38.003491 #78003]  INFO -- : anxious-en; 0.002298; 11 chapters
+I, [2024-03-17T11:08:38.004710 #78003]  INFO -- : anything-you-want-en; 0.001205; 8 chapters
+I, [2024-03-17T11:08:38.007015 #78003]  INFO -- : apollos-arrow-en; 0.00229; 10 chapters
+I, [2024-03-17T11:08:38.009261 #78003]  INFO -- : arabs-en; 0.002231; 11 chapters
+I, [2024-03-17T11:08:38.011382 #78003]  INFO -- : architects-of-intelligence-en; 0.002105; 10 chapters
+I, [2024-03-17T11:08:38.013332 #78003]  INFO -- : are-you-fully-charged-en; 0.001936; 9 chapters
+I, [2024-03-17T11:08:38.015051 #78003]  INFO -- : arete-en; 0.001704; 6 chapters
+I, [2024-03-17T11:08:38.017234 #78003]  INFO -- : arise-awake-en; 0.002167; 8 chapters
+I, [2024-03-17T11:08:38.019386 #78003]  INFO -- : aristotles-way-en; 0.002134; 9 chapters
+I, [2024-03-17T11:08:38.021457 #78003]  INFO -- : art-inc-en; 0.002055; 9 chapters
+I, [2024-03-17T11:08:38.022124 #78003]  INFO -- : article-why-cant-the-worlds-greatest-minds-solve-the-mystery-of-consciousness-en; 0.000632; 2 chapters
+I, [2024-03-17T11:08:38.023468 #78003]  INFO -- : as-a-man-thinketh-en; 0.001324; 6 chapters
+I, [2024-03-17T11:08:38.025656 #78003]  INFO -- : ask-en; 0.002169; 9 chapters
+I, [2024-03-17T11:08:38.028207 #78003]  INFO -- : ask-for-it-en; 0.002536; 10 chapters
+I, [2024-03-17T11:08:38.030030 #78003]  INFO -- : ask-me-about-my-uterus-en; 0.001805; 9 chapters
+I, [2024-03-17T11:08:38.031530 #78003]  INFO -- : asking-for-it-en; 0.001484; 10 chapters
+I, [2024-03-17T11:08:38.033599 #78003]  INFO -- : astor-en; 0.002055; 8 chapters
+I, [2024-03-17T11:08:38.035219 #78003]  INFO -- : astroball-en; 0.001605; 10 chapters
+I, [2024-03-17T11:08:38.037351 #78003]  INFO -- : at-home-en; 0.002116; 8 chapters
+I, [2024-03-17T11:08:38.038722 #78003]  INFO -- : at-the-existentialist-cafe-en; 0.001352; 11 chapters
+I, [2024-03-17T11:08:38.039946 #78003]  INFO -- : at-your-best-en; 0.001203; 8 chapters
+I, [2024-03-17T11:08:38.041927 #78003]  INFO -- : atlas-of-the-heart-en; 0.001963; 10 chapters
+I, [2024-03-17T11:08:38.042855 #78003]  INFO -- : atlas-shrugged-en; 0.000908; 5 chapters
+I, [2024-03-17T11:08:38.045157 #78003]  INFO -- : atomic-accidents-en; 0.002283; 8 chapters
+I, [2024-03-17T11:08:38.046920 #78003]  INFO -- : atomic-habits-en; 0.001747; 9 chapters
+I, [2024-03-17T11:08:38.048880 #78003]  INFO -- : attached-en; 0.001943; 10 chapters
+I, [2024-03-17T11:08:38.051218 #78003]  INFO -- : attention-span-en; 0.002323; 7 chapters
+I, [2024-03-17T11:08:38.052083 #78003]  INFO -- : attitude-reflects-leadership-en; 0.000847; 7 chapters
+I, [2024-03-17T11:08:38.053552 #78003]  INFO -- : austerity-en-alberto-alesina-carlo-favero-and-francesco-giavazzi; 0.001454; 9 chapters
+I, [2024-03-17T11:08:38.054852 #78003]  INFO -- : austerity-en; 0.001285; 8 chapters
+I, [2024-03-17T11:08:38.056329 #78003]  INFO -- : autobiography-of-a-yogi-en; 0.001463; 7 chapters
+I, [2024-03-17T11:08:38.058401 #78003]  INFO -- : autonomy-en; 0.002056; 10 chapters
+I, [2024-03-17T11:08:38.060300 #78003]  INFO -- : awaken-your-genius-en; 0.001871; 8 chapters
+I, [2024-03-17T11:08:38.062032 #78003]  INFO -- : awakening-compassion-at-work-en; 0.001714; 10 chapters
+I, [2024-03-17T11:08:38.063190 #78003]  INFO -- : awakening-your-ikigai-en; 0.001143; 7 chapters
+I, [2024-03-17T11:08:38.064397 #78003]  INFO -- : aware-en; 0.001189; 10 chapters
+I, [2024-03-17T11:08:38.065277 #78003]  INFO -- : awe-en; 0.000863; 6 chapters
+I, [2024-03-17T11:08:38.066197 #78003]  INFO -- : ayurveda-en; 0.000906; 8 chapters
+I, [2024-03-17T11:08:38.066797 #78003]  INFO -- : baby-steps-millionaires-en; 0.000582; 6 chapters
+I, [2024-03-17T11:08:38.069308 #78003]  INFO -- : back-channel-to-cuba-en; 0.002495; 16 chapters
+I, [2024-03-17T11:08:38.070528 #78003]  INFO -- : back-to-human-en; 0.001205; 9 chapters
+I, [2024-03-17T11:08:38.071840 #78003]  INFO -- : bad-blood-en; 0.001296; 9 chapters
+I, [2024-03-17T11:08:38.073207 #78003]  INFO -- : bad-feminist-en; 0.001347; 7 chapters
+I, [2024-03-17T11:08:38.074540 #78003]  INFO -- : bad-science-en; 0.001313; 11 chapters
+I, [2024-03-17T11:08:38.075832 #78003]  INFO -- : badass-habits-en; 0.001277; 7 chapters
+I, [2024-03-17T11:08:38.076891 #78003]  INFO -- : bank-investing-en; 0.001044; 6 chapters
+I, [2024-03-17T11:08:38.078979 #78003]  INFO -- : barbarians-at-the-gate-en; 0.002074; 10 chapters
+I, [2024-03-17T11:08:38.080999 #78003]  INFO -- : bargaining-for-advantage-en; 0.002006; 10 chapters
+I, [2024-03-17T11:08:38.082166 #78003]  INFO -- : barking-up-the-wrong-tree-en; 0.001153; 8 chapters
+I, [2024-03-17T11:08:38.083896 #78003]  INFO -- : bartleby-the-scrivener-en; 0.001713; 5 chapters
+I, [2024-03-17T11:08:38.084804 #78003]  INFO -- : basic-economics-en; 0.000889; 6 chapters
+I, [2024-03-17T11:08:38.086240 #78003]  INFO -- : battle-hymn-of-the-tiger-mother-en; 0.001419; 7 chapters
+I, [2024-03-17T11:08:38.087903 #78003]  INFO -- : be-a-free-range-human-en; 0.001646; 9 chapters
+I, [2024-03-17T11:08:38.089707 #78003]  INFO -- : be-fearless-en; 0.00179; 10 chapters
+I, [2024-03-17T11:08:38.091211 #78003]  INFO -- : be-obsessed-or-be-average-en; 0.001479; 9 chapters
+I, [2024-03-17T11:08:38.092433 #78003]  INFO -- : be-our-guest-en; 0.001205; 9 chapters
+I, [2024-03-17T11:08:38.093855 #78003]  INFO -- : be-seen-en; 0.001405; 7 chapters
+I, [2024-03-17T11:08:38.095806 #78003]  INFO -- : be-the-love-en; 0.00193; 9 chapters
+I, [2024-03-17T11:08:38.097476 #78003]  INFO -- : be-the-unicorn-en; 0.001653; 8 chapters
+I, [2024-03-17T11:08:38.099017 #78003]  INFO -- : be-useful-en; 0.001525; 9 chapters
+I, [2024-03-17T11:08:38.100487 #78003]  INFO -- : be-water-my-friend-en; 0.001455; 7 chapters
+I, [2024-03-17T11:08:38.102433 #78003]  INFO -- : be-where-your-feet-are-en; 0.001931; 8 chapters
+I, [2024-03-17T11:08:38.103637 #78003]  INFO -- : be-your-future-self-now-en; 0.001187; 8 chapters
+I, [2024-03-17T11:08:38.104794 #78003]  INFO -- : beat-gender-bias-en; 0.001142; 8 chapters
+I, [2024-03-17T11:08:38.106743 #78003]  INFO -- : beat-sugar-addiction-now-en; 0.001933; 10 chapters
+I, [2024-03-17T11:08:38.108428 #78003]  INFO -- : beautiful-game-theory-en; 0.001663; 9 chapters
+I, [2024-03-17T11:08:38.109754 #78003]  INFO -- : because-internet-en; 0.00131; 9 chapters
+I, [2024-03-17T11:08:38.111775 #78003]  INFO -- : becoming-attached-en; 0.002006; 10 chapters
+I, [2024-03-17T11:08:38.113621 #78003]  INFO -- : becoming-beauvoir-en; 0.001831; 10 chapters
+I, [2024-03-17T11:08:38.115811 #78003]  INFO -- : becoming-en; 0.002175; 13 chapters
+I, [2024-03-17T11:08:38.117590 #78003]  INFO -- : becoming-fdr-en; 0.001765; 7 chapters
+I, [2024-03-17T11:08:38.119708 #78003]  INFO -- : becoming-kim-jong-un-en; 0.002102; 9 chapters
+I, [2024-03-17T11:08:38.121050 #78003]  INFO -- : becoming-myself-en; 0.001327; 7 chapters
+I, [2024-03-17T11:08:38.122412 #78003]  INFO -- : becoming-steve-jobs-en; 0.001347; 12 chapters
+I, [2024-03-17T11:08:38.123378 #78003]  INFO -- : becoming-supernatural-en; 0.000951; 6 chapters
+I, [2024-03-17T11:08:38.124606 #78003]  INFO -- : becoming-the-boss-en; 0.001215; 9 chapters
+I, [2024-03-17T11:08:38.126010 #78003]  INFO -- : bedtime-biography-an-autobiography-en; 0.001389; 6 chapters
+I, [2024-03-17T11:08:38.127491 #78003]  INFO -- : bedtime-biography-black-spartacus-en; 0.001468; 6 chapters
+I, [2024-03-17T11:08:38.129386 #78003]  INFO -- : bedtime-biography-born-a-crime-en; 0.001873; 8 chapters
+I, [2024-03-17T11:08:38.130873 #78003]  INFO -- : bedtime-biography-edison-en; 0.001462; 6 chapters
+I, [2024-03-17T11:08:38.132490 #78003]  INFO -- : bedtime-biography-florence-nightingale-en; 0.001601; 6 chapters
+I, [2024-03-17T11:08:38.134096 #78003]  INFO -- : bedtime-biography-frida-en; 0.00159; 5 chapters
+I, [2024-03-17T11:08:38.135938 #78003]  INFO -- : bedtime-biography-genghis-khan-and-the-making-of-the-modern-world-en; 0.001824; 6 chapters
+I, [2024-03-17T11:08:38.137335 #78003]  INFO -- : bedtime-biography-harriet-tubman-en; 0.001383; 7 chapters
+I, [2024-03-17T11:08:38.138860 #78003]  INFO -- : bedtime-biography-hidden-figures-en; 0.001509; 6 chapters
+I, [2024-03-17T11:08:38.139929 #78003]  INFO -- : bedtime-biography-isaac-newton-en; 0.001054; 5 chapters
+I, [2024-03-17T11:08:38.141604 #78003]  INFO -- : bedtime-biography-long-walk-to-freedom-en; 0.001659; 7 chapters
+I, [2024-03-17T11:08:38.143095 #78003]  INFO -- : bedtime-biography-madame-curie-en; 0.001475; 6 chapters
+I, [2024-03-17T11:08:38.144296 #78003]  INFO -- : bedtime-biography-margaret-thatcher-en; 0.001186; 4 chapters
+I, [2024-03-17T11:08:38.145754 #78003]  INFO -- : bedtime-biography-me-en; 0.001412; 6 chapters
+I, [2024-03-17T11:08:38.146865 #78003]  INFO -- : bedtime-biography-napoleon-the-great-en; 0.001071; 6 chapters
+I, [2024-03-17T11:08:38.148266 #78003]  INFO -- : bedtime-biography-notorious-rbg-en; 0.001367; 6 chapters
+I, [2024-03-17T11:08:38.149438 #78003]  INFO -- : bedtime-biography-queen-of-fashion-en; 0.001135; 5 chapters
+I, [2024-03-17T11:08:38.151074 #78003]  INFO -- : bedtime-biography-shoot-for-the-moon-en; 0.001606; 7 chapters
+I, [2024-03-17T11:08:38.153110 #78003]  INFO -- : bedtime-biography-stasiland-en; 0.001999; 7 chapters
+I, [2024-03-17T11:08:38.154305 #78003]  INFO -- : bedtime-biography-the-autobiography-of-eleanor-roosevelt-en; 0.001152; 6 chapters
+I, [2024-03-17T11:08:38.156206 #78003]  INFO -- : bedtime-biography-the-autobiography-of-martin-luther-king-jr-en; 0.001862; 6 chapters
+I, [2024-03-17T11:08:38.157615 #78003]  INFO -- : bedtime-biography-the-rebellious-life-of-mrs-rosa-parks-en; 0.001372; 7 chapters
+I, [2024-03-17T11:08:38.158966 #78003]  INFO -- : bedtime-biography-vindication-en; 0.001335; 6 chapters
+I, [2024-03-17T11:08:38.160265 #78003]  INFO -- : bedtime-biography-yes-i-can-en; 0.001282; 7 chapters
+I, [2024-03-17T11:08:38.162528 #78003]  INFO -- : beethoven-en; 0.002247; 12 chapters
+I, [2024-03-17T11:08:38.164340 #78003]  INFO -- : before-happiness-en; 0.001791; 10 chapters
+I, [2024-03-17T11:08:38.165986 #78003]  INFO -- : begin-again-en; 0.001622; 9 chapters
+I, [2024-03-17T11:08:38.167573 #78003]  INFO -- : beginners-en; 0.001569; 9 chapters
+I, [2024-03-17T11:08:38.168827 #78003]  INFO -- : behave-en; 0.001236; 11 chapters
+I, [2024-03-17T11:08:38.169829 #78003]  INFO -- : behind-the-beautiful-forevers-en; 0.000988; 11 chapters
+I, [2024-03-17T11:08:38.170928 #78003]  INFO -- : behind-the-cloud-en; 0.001084; 9 chapters
+I, [2024-03-17T11:08:38.172289 #78003]  INFO -- : being-and-nothingness-en; 0.001347; 7 chapters
+I, [2024-03-17T11:08:38.173063 #78003]  INFO -- : being-and-time-en; 0.000757; 5 chapters
+I, [2024-03-17T11:08:38.174212 #78003]  INFO -- : being-boss-en; 0.001135; 8 chapters
+I, [2024-03-17T11:08:38.175940 #78003]  INFO -- : being-mortal-en; 0.001714; 10 chapters
+I, [2024-03-17T11:08:38.177503 #78003]  INFO -- : being-you-en; 0.001546; 10 chapters
+I, [2024-03-17T11:08:38.178385 #78003]  INFO -- : beloved-en; 0.000865; 6 chapters
+I, [2024-03-17T11:08:38.179623 #78003]  INFO -- : beowulf-en; 0.001224; 5 chapters
+I, [2024-03-17T11:08:38.181260 #78003]  INFO -- : berkshire-beyond-buffett-en; 0.001616; 9 chapters
+I, [2024-03-17T11:08:38.182483 #78003]  INFO -- : best-job-ever-en; 0.001206; 7 chapters
+I, [2024-03-17T11:08:38.183946 #78003]  INFO -- : best-self-en; 0.001449; 8 chapters
+I, [2024-03-17T11:08:38.184616 #78003]  INFO -- : bet-on-yourself-en; 0.000655; 5 chapters
+I, [2024-03-17T11:08:38.186380 #78003]  INFO -- : better-and-faster-en; 0.00175; 8 chapters
+I, [2024-03-17T11:08:38.188106 #78003]  INFO -- : better-living-through-criticism-en; 0.001709; 10 chapters
+I, [2024-03-17T11:08:38.189843 #78003]  INFO -- : better-sex-through-mindfulness-en; 0.001724; 10 chapters
+I, [2024-03-17T11:08:38.191916 #78003]  INFO -- : better-than-alpha-en; 0.002059; 9 chapters
+I, [2024-03-17T11:08:38.194464 #78003]  INFO -- : better-than-before-en; 0.002533; 9 chapters
+I, [2024-03-17T11:08:38.196410 #78003]  INFO -- : better-together-en; 0.001929; 10 chapters
+I, [2024-03-17T11:08:38.198508 #78003]  INFO -- : betting-on-you-en; 0.002082; 10 chapters
+I, [2024-03-17T11:08:38.200588 #78003]  INFO -- : between-the-world-and-me-en; 0.002061; 9 chapters
+I, [2024-03-17T11:08:38.202898 #78003]  INFO -- : beyond-culture-en; 0.002279; 8 chapters
+I, [2024-03-17T11:08:38.204772 #78003]  INFO -- : beyond-entrepreneurship-2-dot-0-en; 0.001857; 10 chapters
+I, [2024-03-17T11:08:38.207607 #78003]  INFO -- : beyond-good-and-evil-en; 0.002819; 9 chapters
+I, [2024-03-17T11:08:38.210208 #78003]  INFO -- : beyond-order-en; 0.002581; 14 chapters
+I, [2024-03-17T11:08:38.212260 #78003]  INFO -- : beyond-the-wand-en; 0.002034; 9 chapters
+I, [2024-03-17T11:08:38.214503 #78003]  INFO -- : beyond-tidy-en; 0.002225; 11 chapters
+I, [2024-03-17T11:08:38.216332 #78003]  INFO -- : beyond-willpower-en; 0.00181; 9 chapters
+I, [2024-03-17T11:08:38.217786 #78003]  INFO -- : beyond-words-en; 0.001436; 12 chapters
+I, [2024-03-17T11:08:38.219772 #78003]  INFO -- : big-bang-disruption-en; 0.001971; 9 chapters
+I, [2024-03-17T11:08:38.221777 #78003]  INFO -- : big-data-en; 0.001988; 13 chapters
+I, [2024-03-17T11:08:38.222936 #78003]  INFO -- : big-feelings-en; 0.001145; 9 chapters
+I, [2024-03-17T11:08:38.224462 #78003]  INFO -- : big-magic-en; 0.001497; 8 chapters
+I, [2024-03-17T11:08:38.226226 #78003]  INFO -- : big-mistakes-en; 0.001748; 10 chapters
+I, [2024-03-17T11:08:38.227947 #78003]  INFO -- : big-potential-en; 0.001704; 8 chapters
+I, [2024-03-17T11:08:38.229134 #78003]  INFO -- : big-weed-en; 0.001173; 8 chapters
+I, [2024-03-17T11:08:38.231651 #78003]  INFO -- : billion-dollar-whale-en; 0.002499; 12 chapters
+I, [2024-03-17T11:08:38.233459 #78003]  INFO -- : biohack-your-brain-en; 0.001791; 9 chapters
+I, [2024-03-17T11:08:38.235919 #78003]  INFO -- : bird-by-bird-en; 0.002442; 13 chapters
+I, [2024-03-17T11:08:38.237221 #78003]  INFO -- : birnam-wood-en; 0.001276; 5 chapters
+I, [2024-03-17T11:08:38.239500 #78003]  INFO -- : bit-literacy-en; 0.002263; 10 chapters
+I, [2024-03-17T11:08:38.240850 #78003]  INFO -- : bittersweet-en; 0.001329; 6 chapters
+I, [2024-03-17T11:08:38.243086 #78003]  INFO -- : black-and-british-en; 0.002216; 12 chapters
+I, [2024-03-17T11:08:38.244491 #78003]  INFO -- : black-and-white-thinking-en; 0.00139; 9 chapters
+I, [2024-03-17T11:08:38.246173 #78003]  INFO -- : black-box-thinking-en; 0.001667; 8 chapters
+I, [2024-03-17T11:08:38.248028 #78003]  INFO -- : black-edge-en; 0.001841; 10 chapters
+I, [2024-03-17T11:08:38.250128 #78003]  INFO -- : black-flags-en; 0.002085; 9 chapters
+I, [2024-03-17T11:08:38.252187 #78003]  INFO -- : bless-this-mess-en; 0.002042; 11 chapters
+I, [2024-03-17T11:08:38.253795 #78003]  INFO -- : blink-en; 0.001591; 10 chapters
+I, [2024-03-17T11:08:38.255290 #78003]  INFO -- : blinkracy-en; 0.00148; 8 chapters
+I, [2024-03-17T11:08:38.256834 #78003]  INFO -- : bliss-more-en; 0.00153; 9 chapters
+I, [2024-03-17T11:08:38.259114 #78003]  INFO -- : blitzscaling-en; 0.002263; 12 chapters
+I, [2024-03-17T11:08:38.260875 #78003]  INFO -- : blockchain-chicken-farm-en; 0.001743; 9 chapters
+I, [2024-03-17T11:08:38.262759 #78003]  INFO -- : blockchain-revolution-en; 0.001866; 9 chapters
+I, [2024-03-17T11:08:38.264378 #78003]  INFO -- : blood-feud-en; 0.001603; 7 chapters
+I, [2024-03-17T11:08:38.267405 #78003]  INFO -- : bloodlands-en; 0.003011; 14 chapters
+I, [2024-03-17T11:08:38.269309 #78003]  INFO -- : bloody-brilliant-women-en; 0.001888; 9 chapters
+I, [2024-03-17T11:08:38.271633 #78003]  INFO -- : blowout-en; 0.002305; 11 chapters
+I, [2024-03-17T11:08:38.272947 #78003]  INFO -- : blue-hour-en; 0.001291; 6 chapters
+I, [2024-03-17T11:08:38.275950 #78003]  INFO -- : blue-ocean-shift-en; 0.002989; 12 chapters
+I, [2024-03-17T11:08:38.276812 #78003]  INFO -- : blue-ocean-strategy-en; 0.000844; 4 chapters
+I, [2024-03-17T11:08:38.278798 #78003]  INFO -- : blueprint-en; 0.001969; 9 chapters
+I, [2024-03-17T11:08:38.280037 #78003]  INFO -- : blueprint-for-revolution-en; 0.001225; 8 chapters
+I, [2024-03-17T11:08:38.282278 #78003]  INFO -- : body-by-science-en; 0.002225; 9 chapters
+I, [2024-03-17T11:08:38.284194 #78003]  INFO -- : body-kindness-en; 0.001897; 10 chapters
+I, [2024-03-17T11:08:38.286065 #78003]  INFO -- : boost-en; 0.001854; 9 chapters
+I, [2024-03-17T11:08:38.287469 #78003]  INFO -- : bored-and-brilliant-en; 0.001386; 10 chapters
+I, [2024-03-17T11:08:38.289603 #78003]  INFO -- : born-a-crime-en; 0.002117; 10 chapters
+I, [2024-03-17T11:08:38.291879 #78003]  INFO -- : born-for-this-en; 0.002254; 9 chapters
+I, [2024-03-17T11:08:38.293610 #78003]  INFO -- : born-liars-en; 0.001714; 9 chapters
+I, [2024-03-17T11:08:38.295319 #78003]  INFO -- : born-to-run-en; 0.001693; 10 chapters
+I, [2024-03-17T11:08:38.297220 #78003]  INFO -- : born-to-win-en; 0.001885; 7 chapters
+I, [2024-03-17T11:08:38.299149 #78003]  INFO -- : bounce-back-en; 0.001805; 9 chapters
+I, [2024-03-17T11:08:38.300921 #78003]  INFO -- : bounce-en; 0.001757; 10 chapters
+I, [2024-03-17T11:08:38.302980 #78003]  INFO -- : boundaries-en; 0.002043; 10 chapters
+I, [2024-03-17T11:08:38.304353 #78003]  INFO -- : boundaries-for-leaders-en; 0.001357; 7 chapters
+I, [2024-03-17T11:08:38.305559 #78003]  INFO -- : bourbon-empire-en; 0.001183; 8 chapters
+I, [2024-03-17T11:08:38.308050 #78003]  INFO -- : boy-erased-en; 0.002306; 8 chapters
+I, [2024-03-17T11:08:38.310126 #78003]  INFO -- : boys-and-sex-en; 0.002028; 10 chapters
+I, [2024-03-17T11:08:38.311745 #78003]  INFO -- : braiding-sweetgrass-en; 0.001603; 8 chapters
+I, [2024-03-17T11:08:38.313906 #78003]  INFO -- : brain-food-en; 0.002145; 10 chapters
+I, [2024-03-17T11:08:38.316041 #78003]  INFO -- : brain-maker-en; 0.002121; 10 chapters
+I, [2024-03-17T11:08:38.317460 #78003]  INFO -- : brain-rules-en; 0.0014; 10 chapters
+I, [2024-03-17T11:08:38.319746 #78003]  INFO -- : brain-wash-en; 0.002269; 13 chapters
+I, [2024-03-17T11:08:38.320823 #78003]  INFO -- : brainfluence-en; 0.001062; 8 chapters
+I, [2024-03-17T11:08:38.322271 #78003]  INFO -- : brainstorm-en; 0.001434; 9 chapters
+I, [2024-03-17T11:08:38.324058 #78003]  INFO -- : branding-between-the-ears-en; 0.001771; 8 chapters
+I, [2024-03-17T11:08:38.325568 #78003]  INFO -- : brave-en; 0.001491; 10 chapters
+I, [2024-03-17T11:08:38.327755 #78003]  INFO -- : brave-new-war-en; 0.002152; 10 chapters
+I, [2024-03-17T11:08:38.330535 #78003]  INFO -- : brave-new-work-en; 0.002765; 11 chapters
+I, [2024-03-17T11:08:38.333086 #78003]  INFO -- : brave-new-world-en; 0.002537; 7 chapters
+I, [2024-03-17T11:08:38.334750 #78003]  INFO -- : brave-not-perfect-en; 0.00165; 7 chapters
+I, [2024-03-17T11:08:38.336904 #78003]  INFO -- : braving-the-wilderness-en; 0.002139; 8 chapters
+I, [2024-03-17T11:08:38.338251 #78003]  INFO -- : brazillionaires-en; 0.001333; 7 chapters
+I, [2024-03-17T11:08:38.340310 #78003]  INFO -- : breaking-the-cycle-en-george-n-collins-with-andrew-adleman; 0.002045; 8 chapters
+I, [2024-03-17T11:08:38.341676 #78003]  INFO -- : breaking-the-habit-of-being-yourself-en; 0.00135; 8 chapters
+I, [2024-03-17T11:08:38.343303 #78003]  INFO -- : breaking-up-with-sugar-en; 0.001465; 8 chapters
+I, [2024-03-17T11:08:38.345505 #78003]  INFO -- : breakpoint-en; 0.002184; 8 chapters
+I, [2024-03-17T11:08:38.347974 #78003]  INFO -- : breath-en; 0.002453; 10 chapters
+I, [2024-03-17T11:08:38.349379 #78003]  INFO -- : brief-answers-to-the-big-questions-en; 0.00139; 10 chapters
+I, [2024-03-17T11:08:38.350522 #78003]  INFO -- : brief-en; 0.001128; 9 chapters
+I, [2024-03-17T11:08:38.365342 #78003]  INFO -- : chaos-en; 0.002122; 11 chapters
+I, [2024-03-17T11:08:38.367612 #78003]  INFO -- : chaos-monkeys-en; 0.002239; 9 chapters
+I, [2024-03-17T11:08:38.370034 #78003]  INFO -- : chaos-under-heaven-en; 0.002402; 11 chapters
+I, [2024-03-17T11:08:38.371681 #78003]  INFO -- : charismatic-leadership-en; 0.001633; 7 chapters
+I, [2024-03-17T11:08:38.372780 #78003]  INFO -- : charlie-munger-en; 0.001083; 7 chapters
+I, [2024-03-17T11:08:38.374384 #78003]  INFO -- : chasing-excellence-en; 0.001589; 8 chapters
+I, [2024-03-17T11:08:38.376770 #78003]  INFO -- : chasing-hillary-en; 0.002368; 12 chapters
+I, [2024-03-17T11:08:38.378809 #78003]  INFO -- : chasing-the-scream-en; 0.002015; 9 chapters
+I, [2024-03-17T11:08:38.380644 #78003]  INFO -- : chasing-the-sun-en; 0.001808; 8 chapters
+I, [2024-03-17T11:08:38.382845 #78003]  INFO -- : chatter-en; 0.002185; 9 chapters
+I, [2024-03-17T11:08:38.384751 #78003]  INFO -- : chernobyl-en; 0.001889; 10 chapters
+I, [2024-03-17T11:08:38.385933 #78003]  INFO -- : chief-joy-officer-en; 0.001164; 9 chapters
+I, [2024-03-17T11:08:38.387866 #78003]  INFO -- : china-in-ten-words-en; 0.001916; 12 chapters
+I, [2024-03-17T11:08:38.389773 #78003]  INFO -- : chinas-second-continent-en; 0.00189; 10 chapters
+I, [2024-03-17T11:08:38.390892 #78003]  INFO -- : chinas-super-consumers-en; 0.001097; 8 chapters
+I, [2024-03-17T11:08:38.393181 #78003]  INFO -- : choose-possibility-en; 0.00227; 11 chapters
+I, [2024-03-17T11:08:38.394344 #78003]  INFO -- : choose-your-enemies-wisely-en; 0.001145; 6 chapters
+I, [2024-03-17T11:08:38.396484 #78003]  INFO -- : choose-yourself-en; 0.002126; 11 chapters
+I, [2024-03-17T11:08:38.398239 #78003]  INFO -- : choosing-to-run-en; 0.001738; 8 chapters
+I, [2024-03-17T11:08:38.399736 #78003]  INFO -- : cinema-speculation-en; 0.001482; 7 chapters
+I, [2024-03-17T11:08:38.401842 #78003]  INFO -- : civilization-en; 0.002089; 11 chapters
+I, [2024-03-17T11:08:38.403333 #78003]  INFO -- : civilizations-en; 0.001461; 10 chapters
+I, [2024-03-17T11:08:38.405096 #78003]  INFO -- : clay-water-brick-en; 0.001749; 10 chapters
+I, [2024-03-17T11:08:38.407132 #78003]  INFO -- : clean-en-james-hamblin; 0.002021; 10 chapters
+I, [2024-03-17T11:08:38.408673 #78003]  INFO -- : clean-en; 0.001526; 9 chapters
+I, [2024-03-17T11:08:38.410122 #78003]  INFO -- : clean-ish-en; 0.001432; 8 chapters
+I, [2024-03-17T11:08:38.411159 #78003]  INFO -- : cleaning-up-your-mental-mess-en; 0.001019; 9 chapters
+I, [2024-03-17T11:08:38.411965 #78003]  INFO -- : clear-thinking-en; 0.000792; 7 chapters
+I, [2024-03-17T11:08:38.413499 #78003]  INFO -- : clearer-closer-better-en; 0.001509; 10 chapters
+I, [2024-03-17T11:08:38.415899 #78003]  INFO -- : clever-girl-finance-en; 0.002373; 10 chapters
+I, [2024-03-17T11:08:38.418092 #78003]  INFO -- : click-en; 0.002174; 11 chapters
+I, [2024-03-17T11:08:38.419013 #78003]  INFO -- : clients-first-en; 0.000907; 7 chapters
+I, [2024-03-17T11:08:38.420275 #78003]  INFO -- : clockwork-en; 0.001244; 10 chapters
+I, [2024-03-17T11:08:38.421754 #78003]  INFO -- : closer-to-love-en; 0.001462; 8 chapters
+I, [2024-03-17T11:08:38.422852 #78003]  INFO -- : cloudmoney-en; 0.001082; 5 chapters
+I, [2024-03-17T11:08:38.424458 #78003]  INFO -- : cluttered-mess-to-organized-success-workbook-en; 0.001585; 6 chapters
+I, [2024-03-17T11:08:38.425807 #78003]  INFO -- : co-active-coaching-en; 0.001332; 8 chapters
+I, [2024-03-17T11:08:38.427335 #78003]  INFO -- : co-opetition-en; 0.001513; 9 chapters
+I, [2024-03-17T11:08:38.428613 #78003]  INFO -- : coaching-for-performance-en; 0.00126; 8 chapters
+I, [2024-03-17T11:08:38.429724 #78003]  INFO -- : coaching-salespeople-into-sales-champions-en; 0.001093; 8 chapters
+I, [2024-03-17T11:08:38.430880 #78003]  INFO -- : cod-en; 0.001143; 8 chapters
+I, [2024-03-17T11:08:38.433292 #78003]  INFO -- : code-girls-en; 0.002395; 11 chapters
+I, [2024-03-17T11:08:38.434186 #78003]  INFO -- : codependent-no-more-en; 0.000874; 7 chapters
+I, [2024-03-17T11:08:38.436391 #78003]  INFO -- : coffee-lunch-coffee-en; 0.002191; 10 chapters
+I, [2024-03-17T11:08:38.437645 #78003]  INFO -- : cognitive-behavioral-therapy-en; 0.001236; 6 chapters
+I, [2024-03-17T11:08:38.438865 #78003]  INFO -- : coined-en; 0.001207; 7 chapters
+I, [2024-03-17T11:08:38.440221 #78003]  INFO -- : collaborative-intelligence-en; 0.001342; 11 chapters
+I, [2024-03-17T11:08:38.441779 #78003]  INFO -- : collective-illusions-en; 0.001543; 8 chapters
+I, [2024-03-17T11:08:38.443644 #78003]  INFO -- : color-en; 0.001849; 10 chapters
+I, [2024-03-17T11:08:38.445049 #78003]  INFO -- : comfortably-unaware-en; 0.001391; 8 chapters
+I, [2024-03-17T11:08:38.446525 #78003]  INFO -- : coming-alive-en; 0.001461; 7 chapters
+I, [2024-03-17T11:08:38.449229 #78003]  INFO -- : command-and-control-en; 0.00269; 13 chapters
+I, [2024-03-17T11:08:38.451742 #78003]  INFO -- : common-sense-pregnancy-en; 0.002359; 10 chapters
+I, [2024-03-17T11:08:38.453427 #78003]  INFO -- : common-stocks-and-uncommon-profits-and-other-writings-en; 0.001669; 10 chapters
+I, [2024-03-17T11:08:38.454657 #78003]  INFO -- : communicate-in-a-crisis-en; 0.001216; 10 chapters
+I, [2024-03-17T11:08:38.456461 #78003]  INFO -- : communicate-to-influence-en; 0.00179; 12 chapters
+I, [2024-03-17T11:08:38.458522 #78003]  INFO -- : communicate-with-mastery-en; 0.002043; 10 chapters
+I, [2024-03-17T11:08:38.460106 #78003]  INFO -- : company-of-one-en; 0.001568; 12 chapters
+I, [2024-03-17T11:08:38.461526 #78003]  INFO -- : competing-against-luck-en; 0.001405; 7 chapters
+I, [2024-03-17T11:08:38.462593 #78003]  INFO -- : competing-in-the-age-of-ai-en; 0.001051; 4 chapters
+I, [2024-03-17T11:08:38.463275 #78003]  INFO -- : competing-in-the-new-world-of-work-en; 0.000668; 3 chapters
+I, [2024-03-17T11:08:38.464700 #78003]  INFO -- : complex-borderline-personality-disorder-en; 0.001411; 6 chapters
+I, [2024-03-17T11:08:38.467188 #78003]  INFO -- : compromised-en; 0.002472; 13 chapters
+I, [2024-03-17T11:08:38.467767 #78003]  INFO -- : confidence-from-the-inside-out-en; 0.000563; 5 chapters
+I, [2024-03-17T11:08:38.468918 #78003]  INFO -- : confidence-man-en; 0.001121; 6 chapters
+I, [2024-03-17T11:08:38.470535 #78003]  INFO -- : connect-en-david-bradford-and-carole-robin; 0.0016; 9 chapters
+I, [2024-03-17T11:08:38.472272 #78003]  INFO -- : connect-en; 0.001723; 10 chapters
+I, [2024-03-17T11:08:38.473920 #78003]  INFO -- : connected-crm-en; 0.001634; 7 chapters
+I, [2024-03-17T11:08:38.475460 #78003]  INFO -- : conscious-business-en; 0.001526; 10 chapters
+I, [2024-03-17T11:08:38.475987 #78003]  INFO -- : conscious-capitalism-en; 0.000513; 4 chapters
+I, [2024-03-17T11:08:38.477217 #78003]  INFO -- : conscious-en; 0.001216; 8 chapters
+I, [2024-03-17T11:08:38.478784 #78003]  INFO -- : conscious-leadership-en; 0.001554; 10 chapters
+I, [2024-03-17T11:08:38.480953 #78003]  INFO -- : conscious-uncoupling-en; 0.002152; 10 chapters
+I, [2024-03-17T11:08:38.482733 #78003]  INFO -- : consider-the-fork-en; 0.001758; 9 chapters
+I, [2024-03-17T11:08:38.483920 #78003]  INFO -- : conspiracy-en; 0.001166; 8 chapters
+I, [2024-03-17T11:08:38.485095 #78003]  INFO -- : content-inc-en; 0.001154; 9 chapters
+I, [2024-03-17T11:08:38.486109 #78003]  INFO -- : content-marketing-revolution-en; 0.000994; 8 chapters
+I, [2024-03-17T11:08:38.487350 #78003]  INFO -- : content-rules-en; 0.001225; 9 chapters
+I, [2024-03-17T11:08:38.488764 #78003]  INFO -- : continuous-discovery-habits-en; 0.001398; 7 chapters
+I, [2024-03-17T11:08:38.490620 #78003]  INFO -- : conversations-that-sell-en; 0.00184; 11 chapters
+I, [2024-03-17T11:08:38.491884 #78003]  INFO -- : conversations-worth-having-en; 0.001248; 6 chapters
+I, [2024-03-17T11:08:38.493264 #78003]  INFO -- : cooked-en; 0.001365; 9 chapters
+I, [2024-03-17T11:08:38.495275 #78003]  INFO -- : cooking-up-a-business-en; 0.001997; 8 chapters
+I, [2024-03-17T11:08:38.496768 #78003]  INFO -- : cork-dork-en; 0.001478; 10 chapters
+I, [2024-03-17T11:08:38.498245 #78003]  INFO -- : cosmos-en; 0.001463; 9 chapters
+I, [2024-03-17T11:08:38.499529 #78003]  INFO -- : cosmosapiens-en; 0.001267; 10 chapters
+I, [2024-03-17T11:08:38.501094 #78003]  INFO -- : courage-is-calling-en; 0.001551; 8 chapters
+I, [2024-03-17T11:08:38.503273 #78003]  INFO -- : courageous-cultures-en; 0.002162; 9 chapters
+I, [2024-03-17T11:08:38.505108 #78003]  INFO -- : covid-19-the-great-reset-en; 0.001817; 10 chapters
+I, [2024-03-17T11:08:38.506315 #78003]  INFO -- : cracked-it-en; 0.001192; 6 chapters
+I, [2024-03-17T11:08:38.508012 #78003]  INFO -- : cradle-to-cradle-en; 0.001684; 9 chapters
+I, [2024-03-17T11:08:38.510403 #78003]  INFO -- : crashed-en; 0.002375; 11 chapters
+I, [2024-03-17T11:08:38.511987 #78003]  INFO -- : crazy-faith-en; 0.001567; 9 chapters
+I, [2024-03-17T11:08:38.514196 #78003]  INFO -- : crazy-joy-en; 0.002193; 6 chapters
+I, [2024-03-17T11:08:38.516070 #78003]  INFO -- : create-space-en; 0.001859; 11 chapters
+I, [2024-03-17T11:08:38.518686 #78003]  INFO -- : creative-acts-for-curious-people-en; 0.002598; 10 chapters
+I, [2024-03-17T11:08:38.520966 #78003]  INFO -- : creative-confidence-en; 0.00225; 11 chapters
+I, [2024-03-17T11:08:38.523269 #78003]  INFO -- : creative-inc-en; 0.002282; 12 chapters
+I, [2024-03-17T11:08:38.524967 #78003]  INFO -- : creative-schools-en; 0.001676; 9 chapters
+I, [2024-03-17T11:08:38.526571 #78003]  INFO -- : creative-superpowers-en; 0.001588; 10 chapters
+I, [2024-03-17T11:08:38.528680 #78003]  INFO -- : creativity-en; 0.002091; 12 chapters
+I, [2024-03-17T11:08:38.530490 #78003]  INFO -- : creativity-inc-en; 0.001793; 10 chapters
+I, [2024-03-17T11:08:38.532426 #78003]  INFO -- : cribsheet-en; 0.00192; 11 chapters
+I, [2024-03-17T11:08:38.534089 #78003]  INFO -- : crime-and-punishment-en; 0.001645; 9 chapters
+I, [2024-03-17T11:08:38.536510 #78003]  INFO -- : crime-in-progress-en; 0.002401; 11 chapters
+I, [2024-03-17T11:08:38.538329 #78003]  INFO -- : crippled-en; 0.001803; 10 chapters
+I, [2024-03-17T11:08:38.539926 #78003]  INFO -- : crisis-caravan-en; 0.001581; 9 chapters
+I, [2024-03-17T11:08:38.548821 #78003]  INFO -- : dear-america-en; 0.001661; 7 chapters
+I, [2024-03-17T11:08:38.550760 #78003]  INFO -- : dear-founder-en; 0.001888; 10 chapters
+I, [2024-03-17T11:08:38.554871 #78003]  INFO -- : dear-girls-en; 0.004093; 10 chapters
+I, [2024-03-17T11:08:38.558660 #78003]  INFO -- : dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions-en; 0.003766; 12 chapters
+I, [2024-03-17T11:08:38.560566 #78003]  INFO -- : dear-madam-president-en; 0.001886; 8 chapters
+I, [2024-03-17T11:08:38.562240 #78003]  INFO -- : death-of-a-salesman-en; 0.001649; 6 chapters
+I, [2024-03-17T11:08:38.564301 #78003]  INFO -- : deaths-summer-coat-en; 0.002041; 9 chapters
+I, [2024-03-17T11:08:38.565745 #78003]  INFO -- : decision-making-and-problem-solving-en; 0.001427; 7 chapters
+I, [2024-03-17T11:08:38.567845 #78003]  INFO -- : decisions-about-decisions-en; 0.002079; 8 chapters
+I, [2024-03-17T11:08:38.570246 #78003]  INFO -- : decisive-en; 0.002377; 12 chapters
+I, [2024-03-17T11:08:38.573236 #78003]  INFO -- : decoding-the-world-en; 0.002948; 10 chapters
+I, [2024-03-17T11:08:38.575567 #78003]  INFO -- : deep-creativity-en; 0.002248; 9 chapters
+I, [2024-03-17T11:08:38.578038 #78003]  INFO -- : deep-medicine-en; 0.002432; 10 chapters
+I, [2024-03-17T11:08:38.579288 #78003]  INFO -- : deep-nutrition-en; 0.001229; 9 chapters
+I, [2024-03-17T11:08:38.580638 #78003]  INFO -- : deep-thinking-en; 0.001334; 10 chapters
+I, [2024-03-17T11:08:38.581972 #78003]  INFO -- : deep-work-en; 0.00132; 6 chapters
+I, [2024-03-17T11:08:38.583167 #78003]  INFO -- : deeper-dating-en; 0.001182; 8 chapters
+I, [2024-03-17T11:08:38.584123 #78003]  INFO -- : deepfakes-and-the-infocalypse-en; 0.000941; 9 chapters
+I, [2024-03-17T11:08:38.585284 #78003]  INFO -- : dei-deconstructed-en; 0.001147; 5 chapters
+I, [2024-03-17T11:08:38.586948 #78003]  INFO -- : delivering-happiness-en; 0.00165; 8 chapters
+I, [2024-03-17T11:08:38.587912 #78003]  INFO -- : democracy-awakening-en; 0.00095; 5 chapters
+I, [2024-03-17T11:08:38.589352 #78003]  INFO -- : democracy-in-america-en; 0.001426; 10 chapters
+I, [2024-03-17T11:08:38.591344 #78003]  INFO -- : descartes-error-en; 0.001975; 12 chapters
+I, [2024-03-17T11:08:38.592570 #78003]  INFO -- : design-for-how-people-learn-en; 0.001198; 7 chapters
+I, [2024-03-17T11:08:38.594805 #78003]  INFO -- : design-your-future-en; 0.002217; 10 chapters
+I, [2024-03-17T11:08:38.596720 #78003]  INFO -- : designing-and-leading-life-changing-workshops-en; 0.001898; 7 chapters
+I, [2024-03-17T11:08:38.598498 #78003]  INFO -- : designing-your-life-en; 0.001735; 8 chapters
+I, [2024-03-17T11:08:38.600445 #78003]  INFO -- : designing-your-work-life-en; 0.001905; 10 chapters
+I, [2024-03-17T11:08:38.601650 #78003]  INFO -- : destined-for-war-en; 0.00118; 6 chapters
+I, [2024-03-17T11:08:38.603377 #78003]  INFO -- : destiny-disrupted-en; 0.001711; 11 chapters
+I, [2024-03-17T11:08:38.604582 #78003]  INFO -- : determined-en; 0.001188; 6 chapters
+I, [2024-03-17T11:08:38.605571 #78003]  INFO -- : developing-the-leader-within-you-en; 0.000974; 8 chapters
+I, [2024-03-17T11:08:38.607759 #78003]  INFO -- : deviate-en; 0.002159; 11 chapters
+I, [2024-03-17T11:08:38.894652 #78003]  INFO -- : the-case-for-trump-en; 0.001842; 8 chapters
+I, [2024-03-17T11:08:38.895472 #78003]  INFO -- : the-cask-of-amontillado-en; 0.000783; 3 chapters
+I, [2024-03-17T11:08:38.896998 #78003]  INFO -- : the-catcher-in-the-rye-en; 0.001506; 8 chapters
+I, [2024-03-17T11:08:38.898490 #78003]  INFO -- : the-ceo-next-door-en; 0.001472; 9 chapters
+I, [2024-03-17T11:08:38.900075 #78003]  INFO -- : the-challenger-sale-en; 0.001558; 10 chapters
+I, [2024-03-17T11:08:39.025094 #78003]  INFO -- : the-story-of-my-life-en; 0.002008; 6 chapters
+I, [2024-03-17T11:08:39.027722 #78003]  INFO -- : the-story-of-sushi-en; 0.002569; 9 chapters
+I, [2024-03-17T11:08:39.031834 #78003]  INFO -- : the-story-of-the-human-body-en; 0.004065; 13 chapters
+I, [2024-03-17T11:08:39.033996 #78003]  INFO -- : the-storytelling-animal-en; 0.002117; 9 chapters
+I, [2024-03-17T11:08:39.035516 #78003]  INFO -- : the-storytelling-edge-en; 0.001495; 8 chapters
+I, [2024-03-17T11:08:39.037788 #78003]  INFO -- : the-strange-order-of-things-en; 0.002253; 9 chapters
+I, [2024-03-17T11:08:39.039175 #78003]  INFO -- : the-stranger-in-the-woods-en; 0.001357; 6 chapters
+I, [2024-03-17T11:08:39.041552 #78003]  INFO -- : the-strategy-and-tactics-of-pricing-en; 0.002362; 10 chapters
+I, [2024-03-17T11:08:39.042614 #78003]  INFO -- : the-strategy-legacy-en; 0.001047; 7 chapters
+I, [2024-03-17T11:08:39.044112 #78003]  INFO -- : the-strength-switch-en; 0.001478; 10 chapters
+I, [2024-03-17T11:08:39.045802 #78003]  INFO -- : the-stress-code-en; 0.001665; 10 chapters
+I, [2024-03-17T11:08:39.048508 #78003]  INFO -- : the-stress-prescription-en; 0.002687; 9 chapters
+I, [2024-03-17T11:08:39.049953 #78003]  INFO -- : the-structure-of-scientific-revolutions-en; 0.001425; 7 chapters
+I, [2024-03-17T11:08:39.051891 #78003]  INFO -- : the-stuff-of-thought-en; 0.00192; 10 chapters
+I, [2024-03-17T11:08:39.053317 #78003]  INFO -- : the-subtle-art-of-not-giving-a-f-star-ck-en; 0.001408; 10 chapters
+I, [2024-03-17T11:08:39.055061 #78003]  INFO -- : the-success-principles-en; 0.00173; 11 chapters
+I, [2024-03-17T11:08:39.055987 #78003]  INFO -- : the-success-trap-en; 0.000912; 8 chapters
+I, [2024-03-17T11:08:39.057346 #78003]  INFO -- : the-sum-of-us-en; 0.001345; 10 chapters
+I, [2024-03-17T11:08:39.060076 #78003]  INFO -- : the-sun-does-shine-en; 0.002712; 13 chapters
+I, [2024-03-17T11:08:39.061562 #78003]  INFO -- : the-sunflower-en; 0.001466; 7 chapters
+I, [2024-03-17T11:08:39.063662 #78003]  INFO -- : the-surprising-science-of-meetings-en; 0.002079; 9 chapters
+I, [2024-03-17T11:08:39.065636 #78003]  INFO -- : the-surrender-experiment-en; 0.001959; 10 chapters
+I, [2024-03-17T11:08:39.066735 #78003]  INFO -- : the-sweet-spot-en; 0.001081; 5 chapters
+I, [2024-03-17T11:08:39.067438 #78003]  INFO -- : the-symposium-en; 0.000688; 6 chapters
+I, [2024-03-17T11:08:39.069332 #78003]  INFO -- : the-tale-of-the-dueling-neurosurgeons-en; 0.00188; 13 chapters
+I, [2024-03-17T11:08:39.070820 #78003]  INFO -- : the-talent-code-en; 0.001472; 10 chapters
+I, [2024-03-17T11:08:39.072581 #78003]  INFO -- : the-tao-of-physics-en; 0.001746; 10 chapters
+I, [2024-03-17T11:08:39.074028 #78003]  INFO -- : the-teenage-brain-en; 0.001433; 7 chapters
+I, [2024-03-17T11:08:39.076271 #78003]  INFO -- : the-telomere-effect-en; 0.002227; 10 chapters
+I, [2024-03-17T11:08:39.077965 #78003]  INFO -- : the-tempest-en; 0.001676; 6 chapters
+I, [2024-03-17T11:08:39.080527 #78003]  INFO -- : the-thank-you-economy-en; 0.002544; 10 chapters
+I, [2024-03-17T11:08:39.082752 #78003]  INFO -- : the-things-we-make-en; 0.002207; 8 chapters
+I, [2024-03-17T11:08:39.084282 #78003]  INFO -- : the-things-you-can-see-only-when-you-slow-down-en; 0.001508; 7 chapters
+I, [2024-03-17T11:08:39.086537 #78003]  INFO -- : the-third-chimpanzee-en; 0.002241; 9 chapters
+I, [2024-03-17T11:08:39.088596 #78003]  INFO -- : the-third-door-en; 0.002044; 12 chapters
+I, [2024-03-17T11:08:39.091061 #78003]  INFO -- : the-third-pillar-en; 0.002449; 11 chapters
+I, [2024-03-17T11:08:39.092968 #78003]  INFO -- : the-threat-en; 0.001342; 8 chapters
+I, [2024-03-17T11:08:39.093708 #78003]  INFO -- : the-three-marriages-en; 0.000722; 10 chapters
+I, [2024-03-17T11:08:39.096364 #78003]  INFO -- : the-truth-en; 0.001846; 8 chapters
+I, [2024-03-17T11:08:39.098424 #78003]  INFO -- : the-truths-we-hold-en; 0.002037; 12 chapters
+I, [2024-03-17T11:08:39.101755 #78003]  INFO -- : the-twelve-caesars-en; 0.003311; 16 chapters
+I, [2024-03-17T11:08:39.103140 #78003]  INFO -- : the-twenty-four-hour-mind-en; 0.001369; 7 chapters
+I, [2024-03-17T11:08:39.105084 #78003]  INFO -- : the-ultimate-guide-to-great-mentorship-en; 0.001926; 8 chapters
+I, [2024-03-17T11:08:39.106333 #78003]  INFO -- : the-ultimate-introduction-to-nlp-en; 0.001234; 9 chapters
+I, [2024-03-17T11:08:39.108491 #78003]  INFO -- : the-ultimate-retirement-guide-for-50-plus-en; 0.002143; 10 chapters
+I, [2024-03-17T11:08:39.109814 #78003]  INFO -- : the-ultimate-retroactive-jealousy-cure-en; 0.001308; 5 chapters
+I, [2024-03-17T11:08:39.112300 #78003]  INFO -- : the-ultimate-sales-machine-en; 0.002472; 14 chapters
+I, [2024-03-17T11:08:39.113649 #78003]  INFO -- : the-unbearable-lightness-of-being-en; 0.001323; 6 chapters
+I, [2024-03-17T11:08:39.115444 #78003]  INFO -- : the-undercover-economist-en; 0.00178; 9 chapters
+I, [2024-03-17T11:08:39.116356 #78003]  INFO -- : the-undoing-project-en; 0.000897; 4 chapters
+I, [2024-03-17T11:08:39.117544 #78003]  INFO -- : the-undying-en; 0.001173; 8 chapters
+I, [2024-03-17T11:08:39.119199 #78003]  INFO -- : the-unemployed-millionaire-en; 0.00164; 9 chapters
+I, [2024-03-17T11:08:39.121300 #78003]  INFO -- : the-unexpected-joy-of-being-sober-en; 0.002085; 10 chapters
+I, [2024-03-17T11:08:39.122966 #78003]  INFO -- : the-unexpected-joy-of-the-ordinary-en; 0.00165; 9 chapters
+I, [2024-03-17T11:08:39.124607 #78003]  INFO -- : the-unfair-advantage-en; 0.001626; 9 chapters
+I, [2024-03-17T11:08:39.126427 #78003]  INFO -- : the-uninhabitable-earth-en; 0.001803; 12 chapters
+I, [2024-03-17T11:08:39.127715 #78003]  INFO -- : the-universe-has-your-back-en; 0.001274; 8 chapters
+I, [2024-03-17T11:08:45.378214 #78003]  INFO -- : the-untethered-soul-en; 6.250448; 8 chapters
+I, [2024-03-17T11:08:58.357319 #78003]  INFO -- : the-unwinding-of-the-miracle-en; 12.975264; 10 chapters
+I, [2024-03-17T11:09:05.890423 #78003]  INFO -- : the-upcycle-en; 7.532378; 6 chapters
+I, [2024-03-17T11:09:18.937129 #78003]  INFO -- : the-upright-thinkers-en; 13.045648; 11 chapters
+I, [2024-03-17T11:09:30.990917 #78003]  INFO -- : the-upside-of-irrationality-en; 12.052685; 10 chapters
+I, [2024-03-17T11:09:41.919729 #78003]  INFO -- : the-upside-of-stress-en; 10.926405; 9 chapters
+I, [2024-03-17T11:09:46.058255 #78003]  INFO -- : the-upside-of-uncertainty-en; 4.137324; 3 chapters
+I, [2024-03-17T11:09:59.218064 #78003]  INFO -- : the-upside-of-your-dark-side-en; 13.158998; 11 chapters
+I, [2024-03-17T11:20:22.501581 #3810]  INFO -- : 1-2-3-magic-en; 0.007209 sec; 7 chapters
+I, [2024-03-17T11:20:22.503951 #3810]  INFO -- : 10-days-to-faster-reading-en; 0.002189 sec; 8 chapters
+I, [2024-03-17T11:20:22.506247 #3810]  INFO -- : 10-leadership-virtues-for-disruptive-times-en; 0.002265 sec; 9 chapters
+I, [2024-03-17T11:20:22.509325 #3810]  INFO -- : 10-percent-happier-en; 0.003048 sec; 9 chapters
+I, [2024-03-17T11:20:22.511412 #3810]  INFO -- : 100-million-years-of-food-en; 0.002047 sec; 9 chapters
+I, [2024-03-17T11:20:22.513565 #3810]  INFO -- : 100-things-every-designer-needs-to-know-about-people-en; 0.002127 sec; 9 chapters
+I, [2024-03-17T11:20:22.515194 #3810]  INFO -- : 100-ways-to-change-your-life-en; 0.001602 sec; 7 chapters
+I, [2024-03-17T11:20:22.517443 #3810]  INFO -- : 100m-leads-en; 0.002223 sec; 7 chapters
+I, [2024-03-17T11:20:22.519235 #3810]  INFO -- : 100m-offers-en; 0.00176 sec; 7 chapters
+I, [2024-03-17T11:20:22.522023 #3810]  INFO -- : 101-essays-that-will-change-the-way-you-think-en; 0.002733 sec; 13 chapters
+I, [2024-03-17T11:20:22.523716 #3810]  INFO -- : 10x-is-easier-than-2x-en; 0.001669 sec; 7 chapters
+I, [2024-03-17T11:20:22.525635 #3810]  INFO -- : 12-months-to-1-dollars-million-en; 0.001897 sec; 6 chapters
+I, [2024-03-17T11:20:22.528638 #3810]  INFO -- : 12-rules-for-life-en; 0.002977 sec; 14 chapters
+I, [2024-03-17T11:20:22.531412 #3810]  INFO -- : 13-things-mentally-strong-parents-dont-do-en; 0.002747 sec; 10 chapters
+I, [2024-03-17T11:20:22.536861 #3810]  INFO -- : 13-things-mentally-strong-people-dont-do-en; 0.005407 sec; 15 chapters
+I, [2024-03-17T11:20:22.539586 #3810]  INFO -- : 1491-en; 0.00269 sec; 11 chapters
+I, [2024-03-17T11:20:22.542038 #3810]  INFO -- : 15-secrets-successful-people-know-about-time-management-en-kevin-kruse; 0.002423 sec; 10 chapters
+I, [2024-03-17T11:20:22.544227 #3810]  INFO -- : 168-hours-en; 0.002157 sec; 10 chapters
+I, [2024-03-17T11:20:22.545434 #3810]  INFO -- : 18-minutes-en; 0.001181 sec; 7 chapters
+I, [2024-03-17T11:20:22.547842 #3810]  INFO -- : 2030-en; 0.002385 sec; 10 chapters
+I, [2024-03-17T11:20:22.550688 #3810]  INFO -- : 21-days-to-a-big-idea-en; 0.002824 sec; 9 chapters
+I, [2024-03-17T11:20:22.552700 #3810]  INFO -- : 21-lessons-for-the-21st-century-en; 0.00199 sec; 8 chapters
+I, [2024-03-17T11:20:22.554028 #3810]  INFO -- : 21st-century-investing-en; 0.001292 sec; 8 chapters
+I, [2024-03-17T11:20:22.555872 #3810]  INFO -- : 23-things-they-dont-tell-you-about-capitalism-en; 0.001827 sec; 12 chapters
+I, [2024-03-17T11:20:22.557452 #3810]  INFO -- : 28-day-fast-start-day-by-day-en; 0.001562 sec; 6 chapters
+I, [2024-03-17T11:20:22.558606 #3810]  INFO -- : 30-lessons-for-loving-en; 0.001134 sec; 8 chapters
+I, [2024-03-17T11:20:22.559773 #3810]  INFO -- : 30-ways-to-reboot-your-body-en; 0.001149 sec; 6 chapters
+I, [2024-03-17T11:20:22.561288 #3810]  INFO -- : 5-gears-en; 0.001498 sec; 10 chapters
+I, [2024-03-17T11:20:22.562557 #3810]  INFO -- : 5-levels-of-leadership-en; 0.001251 sec; 9 chapters
+I, [2024-03-17T11:20:22.570104 #3810]  INFO -- : 5-voices-en; 0.006155 sec; 10 chapters
+I, [2024-03-17T11:20:22.573177 #3810]  INFO -- : 59-seconds-en; 0.002232 sec; 10 chapters
+I, [2024-03-17T11:20:22.574279 #3810]  INFO -- : 60-seconds-and-youre-hired-en; 0.001085 sec; 7 chapters
+I, [2024-03-17T11:20:22.576352 #3810]  INFO -- : 7-business-habits-that-drive-high-performance-en; 0.002054 sec; 9 chapters
+I, [2024-03-17T11:20:22.578421 #3810]  INFO -- : 7-powers-en; 0.002046 sec; 9 chapters
+I, [2024-03-17T11:20:22.580615 #3810]  INFO -- : 7-strategies-for-wealth-and-happiness-en; 0.002176 sec; 9 chapters
+I, [2024-03-17T11:20:22.583959 #3810]  INFO -- : 8-secrets-to-powerful-manifesting-en; 0.003326 sec; 10 chapters
+I, [2024-03-17T11:20:22.586561 #3810]  INFO -- : 80-slash-20-internet-lead-generation-en; 0.002585 sec; 8 chapters
+I, [2024-03-17T11:20:22.587500 #3810]  INFO -- : 80-slash-20-sales-and-marketing-en; 0.000924 sec; 6 chapters
+I, [2024-03-17T11:20:22.588829 #3810]  INFO -- : a-better-world-inc-en; 0.001314 sec; 10 chapters
+I, [2024-03-17T11:20:22.590284 #3810]  INFO -- : a-bigger-prize-en; 0.00144 sec; 8 chapters
+I, [2024-03-17T11:20:22.592329 #3810]  INFO -- : a-biography-of-loneliness-en; 0.00203 sec; 10 chapters
+I, [2024-03-17T11:20:22.594225 #3810]  INFO -- : a-bone-to-pick-en; 0.001872 sec; 8 chapters
+I, [2024-03-17T11:20:22.595599 #3810]  INFO -- : a-brief-history-of-everyone-who-ever-lived-en; 0.001359 sec; 10 chapters
+I, [2024-03-17T11:20:22.598105 #3810]  INFO -- : a-brief-history-of-motion-en; 0.002491 sec; 11 chapters
+I, [2024-03-17T11:20:22.599685 #3810]  INFO -- : a-brief-history-of-thought-en; 0.001566 sec; 9 chapters
+I, [2024-03-17T11:20:22.603141 #3810]  INFO -- : a-brief-history-of-time-en; 0.003441 sec; 14 chapters
+I, [2024-03-17T11:20:22.604727 #3810]  INFO -- : a-city-on-mars-en; 0.001569 sec; 7 chapters
+I, [2024-03-17T11:20:22.606411 #3810]  INFO -- : a-complaint-free-world-en; 0.00167 sec; 7 chapters
+I, [2024-03-17T11:20:22.607893 #3810]  INFO -- : a-court-of-thorns-and-roses-en; 0.001465 sec; 7 chapters
+I, [2024-03-17T11:20:22.609892 #3810]  INFO -- : a-crack-in-creation-en; 0.001984 sec; 10 chapters
+I, [2024-03-17T11:20:22.611080 #3810]  INFO -- : a-cure-for-the-common-company-en; 0.001169 sec; 9 chapters
+I, [2024-03-17T11:20:22.613153 #3810]  INFO -- : a-first-rate-madness-en; 0.001639 sec; 7 chapters
+I, [2024-03-17T11:20:22.617391 #3810]  INFO -- : a-force-for-good-en; 0.004225 sec; 14 chapters
+I, [2024-03-17T11:20:22.620090 #3810]  INFO -- : a-general-theory-of-love-en; 0.002683 sec; 10 chapters
+I, [2024-03-17T11:20:22.622427 #3810]  INFO -- : a-guide-to-the-good-life-en; 0.002324 sec; 11 chapters
+I, [2024-03-17T11:20:22.623883 #3810]  INFO -- : a-handbook-for-new-stoics-en; 0.001441 sec; 10 chapters
+I, [2024-03-17T11:20:22.625738 #3810]  INFO -- : a-higher-loyalty-en; 0.001842 sec; 13 chapters
+I, [2024-03-17T11:20:22.627832 #3810]  INFO -- : a-history-of-god-en; 0.00208 sec; 13 chapters
+I, [2024-03-17T11:20:22.631080 #3810]  INFO -- : a-history-of-nigeria-en; 0.003232 sec; 12 chapters
+I, [2024-03-17T11:20:22.633109 #3810]  INFO -- : a-history-of-the-world-in-6-glasses-en; 0.001997 sec; 10 chapters
+I, [2024-03-17T11:20:22.635523 #3810]  INFO -- : a-hope-more-powerful-than-the-sea-en; 0.002399 sec; 8 chapters
+I, [2024-03-17T11:20:22.638182 #3810]  INFO -- : a-hunter-gatherers-guide-to-the-21st-century-en; 0.002644 sec; 8 chapters
+I, [2024-03-17T11:20:22.640909 #3810]  INFO -- : a-life-decoded-en; 0.002713 sec; 10 chapters
+I, [2024-03-17T11:20:22.642340 #3810]  INFO -- : a-life-on-our-planet-en; 0.001417 sec; 8 chapters
+I, [2024-03-17T11:20:22.644975 #3810]  INFO -- : a-little-history-of-economics-en; 0.002619 sec; 11 chapters
+I, [2024-03-17T11:20:22.646359 #3810]  INFO -- : a-little-history-of-philosophy-en; 0.001369 sec; 9 chapters
+I, [2024-03-17T11:20:22.648069 #3810]  INFO -- : a-little-life-en; 0.001696 sec; 8 chapters
+I, [2024-03-17T11:20:22.649740 #3810]  INFO -- : a-long-way-gone-en; 0.001657 sec; 9 chapters
+I, [2024-03-17T11:20:22.650725 #3810]  INFO -- : a-message-to-garcia-en; 0.000972 sec; 6 chapters
+I, [2024-03-17T11:20:22.652461 #3810]  INFO -- : a-million-years-in-a-day-en; 0.001721 sec; 8 chapters
+I, [2024-03-17T11:20:22.653847 #3810]  INFO -- : a-mind-for-numbers-en; 0.001372 sec; 10 chapters
+I, [2024-03-17T11:20:22.655462 #3810]  INFO -- : a-minute-to-think-en; 0.001601 sec; 9 chapters
+I, [2024-03-17T11:20:22.657077 #3810]  INFO -- : a-monks-guide-to-happiness-en; 0.001601 sec; 10 chapters
+I, [2024-03-17T11:20:22.658644 #3810]  INFO -- : a-more-beautiful-question-en; 0.001553 sec; 8 chapters
+I, [2024-03-17T11:20:22.660974 #3810]  INFO -- : a-new-earth-en; 0.002311 sec; 8 chapters
+I, [2024-03-17T11:20:22.662616 #3810]  INFO -- : a-new-way-for-mothers-en; 0.001628 sec; 8 chapters
+I, [2024-03-17T11:20:22.665094 #3810]  INFO -- : a-new-way-to-think-en; 0.002465 sec; 3 chapters
+I, [2024-03-17T11:20:22.668127 #3810]  INFO -- : a-peace-to-end-all-peace-en-david-fromkin; 0.00302 sec; 14 chapters
+I, [2024-03-17T11:20:22.670262 #3810]  INFO -- : a-people-betrayed-en; 0.002122 sec; 12 chapters
+I, [2024-03-17T11:20:22.673710 #3810]  INFO -- : a-peoples-history-of-the-united-states-en; 0.003435 sec; 16 chapters
+I, [2024-03-17T11:20:22.675163 #3810]  INFO -- : a-planet-of-viruses-en; 0.001437 sec; 7 chapters
+I, [2024-03-17T11:20:22.677461 #3810]  INFO -- : a-promised-land-en; 0.002277 sec; 12 chapters
+I, [2024-03-17T11:20:22.678560 #3810]  INFO -- : a-radical-awakening-en; 0.001081 sec; 6 chapters
+I, [2024-03-17T11:20:22.679198 #3810]  INFO -- : a-random-walk-down-wall-street-en; 0.000617 sec; 3 chapters
+I, [2024-03-17T11:20:22.681627 #3810]  INFO -- : a-really-good-day-en; 0.002414 sec; 10 chapters
+I, [2024-03-17T11:20:22.682850 #3810]  INFO -- : a-return-to-love-en; 0.001209 sec; 9 chapters
+I, [2024-03-17T11:20:22.684111 #3810]  INFO -- : a-river-in-darkness-en; 0.001246 sec; 8 chapters
+I, [2024-03-17T11:20:22.686752 #3810]  INFO -- : a-room-of-ones-own-en; 0.002628 sec; 8 chapters
+I, [2024-03-17T11:20:22.689418 #3810]  INFO -- : a-rose-for-emily-en; 0.002652 sec; 7 chapters
+I, [2024-03-17T11:20:22.691708 #3810]  INFO -- : a-short-history-of-brexit-en; 0.002275 sec; 12 chapters
+I, [2024-03-17T11:20:22.694487 #3810]  INFO -- : a-short-history-of-nearly-everything-en; 0.002765 sec; 15 chapters
+I, [2024-03-17T11:20:22.696057 #3810]  INFO -- : a-sky-full-of-birds-en; 0.001556 sec; 9 chapters
+I, [2024-03-17T11:20:22.697459 #3810]  INFO -- : a-slash-b-testing-en; 0.001388 sec; 9 chapters
+I, [2024-03-17T11:20:22.698974 #3810]  INFO -- : a-splendid-exchange-en; 0.001502 sec; 11 chapters
+I, [2024-03-17T11:20:22.701344 #3810]  INFO -- : a-spy-among-friends-en; 0.002183 sec; 12 chapters
+I, [2024-03-17T11:20:22.702726 #3810]  INFO -- : a-tale-of-two-cities-en; 0.001368 sec; 5 chapters
+I, [2024-03-17T11:20:22.704141 #3810]  INFO -- : a-team-of-leaders-en; 0.001401 sec; 7 chapters
+I, [2024-03-17T11:20:22.705353 #3810]  INFO -- : a-theory-of-justice-en; 0.001198 sec; 4 chapters
+I, [2024-03-17T11:20:22.706603 #3810]  INFO -- : a-thousand-brains-en; 0.001236 sec; 7 chapters
+I, [2024-03-17T11:20:22.707856 #3810]  INFO -- : a-very-english-scandal-en; 0.00124 sec; 8 chapters
+I, [2024-03-17T11:20:22.709901 #3810]  INFO -- : a-very-stable-genius-en; 0.002029 sec; 9 chapters
+I, [2024-03-17T11:20:22.711932 #3810]  INFO -- : a-vindication-of-the-rights-of-woman-en; 0.002017 sec; 7 chapters
+I, [2024-03-17T11:20:22.714288 #3810]  INFO -- : a-walk-in-the-woods-en; 0.00234 sec; 12 chapters
+I, [2024-03-17T11:20:22.716306 #3810]  INFO -- : a-warning-en; 0.001998 sec; 10 chapters
+I, [2024-03-17T11:20:22.718243 #3810]  INFO -- : a-wealth-of-common-sense-en; 0.001922 sec; 8 chapters
+I, [2024-03-17T11:20:22.719907 #3810]  INFO -- : a-whole-new-mind-en; 0.001649 sec; 10 chapters
+I, [2024-03-17T11:20:22.722090 #3810]  INFO -- : a-woman-of-no-importance-en; 0.00217 sec; 11 chapters
+I, [2024-03-17T11:20:22.723692 #3810]  INFO -- : a-world-gone-social-en; 0.001587 sec; 10 chapters
+I, [2024-03-17T11:20:22.725356 #3810]  INFO -- : a-world-in-disarray-en; 0.001645 sec; 9 chapters
+I, [2024-03-17T11:20:22.727247 #3810]  INFO -- : a-world-without-email-en; 0.001878 sec; 10 chapters
+I, [2024-03-17T11:20:22.728601 #3810]  INFO -- : a-world-without-ice-en; 0.00134 sec; 9 chapters
+I, [2024-03-17T11:20:22.730548 #3810]  INFO -- : a-world-without-work-en; 0.001934 sec; 9 chapters
+I, [2024-03-17T11:20:22.731871 #3810]  INFO -- : a-year-in-the-life-of-william-shakespeare-en; 0.00131 sec; 9 chapters
+I, [2024-03-17T11:20:22.733469 #3810]  INFO -- : a-year-of-positive-thinking-en; 0.00158 sec; 14 chapters
+I, [2024-03-17T11:20:22.734479 #3810]  INFO -- : a-year-of-self-care-en; 0.000996 sec; 7 chapters
+I, [2024-03-17T11:20:22.736142 #3810]  INFO -- : a-year-with-peter-drucker-en; 0.001644 sec; 9 chapters
+I, [2024-03-17T11:20:22.738124 #3810]  INFO -- : abortion-and-the-law-in-america-en; 0.001967 sec; 7 chapters
+I, [2024-03-17T11:20:22.740788 #3810]  INFO -- : abundance-en-deepak-chopra; 0.00265 sec; 7 chapters
+I, [2024-03-17T11:20:22.742361 #3810]  INFO -- : accelerate-en; 0.001553 sec; 7 chapters
+I, [2024-03-17T11:20:22.743621 #3810]  INFO -- : accelerating-performance-en; 0.001244 sec; 7 chapters
+I, [2024-03-17T11:20:22.745497 #3810]  INFO -- : accessing-the-healing-power-of-the-vagus-nerve-en; 0.001863 sec; 8 chapters
+I, [2024-03-17T11:20:22.746991 #3810]  INFO -- : accidental-genius-en; 0.001481 sec; 10 chapters
+I, [2024-03-17T11:20:22.748157 #3810]  INFO -- : accounting-for-non-accountants-en; 0.001152 sec; 8 chapters
+I, [2024-03-17T11:20:22.749859 #3810]  INFO -- : accounting-made-simple-en; 0.001688 sec; 8 chapters
+I, [2024-03-17T11:20:22.750702 #3810]  INFO -- : achieve-more-by-working-less-en; 0.000823 sec; 5 chapters
+I, [2024-03-17T11:20:22.751790 #3810]  INFO -- : across-that-bridge-en; 0.001075 sec; 9 chapters
+I, [2024-03-17T11:20:22.753362 #3810]  INFO -- : acting-with-power-en; 0.001559 sec; 10 chapters
+I, [2024-03-17T11:20:22.754863 #3810]  INFO -- : activate-your-brain-en; 0.001487 sec; 10 chapters
+I, [2024-03-17T11:20:22.756513 #3810]  INFO -- : activate-your-greatness-en; 0.001637 sec; 6 chapters
+I, [2024-03-17T11:20:22.758242 #3810]  INFO -- : adaptability-en; 0.001716 sec; 10 chapters
+I, [2024-03-17T11:20:22.760513 #3810]  INFO -- : adaptive-markets-en; 0.002258 sec; 10 chapters
+I, [2024-03-17T11:20:22.761670 #3810]  INFO -- : adaptive-resilience-en; 0.001143 sec; 7 chapters
+I, [2024-03-17T11:20:22.762964 #3810]  INFO -- : adhd-2-dot-0-en; 0.00128 sec; 8 chapters
+I, [2024-03-17T11:20:22.764166 #3810]  INFO -- : adhd-an-a-z-en; 0.001188 sec; 6 chapters
+I, [2024-03-17T11:20:22.765550 #3810]  INFO -- : adhd-for-smart-ass-women-en; 0.001372 sec; 6 chapters
+I, [2024-03-17T11:20:22.767077 #3810]  INFO -- : adrift-en; 0.001514 sec; 7 chapters
+I, [2024-03-17T11:20:22.768390 #3810]  INFO -- : adult-children-of-emotionally-immature-parents-en; 0.0013 sec; 8 chapters
+I, [2024-03-17T11:20:22.769474 #3810]  INFO -- : adult-daughters-of-narcissistic-mothers-en; 0.001069 sec; 6 chapters
+I, [2024-03-17T11:20:22.771177 #3810]  INFO -- : adults-in-the-room-en; 0.00169 sec; 9 chapters
+I, [2024-03-17T11:20:22.772412 #3810]  INFO -- : adventures-in-human-being-en; 0.001221 sec; 9 chapters
+I, [2024-03-17T11:20:22.774975 #3810]  INFO -- : adventures-in-the-anthropocene-en; 0.002549 sec; 12 chapters
+I, [2024-03-17T11:20:22.776998 #3810]  INFO -- : advice-not-given-en; 0.002009 sec; 10 chapters
+I, [2024-03-17T11:20:22.779398 #3810]  INFO -- : affluenza-en; 0.002386 sec; 11 chapters
+I, [2024-03-17T11:20:22.781186 #3810]  INFO -- : afropean-en; 0.001774 sec; 11 chapters
+I, [2024-03-17T11:20:22.782919 #3810]  INFO -- : after-the-fall-en; 0.00172 sec; 9 chapters
+I, [2024-03-17T11:20:22.784388 #3810]  INFO -- : against-creativity-en; 0.001455 sec; 8 chapters
+I, [2024-03-17T11:20:22.786289 #3810]  INFO -- : against-empathy-en; 0.001882 sec; 9 chapters
+I, [2024-03-17T11:20:22.787357 #3810]  INFO -- : age-of-anger-en; 0.001053 sec; 7 chapters
+I, [2024-03-17T11:20:22.788655 #3810]  INFO -- : age-of-discovery-en; 0.001283 sec; 9 chapters
+I, [2024-03-17T11:20:22.790046 #3810]  INFO -- : age-of-propaganda-en; 0.001377 sec; 11 chapters
+I, [2024-03-17T11:20:22.792137 #3810]  INFO -- : agent-sonya-en; 0.002072 sec; 10 chapters
+I, [2024-03-17T11:20:22.793224 #3810]  INFO -- : agile-selling-en; 0.00107 sec; 9 chapters
+I, [2024-03-17T11:20:22.794699 #3810]  INFO -- : ai-2041-en; 0.001461 sec; 11 chapters
+I, [2024-03-17T11:20:22.796147 #3810]  INFO -- : ai-superpowers-en; 0.001434 sec; 9 chapters
+I, [2024-03-17T11:20:22.797826 #3810]  INFO -- : aint-i-a-woman-en; 0.001665 sec; 9 chapters
+I, [2024-03-17T11:20:22.799220 #3810]  INFO -- : alchemy-en; 0.001368 sec; 9 chapters
+I, [2024-03-17T11:20:22.800454 #3810]  INFO -- : alcoholics-anonymous-en; 0.001185 sec; 7 chapters
+I, [2024-03-17T11:20:22.802199 #3810]  INFO -- : alex-and-me-en; 0.001715 sec; 9 chapters
+I, [2024-03-17T11:20:22.804835 #3810]  INFO -- : alexander-hamilton-en; 0.002609 sec; 17 chapters
+I, [2024-03-17T11:20:22.806974 #3810]  INFO -- : alexander-the-great-en; 0.002106 sec; 14 chapters
+I, [2024-03-17T11:20:22.809003 #3810]  INFO -- : algorithms-to-live-by-en; 0.002008 sec; 12 chapters
+I, [2024-03-17T11:20:22.810978 #3810]  INFO -- : ali-en; 0.001959 sec; 12 chapters
+I, [2024-03-17T11:20:22.813176 #3810]  INFO -- : alibaba-en; 0.002182 sec; 10 chapters
+I, [2024-03-17T11:20:22.814848 #3810]  INFO -- : alibabas-world-en; 0.001652 sec; 9 chapters
+I, [2024-03-17T11:20:22.816027 #3810]  INFO -- : alien-thinking-en; 0.001166 sec; 8 chapters
+I, [2024-03-17T11:20:22.817002 #3810]  INFO -- : all-about-love-en; 0.000961 sec; 8 chapters
+I, [2024-03-17T11:20:22.818562 #3810]  INFO -- : all-about-me-en; 0.001548 sec; 10 chapters
+I, [2024-03-17T11:20:22.819518 #3810]  INFO -- : all-boys-arent-blue-en; 0.000942 sec; 5 chapters
+I, [2024-03-17T11:20:22.820906 #3810]  INFO -- : all-creatures-great-and-small-en; 0.00137 sec; 9 chapters
+I, [2024-03-17T11:20:22.821735 #3810]  INFO -- : all-in-en-mike-michalowicz; 0.000816 sec; 7 chapters
+I, [2024-03-17T11:20:22.823589 #3810]  INFO -- : all-in-en; 0.001839 sec; 13 chapters
+I, [2024-03-17T11:20:22.824126 #3810]  INFO -- : all-in-on-ai-en; 0.000524 sec; 3 chapters
+I, [2024-03-17T11:20:22.825454 #3810]  INFO -- : all-joy-and-no-fun-en; 0.001315 sec; 8 chapters
+I, [2024-03-17T11:20:22.826538 #3810]  INFO -- : all-marketers-are-liars-en; 0.001071 sec; 8 chapters
+I, [2024-03-17T11:20:22.827544 #3810]  INFO -- : all-my-knotted-up-life-en; 0.000992 sec; 8 chapters
+I, [2024-03-17T11:20:22.829038 #3810]  INFO -- : all-the-frequent-troubles-of-our-days-en; 0.001481 sec; 11 chapters
+I, [2024-03-17T11:20:22.830041 #3810]  INFO -- : all-the-sinners-bleed-en; 0.00099 sec; 6 chapters
+I, [2024-03-17T11:20:22.831029 #3810]  INFO -- : all-work-no-play-en; 0.000975 sec; 8 chapters
+I, [2024-03-17T11:20:22.832259 #3810]  INFO -- : all-you-have-to-do-is-ask-en; 0.001217 sec; 10 chapters
+I, [2024-03-17T11:20:22.833352 #3810]  INFO -- : allen-carrs-easy-way-to-quit-emotional-eating-en; 0.001078 sec; 7 chapters
+I, [2024-03-17T11:20:22.836195 #3810]  INFO -- : alone-together-en; 0.002825 sec; 13 chapters
+I, [2024-03-17T11:20:22.837847 #3810]  INFO -- : altered-traits-en; 0.001638 sec; 10 chapters
+I, [2024-03-17T11:20:22.840179 #3810]  INFO -- : altruism-en; 0.002317 sec; 11 chapters
+I, [2024-03-17T11:20:22.843179 #3810]  INFO -- : always-hungry-en; 0.002984 sec; 10 chapters
+I, [2024-03-17T11:20:22.846875 #3810]  INFO -- : amazon-en; 0.00368 sec; 10 chapters
+I, [2024-03-17T11:20:22.850964 #3810]  INFO -- : america-before-en; 0.004065 sec; 12 chapters
+I, [2024-03-17T11:20:22.854139 #3810]  INFO -- : american-carnage-en; 0.003159 sec; 10 chapters
+I, [2024-03-17T11:20:22.856715 #3810]  INFO -- : american-crisis-en; 0.002561 sec; 10 chapters
+I, [2024-03-17T11:20:22.858697 #3810]  INFO -- : american-kompromat-en; 0.001962 sec; 8 chapters
+I, [2024-03-17T11:20:22.861479 #3810]  INFO -- : american-lion-en; 0.002765 sec; 13 chapters
+I, [2024-03-17T11:20:22.863027 #3810]  INFO -- : american-prometheus-en; 0.001531 sec; 7 chapters
+I, [2024-03-17T11:20:22.864369 #3810]  INFO -- : american-psycho-en; 0.001323 sec; 6 chapters
+I, [2024-03-17T11:20:22.866208 #3810]  INFO -- : american-savage-en; 0.001825 sec; 10 chapters
+I, [2024-03-17T11:20:22.868876 #3810]  INFO -- : americana-en; 0.002653 sec; 13 chapters
+I, [2024-03-17T11:20:22.870483 #3810]  INFO -- : americas-bank-en; 0.001593 sec; 10 chapters
+I, [2024-03-17T11:20:22.872562 #3810]  INFO -- : amp-it-up-en; 0.002065 sec; 8 chapters
+I, [2024-03-17T11:20:22.873807 #3810]  INFO -- : amusing-ourselves-to-death-en; 0.001231 sec; 8 chapters
+I, [2024-03-17T11:20:22.876160 #3810]  INFO -- : an-american-sickness-en; 0.002336 sec; 12 chapters
+I, [2024-03-17T11:20:22.880239 #3810]  INFO -- : an-astronauts-guide-to-life-on-earth-en; 0.004057 sec; 8 chapters
+I, [2024-03-17T11:20:22.884789 #3810]  INFO -- : an-audience-of-one-en; 0.004532 sec; 10 chapters
+I, [2024-03-17T11:20:22.897642 #3810]  INFO -- : an-autobiography-en; 0.01203 sec; 13 chapters
+I, [2024-03-17T11:20:22.903170 #3810]  INFO -- : an-economist-walks-into-a-brothel-en; 0.001733 sec; 8 chapters
+I, [2024-03-17T11:20:22.912365 #3810]  INFO -- : an-elegant-defense-en; 0.0064 sec; 13 chapters
+I, [2024-03-17T11:20:22.915338 #3810]  INFO -- : an-enquiry-concerning-human-understanding-en; 0.002944 sec; 9 chapters
+I, [2024-03-17T11:20:22.917335 #3810]  INFO -- : an-immense-world-en; 0.00198 sec; 6 chapters
+I, [2024-03-17T11:20:22.919368 #3810]  INFO -- : an-ordinary-man-en; 0.002019 sec; 6 chapters
+I, [2024-03-17T11:20:22.921054 #3810]  INFO -- : an-ugly-truth-en; 0.001671 sec; 10 chapters
+I, [2024-03-17T11:20:22.923158 #3810]  INFO -- : analysis-without-paralysis-en; 0.002089 sec; 12 chapters
+I, [2024-03-17T11:20:22.925446 #3810]  INFO -- : anarchism-en; 0.00227 sec; 7 chapters
+I, [2024-03-17T11:20:22.928211 #3810]  INFO -- : anatomy-of-an-epidemic-en; 0.002751 sec; 9 chapters
+I, [2024-03-17T11:20:22.930474 #3810]  INFO -- : ancient-egypt-en; 0.002248 sec; 9 chapters
+I, [2024-03-17T11:20:22.932105 #3810]  INFO -- : and-finally-en; 0.001618 sec; 7 chapters
+I, [2024-03-17T11:20:22.934124 #3810]  INFO -- : and-the-good-news-is-dot-dot-dot-en; 0.002004 sec; 8 chapters
+I, [2024-03-17T11:20:22.936654 #3810]  INFO -- : and-there-was-light-en; 0.002517 sec; 10 chapters
+I, [2024-03-17T11:20:22.939499 #3810]  INFO -- : anger-management-for-dummies-en; 0.002831 sec; 8 chapters
+I, [2024-03-17T11:20:22.941280 #3810]  INFO -- : angrynomics-en; 0.001767 sec; 7 chapters
+I, [2024-03-17T11:20:22.942944 #3810]  INFO -- : animal-farm-en; 0.00165 sec; 6 chapters
+I, [2024-03-17T11:20:22.945456 #3810]  INFO -- : anticipate-en; 0.002498 sec; 9 chapters
+I, [2024-03-17T11:20:22.948602 #3810]  INFO -- : antifragile-en; 0.00313 sec; 13 chapters
+I, [2024-03-17T11:20:22.950062 #3810]  INFO -- : antigone-en; 0.001446 sec; 6 chapters
+I, [2024-03-17T11:20:22.952217 #3810]  INFO -- : antimatter-en; 0.002142 sec; 8 chapters
+I, [2024-03-17T11:20:22.954916 #3810]  INFO -- : anxiety-at-work-en; 0.002685 sec; 9 chapters
+I, [2024-03-17T11:20:22.957478 #3810]  INFO -- : anxious-en; 0.002549 sec; 11 chapters
+I, [2024-03-17T11:20:22.959487 #3810]  INFO -- : anything-you-want-en; 0.001996 sec; 8 chapters
+I, [2024-03-17T11:20:22.963495 #3810]  INFO -- : apollos-arrow-en; 0.003993 sec; 10 chapters
+I, [2024-03-17T11:20:22.966099 #3810]  INFO -- : arabs-en; 0.002585 sec; 11 chapters
+I, [2024-03-17T11:20:22.968901 #3810]  INFO -- : architects-of-intelligence-en; 0.002788 sec; 10 chapters
+I, [2024-03-17T11:20:22.974446 #3810]  INFO -- : are-you-fully-charged-en; 0.005531 sec; 9 chapters
+I, [2024-03-17T11:20:22.976214 #3810]  INFO -- : arete-en; 0.001752 sec; 6 chapters
+I, [2024-03-17T11:20:22.977929 #3810]  INFO -- : arise-awake-en; 0.001701 sec; 8 chapters
+I, [2024-03-17T11:20:22.980311 #3810]  INFO -- : aristotles-way-en; 0.002369 sec; 9 chapters
+I, [2024-03-17T11:20:22.983230 #3810]  INFO -- : art-inc-en; 0.002905 sec; 9 chapters
+I, [2024-03-17T11:20:22.983817 #3810]  INFO -- : article-why-cant-the-worlds-greatest-minds-solve-the-mystery-of-consciousness-en; 0.000573 sec; 2 chapters
+I, [2024-03-17T11:20:22.985210 #3810]  INFO -- : as-a-man-thinketh-en; 0.00138 sec; 6 chapters
+I, [2024-03-17T11:20:22.987002 #3810]  INFO -- : ask-en; 0.001778 sec; 9 chapters
+I, [2024-03-17T11:20:22.990095 #3810]  INFO -- : ask-for-it-en; 0.00308 sec; 10 chapters
+I, [2024-03-17T11:20:22.991408 #3810]  INFO -- : ask-me-about-my-uterus-en; 0.0013 sec; 9 chapters
+I, [2024-03-17T11:20:22.993007 #3810]  INFO -- : asking-for-it-en; 0.001586 sec; 10 chapters
+I, [2024-03-17T11:20:22.995397 #3810]  INFO -- : astor-en; 0.002376 sec; 8 chapters
+I, [2024-03-17T11:20:22.997293 #3810]  INFO -- : astroball-en; 0.001882 sec; 10 chapters
+I, [2024-03-17T11:20:22.999043 #3810]  INFO -- : at-home-en; 0.001735 sec; 8 chapters
+I, [2024-03-17T11:20:23.000631 #3810]  INFO -- : at-the-existentialist-cafe-en; 0.001575 sec; 11 chapters
+I, [2024-03-17T11:20:23.001685 #3810]  INFO -- : at-your-best-en; 0.001039 sec; 8 chapters
+I, [2024-03-17T11:20:23.003627 #3810]  INFO -- : atlas-of-the-heart-en; 0.001928 sec; 10 chapters
+I, [2024-03-17T11:20:23.004734 #3810]  INFO -- : atlas-shrugged-en; 0.001094 sec; 5 chapters
+I, [2024-03-17T11:20:23.007301 #3810]  INFO -- : atomic-accidents-en; 0.002553 sec; 8 chapters
+I, [2024-03-17T11:20:23.009363 #3810]  INFO -- : atomic-habits-en; 0.002048 sec; 9 chapters
+I, [2024-03-17T11:20:23.012047 #3810]  INFO -- : attached-en; 0.002672 sec; 10 chapters
+I, [2024-03-17T11:20:23.013820 #3810]  INFO -- : attention-span-en; 0.001758 sec; 7 chapters
+I, [2024-03-17T11:20:23.014928 #3810]  INFO -- : attitude-reflects-leadership-en; 0.001095 sec; 7 chapters
+I, [2024-03-17T11:20:23.016378 #3810]  INFO -- : austerity-en-alberto-alesina-carlo-favero-and-francesco-giavazzi; 0.001431 sec; 9 chapters
+I, [2024-03-17T11:20:23.017982 #3810]  INFO -- : austerity-en; 0.001591 sec; 8 chapters
+I, [2024-03-17T11:20:23.019525 #3810]  INFO -- : autobiography-of-a-yogi-en; 0.001529 sec; 7 chapters
+I, [2024-03-17T11:20:23.021287 #3810]  INFO -- : autonomy-en; 0.001749 sec; 10 chapters
+I, [2024-03-17T11:20:23.023602 #3810]  INFO -- : awaken-your-genius-en; 0.002301 sec; 8 chapters
+I, [2024-03-17T11:20:23.025693 #3810]  INFO -- : awakening-compassion-at-work-en; 0.002075 sec; 10 chapters
+I, [2024-03-17T11:20:23.027146 #3810]  INFO -- : awakening-your-ikigai-en; 0.001438 sec; 7 chapters
+I, [2024-03-17T11:20:23.028747 #3810]  INFO -- : aware-en; 0.001581 sec; 10 chapters
+I, [2024-03-17T11:20:23.029908 #3810]  INFO -- : awe-en; 0.001147 sec; 6 chapters
+I, [2024-03-17T11:20:23.031100 #3810]  INFO -- : ayurveda-en; 0.001177 sec; 8 chapters
+I, [2024-03-17T11:20:23.032137 #3810]  INFO -- : baby-steps-millionaires-en; 0.001014 sec; 6 chapters
+I, [2024-03-17T11:20:23.035235 #3810]  INFO -- : back-channel-to-cuba-en; 0.003081 sec; 16 chapters
+I, [2024-03-17T11:20:23.036690 #3810]  INFO -- : back-to-human-en; 0.001439 sec; 9 chapters
+I, [2024-03-17T11:20:23.038329 #3810]  INFO -- : bad-blood-en; 0.001626 sec; 9 chapters
+I, [2024-03-17T11:20:23.039899 #3810]  INFO -- : bad-feminist-en; 0.001556 sec; 7 chapters
+I, [2024-03-17T11:20:23.041879 #3810]  INFO -- : bad-science-en; 0.001966 sec; 11 chapters
+I, [2024-03-17T11:20:23.043416 #3810]  INFO -- : badass-habits-en; 0.001523 sec; 7 chapters
+I, [2024-03-17T11:20:23.044956 #3810]  INFO -- : bank-investing-en; 0.001527 sec; 6 chapters
+I, [2024-03-17T11:20:23.047414 #3810]  INFO -- : barbarians-at-the-gate-en; 0.002444 sec; 10 chapters
+I, [2024-03-17T11:20:23.049737 #3810]  INFO -- : bargaining-for-advantage-en; 0.002309 sec; 10 chapters
+I, [2024-03-17T11:20:23.051125 #3810]  INFO -- : barking-up-the-wrong-tree-en; 0.001374 sec; 8 chapters
+I, [2024-03-17T11:20:23.052578 #3810]  INFO -- : bartleby-the-scrivener-en; 0.00143 sec; 5 chapters
+I, [2024-03-17T11:20:23.054071 #3810]  INFO -- : basic-economics-en; 0.00148 sec; 6 chapters
+I, [2024-03-17T11:20:23.055628 #3810]  INFO -- : battle-hymn-of-the-tiger-mother-en; 0.001544 sec; 7 chapters
+I, [2024-03-17T11:20:23.057778 #3810]  INFO -- : be-a-free-range-human-en; 0.002137 sec; 9 chapters
+I, [2024-03-17T11:20:23.060484 #3810]  INFO -- : be-fearless-en; 0.002692 sec; 10 chapters
+I, [2024-03-17T11:20:23.062665 #3810]  INFO -- : be-obsessed-or-be-average-en; 0.002168 sec; 9 chapters
+I, [2024-03-17T11:20:23.064164 #3810]  INFO -- : be-our-guest-en; 0.001484 sec; 9 chapters
+I, [2024-03-17T11:20:23.065261 #3810]  INFO -- : be-seen-en; 0.001083 sec; 7 chapters
+I, [2024-03-17T11:20:23.067343 #3810]  INFO -- : be-the-love-en; 0.002067 sec; 9 chapters
+I, [2024-03-17T11:20:23.069206 #3810]  INFO -- : be-the-unicorn-en; 0.001843 sec; 8 chapters
+I, [2024-03-17T11:20:23.070819 #3810]  INFO -- : be-useful-en; 0.001598 sec; 9 chapters
+I, [2024-03-17T11:20:23.071773 #3810]  INFO -- : be-water-my-friend-en; 0.000941 sec; 7 chapters
+I, [2024-03-17T11:20:23.074473 #3810]  INFO -- : be-where-your-feet-are-en; 0.002685 sec; 8 chapters
+I, [2024-03-17T11:20:23.075834 #3810]  INFO -- : be-your-future-self-now-en; 0.001348 sec; 8 chapters
+I, [2024-03-17T11:20:23.077148 #3810]  INFO -- : beat-gender-bias-en; 0.001302 sec; 8 chapters
+I, [2024-03-17T11:20:23.079188 #3810]  INFO -- : beat-sugar-addiction-now-en; 0.002027 sec; 10 chapters
+I, [2024-03-17T11:20:23.081318 #3810]  INFO -- : beautiful-game-theory-en; 0.002117 sec; 9 chapters
+I, [2024-03-17T11:20:23.082794 #3810]  INFO -- : because-internet-en; 0.001462 sec; 9 chapters
+I, [2024-03-17T11:20:23.085057 #3810]  INFO -- : becoming-attached-en; 0.00225 sec; 10 chapters
+I, [2024-03-17T11:20:23.087335 #3810]  INFO -- : becoming-beauvoir-en; 0.001934 sec; 10 chapters
+I, [2024-03-17T11:20:23.089796 #3810]  INFO -- : becoming-en; 0.002379 sec; 13 chapters
+I, [2024-03-17T11:20:23.091301 #3810]  INFO -- : becoming-fdr-en; 0.001491 sec; 7 chapters
+I, [2024-03-17T11:20:23.093128 #3810]  INFO -- : becoming-kim-jong-un-en; 0.001814 sec; 9 chapters
+I, [2024-03-17T11:20:23.094969 #3810]  INFO -- : becoming-myself-en; 0.001828 sec; 7 chapters
+I, [2024-03-17T11:20:23.096509 #3810]  INFO -- : becoming-steve-jobs-en; 0.001526 sec; 12 chapters
+I, [2024-03-17T11:20:23.097905 #3810]  INFO -- : becoming-supernatural-en; 0.001383 sec; 6 chapters
+I, [2024-03-17T11:20:23.099235 #3810]  INFO -- : becoming-the-boss-en; 0.001317 sec; 9 chapters
+I, [2024-03-17T11:20:23.100875 #3810]  INFO -- : bedtime-biography-an-autobiography-en; 0.001626 sec; 6 chapters
+I, [2024-03-17T11:20:23.102399 #3810]  INFO -- : bedtime-biography-black-spartacus-en; 0.001506 sec; 6 chapters
+I, [2024-03-17T11:20:23.104435 #3810]  INFO -- : bedtime-biography-born-a-crime-en; 0.002016 sec; 8 chapters
+I, [2024-03-17T11:20:23.106071 #3810]  INFO -- : bedtime-biography-edison-en; 0.001619 sec; 6 chapters
+I, [2024-03-17T11:20:23.108788 #3810]  INFO -- : bedtime-biography-florence-nightingale-en; 0.002703 sec; 6 chapters
+I, [2024-03-17T11:20:23.110899 #3810]  INFO -- : bedtime-biography-frida-en; 0.002097 sec; 5 chapters
+I, [2024-03-17T11:20:23.112372 #3810]  INFO -- : bedtime-biography-genghis-khan-and-the-making-of-the-modern-world-en; 0.001458 sec; 6 chapters
+I, [2024-03-17T11:20:23.114021 #3810]  INFO -- : bedtime-biography-harriet-tubman-en; 0.001633 sec; 7 chapters
+I, [2024-03-17T11:20:23.116497 #3810]  INFO -- : bedtime-biography-hidden-figures-en; 0.002462 sec; 6 chapters
+I, [2024-03-17T11:20:23.117783 #3810]  INFO -- : bedtime-biography-isaac-newton-en; 0.001273 sec; 5 chapters
+I, [2024-03-17T11:20:23.119864 #3810]  INFO -- : bedtime-biography-long-walk-to-freedom-en; 0.002064 sec; 7 chapters
+I, [2024-03-17T11:20:23.121580 #3810]  INFO -- : bedtime-biography-madame-curie-en; 0.001703 sec; 6 chapters
+I, [2024-03-17T11:20:23.122838 #3810]  INFO -- : bedtime-biography-margaret-thatcher-en; 0.001244 sec; 4 chapters
+I, [2024-03-17T11:20:23.124248 #3810]  INFO -- : bedtime-biography-me-en; 0.001398 sec; 6 chapters
+I, [2024-03-17T11:20:23.125508 #3810]  INFO -- : bedtime-biography-napoleon-the-great-en; 0.001247 sec; 6 chapters
+I, [2024-03-17T11:20:23.126931 #3810]  INFO -- : bedtime-biography-notorious-rbg-en; 0.00141 sec; 6 chapters
+I, [2024-03-17T11:20:23.128061 #3810]  INFO -- : bedtime-biography-queen-of-fashion-en; 0.001117 sec; 5 chapters
+I, [2024-03-17T11:20:23.129658 #3810]  INFO -- : bedtime-biography-shoot-for-the-moon-en; 0.001584 sec; 7 chapters
+I, [2024-03-17T11:20:23.131827 #3810]  INFO -- : bedtime-biography-stasiland-en; 0.002156 sec; 7 chapters
+I, [2024-03-17T11:20:23.132811 #3810]  INFO -- : bedtime-biography-the-autobiography-of-eleanor-roosevelt-en; 0.000971 sec; 6 chapters
+I, [2024-03-17T11:20:23.134274 #3810]  INFO -- : bedtime-biography-the-autobiography-of-martin-luther-king-jr-en; 0.00145 sec; 6 chapters
+I, [2024-03-17T11:20:23.135778 #3810]  INFO -- : bedtime-biography-the-rebellious-life-of-mrs-rosa-parks-en; 0.00149 sec; 7 chapters
+I, [2024-03-17T11:20:23.137558 #3810]  INFO -- : bedtime-biography-vindication-en; 0.001766 sec; 6 chapters
+I, [2024-03-17T11:20:23.139079 #3810]  INFO -- : bedtime-biography-yes-i-can-en; 0.001501 sec; 7 chapters
+I, [2024-03-17T11:20:23.141611 #3810]  INFO -- : beethoven-en; 0.002508 sec; 12 chapters
+I, [2024-03-17T11:20:23.143551 #3810]  INFO -- : before-happiness-en; 0.001927 sec; 10 chapters
+I, [2024-03-17T11:20:23.145036 #3810]  INFO -- : begin-again-en; 0.001472 sec; 9 chapters
+I, [2024-03-17T11:20:23.146856 #3810]  INFO -- : beginners-en; 0.001805 sec; 9 chapters
+I, [2024-03-17T11:20:23.149228 #3810]  INFO -- : behave-en; 0.002358 sec; 11 chapters
+I, [2024-03-17T11:20:23.150609 #3810]  INFO -- : behind-the-beautiful-forevers-en; 0.001362 sec; 11 chapters
+I, [2024-03-17T11:20:23.152607 #3810]  INFO -- : behind-the-cloud-en; 0.001983 sec; 9 chapters
+I, [2024-03-17T11:20:23.154074 #3810]  INFO -- : being-and-nothingness-en; 0.001454 sec; 7 chapters
+I, [2024-03-17T11:20:23.155157 #3810]  INFO -- : being-and-time-en; 0.001069 sec; 5 chapters
+I, [2024-03-17T11:20:23.156933 #3810]  INFO -- : being-boss-en; 0.001762 sec; 8 chapters
+I, [2024-03-17T11:20:23.159060 #3810]  INFO -- : being-mortal-en; 0.002115 sec; 10 chapters
+I, [2024-03-17T11:20:23.160714 #3810]  INFO -- : being-you-en; 0.001641 sec; 10 chapters
+I, [2024-03-17T11:20:23.161909 #3810]  INFO -- : beloved-en; 0.001181 sec; 6 chapters
+I, [2024-03-17T11:20:23.163025 #3810]  INFO -- : beowulf-en; 0.001103 sec; 5 chapters
+I, [2024-03-17T11:20:23.164824 #3810]  INFO -- : berkshire-beyond-buffett-en; 0.001786 sec; 9 chapters
+I, [2024-03-17T11:20:23.166296 #3810]  INFO -- : best-job-ever-en; 0.00146 sec; 7 chapters
+I, [2024-03-17T11:20:23.167893 #3810]  INFO -- : best-self-en; 0.001584 sec; 8 chapters
+I, [2024-03-17T11:20:23.168722 #3810]  INFO -- : bet-on-yourself-en; 0.000816 sec; 5 chapters
+I, [2024-03-17T11:20:23.170535 #3810]  INFO -- : better-and-faster-en; 0.0018 sec; 8 chapters
+I, [2024-03-17T11:20:23.172244 #3810]  INFO -- : better-living-through-criticism-en; 0.001696 sec; 10 chapters
+I, [2024-03-17T11:20:23.174184 #3810]  INFO -- : better-sex-through-mindfulness-en; 0.001927 sec; 10 chapters
+I, [2024-03-17T11:20:23.176155 #3810]  INFO -- : better-than-alpha-en; 0.001956 sec; 9 chapters
+I, [2024-03-17T11:20:23.178923 #3810]  INFO -- : better-than-before-en; 0.002754 sec; 9 chapters
+I, [2024-03-17T11:20:23.181141 #3810]  INFO -- : better-together-en; 0.002205 sec; 10 chapters
+I, [2024-03-17T11:20:23.184038 #3810]  INFO -- : betting-on-you-en; 0.002884 sec; 10 chapters
+I, [2024-03-17T11:20:23.185867 #3810]  INFO -- : between-the-world-and-me-en; 0.001815 sec; 9 chapters
+I, [2024-03-17T11:20:23.187777 #3810]  INFO -- : beyond-culture-en; 0.001897 sec; 8 chapters
+I, [2024-03-17T11:20:23.190318 #3810]  INFO -- : beyond-entrepreneurship-2-dot-0-en; 0.002529 sec; 10 chapters
+I, [2024-03-17T11:20:23.192934 #3810]  INFO -- : beyond-good-and-evil-en; 0.002603 sec; 9 chapters
+I, [2024-03-17T11:20:23.195817 #3810]  INFO -- : beyond-order-en; 0.00287 sec; 14 chapters
+I, [2024-03-17T11:20:23.197948 #3810]  INFO -- : beyond-the-wand-en; 0.002118 sec; 9 chapters
+I, [2024-03-17T11:20:23.199977 #3810]  INFO -- : beyond-tidy-en; 0.002016 sec; 11 chapters
+I, [2024-03-17T11:20:23.201931 #3810]  INFO -- : beyond-willpower-en; 0.00194 sec; 9 chapters
+I, [2024-03-17T11:20:23.203705 #3810]  INFO -- : beyond-words-en; 0.001761 sec; 12 chapters
+I, [2024-03-17T11:20:23.206312 #3810]  INFO -- : big-bang-disruption-en; 0.002594 sec; 9 chapters
+I, [2024-03-17T11:20:23.208801 #3810]  INFO -- : big-data-en; 0.002475 sec; 13 chapters
+I, [2024-03-17T11:20:23.210217 #3810]  INFO -- : big-feelings-en; 0.001399 sec; 9 chapters
+I, [2024-03-17T11:20:23.212004 #3810]  INFO -- : big-magic-en; 0.001774 sec; 8 chapters
+I, [2024-03-17T11:20:23.214081 #3810]  INFO -- : big-mistakes-en; 0.002064 sec; 10 chapters
+I, [2024-03-17T11:20:23.215945 #3810]  INFO -- : big-potential-en; 0.00185 sec; 8 chapters
+I, [2024-03-17T11:20:23.217349 #3810]  INFO -- : big-weed-en; 0.001391 sec; 8 chapters
+I, [2024-03-17T11:20:23.220978 #3810]  INFO -- : billion-dollar-whale-en; 0.003616 sec; 12 chapters
+I, [2024-03-17T11:20:23.223125 #3810]  INFO -- : biohack-your-brain-en; 0.002133 sec; 9 chapters
+I, [2024-03-17T11:20:23.225870 #3810]  INFO -- : bird-by-bird-en; 0.002731 sec; 13 chapters
+I, [2024-03-17T11:20:23.227349 #3810]  INFO -- : birnam-wood-en; 0.001464 sec; 5 chapters
+I, [2024-03-17T11:20:23.229834 #3810]  INFO -- : bit-literacy-en; 0.002471 sec; 10 chapters
+I, [2024-03-17T11:20:23.231224 #3810]  INFO -- : bittersweet-en; 0.001375 sec; 6 chapters
+I, [2024-03-17T11:20:23.234131 #3810]  INFO -- : black-and-british-en; 0.002894 sec; 12 chapters
+I, [2024-03-17T11:20:23.235932 #3810]  INFO -- : black-and-white-thinking-en; 0.001787 sec; 9 chapters
+I, [2024-03-17T11:20:23.237747 #3810]  INFO -- : black-box-thinking-en; 0.001802 sec; 8 chapters
+I, [2024-03-17T11:20:23.239802 #3810]  INFO -- : black-edge-en; 0.00204 sec; 10 chapters
+I, [2024-03-17T11:20:23.241859 #3810]  INFO -- : black-flags-en; 0.002044 sec; 9 chapters
+I, [2024-03-17T11:20:23.243896 #3810]  INFO -- : bless-this-mess-en; 0.002022 sec; 11 chapters
+I, [2024-03-17T11:20:23.245732 #3810]  INFO -- : blink-en; 0.001811 sec; 10 chapters
+I, [2024-03-17T11:20:23.247586 #3810]  INFO -- : blinkracy-en; 0.001837 sec; 8 chapters
+I, [2024-03-17T11:20:23.249313 #3810]  INFO -- : bliss-more-en; 0.001713 sec; 9 chapters
+I, [2024-03-17T11:20:23.251500 #3810]  INFO -- : blitzscaling-en; 0.002174 sec; 12 chapters
+I, [2024-03-17T11:20:23.253563 #3810]  INFO -- : blockchain-chicken-farm-en; 0.002047 sec; 9 chapters
+I, [2024-03-17T11:20:23.255584 #3810]  INFO -- : blockchain-revolution-en; 0.002008 sec; 9 chapters
+I, [2024-03-17T11:20:23.257272 #3810]  INFO -- : blood-feud-en; 0.001675 sec; 7 chapters
+I, [2024-03-17T11:20:23.260705 #3810]  INFO -- : bloodlands-en; 0.00342 sec; 14 chapters
+I, [2024-03-17T11:20:23.262931 #3810]  INFO -- : bloody-brilliant-women-en; 0.002211 sec; 9 chapters
+I, [2024-03-17T11:20:23.265366 #3810]  INFO -- : blowout-en; 0.002422 sec; 11 chapters
+I, [2024-03-17T11:20:23.266899 #3810]  INFO -- : blue-hour-en; 0.001521 sec; 6 chapters
+I, [2024-03-17T11:20:23.270252 #3810]  INFO -- : blue-ocean-shift-en; 0.003339 sec; 12 chapters
+I, [2024-03-17T11:20:23.271272 #3810]  INFO -- : blue-ocean-strategy-en; 0.001007 sec; 4 chapters
+I, [2024-03-17T11:20:23.273581 #3810]  INFO -- : blueprint-en; 0.002296 sec; 9 chapters
+I, [2024-03-17T11:20:23.275081 #3810]  INFO -- : blueprint-for-revolution-en; 0.001481 sec; 8 chapters
+I, [2024-03-17T11:20:23.277053 #3810]  INFO -- : body-by-science-en; 0.001956 sec; 9 chapters
+I, [2024-03-17T11:20:23.279321 #3810]  INFO -- : body-kindness-en; 0.002252 sec; 10 chapters
+I, [2024-03-17T11:20:23.281624 #3810]  INFO -- : boost-en; 0.002285 sec; 9 chapters
+I, [2024-03-17T11:20:23.283511 #3810]  INFO -- : bored-and-brilliant-en; 0.001872 sec; 10 chapters
+I, [2024-03-17T11:20:23.286058 #3810]  INFO -- : born-a-crime-en; 0.002532 sec; 10 chapters
+I, [2024-03-17T11:20:23.290042 #3810]  INFO -- : born-for-this-en; 0.00397 sec; 9 chapters
+I, [2024-03-17T11:20:23.291803 #3810]  INFO -- : born-liars-en; 0.001746 sec; 9 chapters
+I, [2024-03-17T11:20:23.293742 #3810]  INFO -- : born-to-run-en; 0.001924 sec; 10 chapters
+I, [2024-03-17T11:20:23.295291 #3810]  INFO -- : born-to-win-en; 0.001531 sec; 7 chapters
+I, [2024-03-17T11:20:23.297605 #3810]  INFO -- : bounce-back-en; 0.002153 sec; 9 chapters
+I, [2024-03-17T11:20:23.299723 #3810]  INFO -- : bounce-en; 0.002103 sec; 10 chapters
+I, [2024-03-17T11:20:23.301733 #3810]  INFO -- : boundaries-en; 0.001997 sec; 10 chapters
+I, [2024-03-17T11:20:23.303259 #3810]  INFO -- : boundaries-for-leaders-en; 0.001509 sec; 7 chapters
+I, [2024-03-17T11:20:23.304489 #3810]  INFO -- : bourbon-empire-en; 0.001216 sec; 8 chapters
+I, [2024-03-17T11:20:23.306819 #3810]  INFO -- : boy-erased-en; 0.00213 sec; 8 chapters
+I, [2024-03-17T11:20:23.309404 #3810]  INFO -- : boys-and-sex-en; 0.00257 sec; 10 chapters
+I, [2024-03-17T11:20:23.311215 #3810]  INFO -- : braiding-sweetgrass-en; 0.001797 sec; 8 chapters
+I, [2024-03-17T11:20:23.313944 #3810]  INFO -- : brain-food-en; 0.002715 sec; 10 chapters
+I, [2024-03-17T11:20:23.316080 #3810]  INFO -- : brain-maker-en; 0.002116 sec; 10 chapters
+I, [2024-03-17T11:20:23.317919 #3810]  INFO -- : brain-rules-en; 0.001824 sec; 10 chapters
+I, [2024-03-17T11:20:23.323188 #3810]  INFO -- : brain-wash-en; 0.005254 sec; 13 chapters
+I, [2024-03-17T11:20:23.324501 #3810]  INFO -- : brainfluence-en; 0.001299 sec; 8 chapters
+I, [2024-03-17T11:20:23.326235 #3810]  INFO -- : brainstorm-en; 0.001721 sec; 9 chapters
+I, [2024-03-17T11:20:23.328036 #3810]  INFO -- : branding-between-the-ears-en; 0.001786 sec; 8 chapters
+I, [2024-03-17T11:20:23.329733 #3810]  INFO -- : brave-en; 0.001681 sec; 10 chapters
+I, [2024-03-17T11:20:23.331529 #3810]  INFO -- : brave-new-war-en; 0.001783 sec; 10 chapters
+I, [2024-03-17T11:20:23.333535 #3810]  INFO -- : brave-new-work-en; 0.001993 sec; 11 chapters
+I, [2024-03-17T11:20:23.335822 #3810]  INFO -- : brave-new-world-en; 0.002274 sec; 7 chapters
+I, [2024-03-17T11:20:23.337187 #3810]  INFO -- : brave-not-perfect-en; 0.001351 sec; 7 chapters
+I, [2024-03-17T11:20:23.339415 #3810]  INFO -- : braving-the-wilderness-en; 0.002214 sec; 8 chapters
+I, [2024-03-17T11:20:23.341141 #3810]  INFO -- : brazillionaires-en; 0.001713 sec; 7 chapters
+I, [2024-03-17T11:20:23.346722 #3810]  INFO -- : breaking-the-cycle-en-george-n-collins-with-andrew-adleman; 0.005566 sec; 8 chapters
+I, [2024-03-17T11:20:23.348645 #3810]  INFO -- : breaking-the-habit-of-being-yourself-en; 0.001905 sec; 8 chapters
+I, [2024-03-17T11:20:23.350544 #3810]  INFO -- : breaking-up-with-sugar-en; 0.001693 sec; 8 chapters
+I, [2024-03-17T11:20:23.353040 #3810]  INFO -- : breakpoint-en; 0.002481 sec; 8 chapters
+I, [2024-03-17T11:20:23.355670 #3810]  INFO -- : breath-en; 0.002615 sec; 10 chapters
+I, [2024-03-17T11:20:23.357654 #3810]  INFO -- : brief-answers-to-the-big-questions-en; 0.00197 sec; 10 chapters
+I, [2024-03-17T11:20:23.359885 #3810]  INFO -- : brief-en; 0.002216 sec; 9 chapters
+I, [2024-03-17T11:20:23.377548 #3810]  INFO -- : chaos-en; 0.002955 sec; 11 chapters
+I, [2024-03-17T11:20:23.380446 #3810]  INFO -- : chaos-monkeys-en; 0.002881 sec; 9 chapters
+I, [2024-03-17T11:20:23.383379 #3810]  INFO -- : chaos-under-heaven-en; 0.002917 sec; 11 chapters
+I, [2024-03-17T11:20:23.385270 #3810]  INFO -- : charismatic-leadership-en; 0.001874 sec; 7 chapters
+I, [2024-03-17T11:20:23.386722 #3810]  INFO -- : charlie-munger-en; 0.001433 sec; 7 chapters
+I, [2024-03-17T11:20:23.388437 #3810]  INFO -- : chasing-excellence-en; 0.001702 sec; 8 chapters
+I, [2024-03-17T11:20:23.391268 #3810]  INFO -- : chasing-hillary-en; 0.00281 sec; 12 chapters
+I, [2024-03-17T11:20:23.393239 #3810]  INFO -- : chasing-the-scream-en; 0.001957 sec; 9 chapters
+I, [2024-03-17T11:20:23.395002 #3810]  INFO -- : chasing-the-sun-en; 0.00175 sec; 8 chapters
+I, [2024-03-17T11:20:23.397614 #3810]  INFO -- : chatter-en; 0.002598 sec; 9 chapters
+I, [2024-03-17T11:20:23.399594 #3810]  INFO -- : chernobyl-en; 0.001967 sec; 10 chapters
+I, [2024-03-17T11:20:23.401127 #3810]  INFO -- : chief-joy-officer-en; 0.001515 sec; 9 chapters
+I, [2024-03-17T11:20:23.403328 #3810]  INFO -- : china-in-ten-words-en; 0.002187 sec; 12 chapters
+I, [2024-03-17T11:20:23.405246 #3810]  INFO -- : chinas-second-continent-en; 0.001905 sec; 10 chapters
+I, [2024-03-17T11:20:23.406548 #3810]  INFO -- : chinas-super-consumers-en; 0.001289 sec; 8 chapters
+I, [2024-03-17T11:20:23.409568 #3810]  INFO -- : choose-possibility-en; 0.003006 sec; 11 chapters
+I, [2024-03-17T11:20:23.410892 #3810]  INFO -- : choose-your-enemies-wisely-en; 0.001308 sec; 6 chapters
+I, [2024-03-17T11:20:23.413380 #3810]  INFO -- : choose-yourself-en; 0.002474 sec; 11 chapters
+I, [2024-03-17T11:20:23.415340 #3810]  INFO -- : choosing-to-run-en; 0.001948 sec; 8 chapters
+I, [2024-03-17T11:20:23.416912 #3810]  INFO -- : cinema-speculation-en; 0.00156 sec; 7 chapters
+I, [2024-03-17T11:20:23.419486 #3810]  INFO -- : civilization-en; 0.00256 sec; 11 chapters
+I, [2024-03-17T11:20:23.421640 #3810]  INFO -- : civilizations-en; 0.002136 sec; 10 chapters
+I, [2024-03-17T11:20:23.423249 #3810]  INFO -- : clay-water-brick-en; 0.001594 sec; 10 chapters
+I, [2024-03-17T11:20:23.425989 #3810]  INFO -- : clean-en-james-hamblin; 0.002726 sec; 10 chapters
+I, [2024-03-17T11:20:23.427813 #3810]  INFO -- : clean-en; 0.00181 sec; 9 chapters
+I, [2024-03-17T11:20:23.429506 #3810]  INFO -- : clean-ish-en; 0.001679 sec; 8 chapters
+I, [2024-03-17T11:20:23.430765 #3810]  INFO -- : cleaning-up-your-mental-mess-en; 0.001246 sec; 9 chapters
+I, [2024-03-17T11:20:23.431656 #3810]  INFO -- : clear-thinking-en; 0.000875 sec; 7 chapters
+I, [2024-03-17T11:20:23.433532 #3810]  INFO -- : clearer-closer-better-en; 0.001863 sec; 10 chapters
+I, [2024-03-17T11:20:23.435586 #3810]  INFO -- : clever-girl-finance-en; 0.002039 sec; 10 chapters
+I, [2024-03-17T11:20:23.438184 #3810]  INFO -- : click-en; 0.002585 sec; 11 chapters
+I, [2024-03-17T11:20:23.439236 #3810]  INFO -- : clients-first-en; 0.001039 sec; 7 chapters
+I, [2024-03-17T11:20:23.441078 #3810]  INFO -- : clockwork-en; 0.001824 sec; 10 chapters
+I, [2024-03-17T11:20:23.442766 #3810]  INFO -- : closer-to-love-en; 0.001671 sec; 8 chapters
+I, [2024-03-17T11:20:23.443795 #3810]  INFO -- : cloudmoney-en; 0.001016 sec; 5 chapters
+I, [2024-03-17T11:20:23.445942 #3810]  INFO -- : cluttered-mess-to-organized-success-workbook-en; 0.001976 sec; 6 chapters
+I, [2024-03-17T11:20:23.447764 #3810]  INFO -- : co-active-coaching-en; 0.001801 sec; 8 chapters
+I, [2024-03-17T11:20:23.449606 #3810]  INFO -- : co-opetition-en; 0.001828 sec; 9 chapters
+I, [2024-03-17T11:20:23.451170 #3810]  INFO -- : coaching-for-performance-en; 0.001546 sec; 8 chapters
+I, [2024-03-17T11:20:23.452248 #3810]  INFO -- : coaching-salespeople-into-sales-champions-en; 0.001063 sec; 8 chapters
+I, [2024-03-17T11:20:23.453671 #3810]  INFO -- : cod-en; 0.001407 sec; 8 chapters
+I, [2024-03-17T11:20:23.455850 #3810]  INFO -- : code-girls-en; 0.002162 sec; 11 chapters
+I, [2024-03-17T11:20:23.457065 #3810]  INFO -- : codependent-no-more-en; 0.001197 sec; 7 chapters
+I, [2024-03-17T11:20:23.459375 #3810]  INFO -- : coffee-lunch-coffee-en; 0.002295 sec; 10 chapters
+I, [2024-03-17T11:20:23.460596 #3810]  INFO -- : cognitive-behavioral-therapy-en; 0.001207 sec; 6 chapters
+I, [2024-03-17T11:20:23.462169 #3810]  INFO -- : coined-en; 0.001559 sec; 7 chapters
+I, [2024-03-17T11:20:23.463829 #3810]  INFO -- : collaborative-intelligence-en; 0.001646 sec; 11 chapters
+I, [2024-03-17T11:20:23.465668 #3810]  INFO -- : collective-illusions-en; 0.001824 sec; 8 chapters
+I, [2024-03-17T11:20:23.468005 #3810]  INFO -- : color-en; 0.002322 sec; 10 chapters
+I, [2024-03-17T11:20:23.469586 #3810]  INFO -- : comfortably-unaware-en; 0.001567 sec; 8 chapters
+I, [2024-03-17T11:20:23.471655 #3810]  INFO -- : coming-alive-en; 0.002056 sec; 7 chapters
+I, [2024-03-17T11:20:23.474635 #3810]  INFO -- : command-and-control-en; 0.002966 sec; 13 chapters
+I, [2024-03-17T11:20:23.477052 #3810]  INFO -- : common-sense-pregnancy-en; 0.002288 sec; 10 chapters
+I, [2024-03-17T11:20:23.478708 #3810]  INFO -- : common-stocks-and-uncommon-profits-and-other-writings-en; 0.001642 sec; 10 chapters
+I, [2024-03-17T11:20:23.480438 #3810]  INFO -- : communicate-in-a-crisis-en; 0.001716 sec; 10 chapters
+I, [2024-03-17T11:20:23.482132 #3810]  INFO -- : communicate-to-influence-en; 0.001676 sec; 12 chapters
+I, [2024-03-17T11:20:23.484416 #3810]  INFO -- : communicate-with-mastery-en; 0.00227 sec; 10 chapters
+I, [2024-03-17T11:20:23.486718 #3810]  INFO -- : company-of-one-en; 0.002288 sec; 12 chapters
+I, [2024-03-17T11:20:23.488401 #3810]  INFO -- : competing-against-luck-en; 0.001668 sec; 7 chapters
+I, [2024-03-17T11:20:23.489339 #3810]  INFO -- : competing-in-the-age-of-ai-en; 0.000922 sec; 4 chapters
+I, [2024-03-17T11:20:23.490181 #3810]  INFO -- : competing-in-the-new-world-of-work-en; 0.000828 sec; 3 chapters
+I, [2024-03-17T11:20:23.491946 #3810]  INFO -- : complex-borderline-personality-disorder-en; 0.001748 sec; 6 chapters
+I, [2024-03-17T11:20:23.494571 #3810]  INFO -- : compromised-en; 0.002608 sec; 13 chapters
+I, [2024-03-17T11:20:23.495319 #3810]  INFO -- : confidence-from-the-inside-out-en; 0.000731 sec; 5 chapters
+I, [2024-03-17T11:20:23.498272 #3810]  INFO -- : confidence-man-en; 0.002939 sec; 6 chapters
+I, [2024-03-17T11:20:23.500255 #3810]  INFO -- : connect-en-david-bradford-and-carole-robin; 0.001968 sec; 9 chapters
+I, [2024-03-17T11:20:23.502219 #3810]  INFO -- : connect-en; 0.00195 sec; 10 chapters
+I, [2024-03-17T11:20:23.504026 #3810]  INFO -- : connected-crm-en; 0.001794 sec; 7 chapters
+I, [2024-03-17T11:20:23.505943 #3810]  INFO -- : conscious-business-en; 0.001904 sec; 10 chapters
+I, [2024-03-17T11:20:23.506629 #3810]  INFO -- : conscious-capitalism-en; 0.000672 sec; 4 chapters
+I, [2024-03-17T11:20:23.508668 #3810]  INFO -- : conscious-en; 0.00202 sec; 8 chapters
+I, [2024-03-17T11:20:23.510990 #3810]  INFO -- : conscious-leadership-en; 0.002308 sec; 10 chapters
+I, [2024-03-17T11:20:23.512859 #3810]  INFO -- : conscious-uncoupling-en; 0.001854 sec; 10 chapters
+I, [2024-03-17T11:20:23.514596 #3810]  INFO -- : consider-the-fork-en; 0.001723 sec; 9 chapters
+I, [2024-03-17T11:20:23.515693 #3810]  INFO -- : conspiracy-en; 0.001084 sec; 8 chapters
+I, [2024-03-17T11:20:23.517587 #3810]  INFO -- : content-inc-en; 0.001877 sec; 9 chapters
+I, [2024-03-17T11:20:23.518608 #3810]  INFO -- : content-marketing-revolution-en; 0.001008 sec; 8 chapters
+I, [2024-03-17T11:20:23.520245 #3810]  INFO -- : content-rules-en; 0.001623 sec; 9 chapters
+I, [2024-03-17T11:20:23.521768 #3810]  INFO -- : continuous-discovery-habits-en; 0.001509 sec; 7 chapters
+I, [2024-03-17T11:20:23.523736 #3810]  INFO -- : conversations-that-sell-en; 0.001955 sec; 11 chapters
+I, [2024-03-17T11:20:23.525043 #3810]  INFO -- : conversations-worth-having-en; 0.00129 sec; 6 chapters
+I, [2024-03-17T11:20:23.526733 #3810]  INFO -- : cooked-en; 0.001677 sec; 9 chapters
+I, [2024-03-17T11:20:23.528271 #3810]  INFO -- : cooking-up-a-business-en; 0.001521 sec; 8 chapters
+I, [2024-03-17T11:20:23.530061 #3810]  INFO -- : cork-dork-en; 0.001776 sec; 10 chapters
+I, [2024-03-17T11:20:23.532408 #3810]  INFO -- : cosmos-en; 0.002335 sec; 9 chapters
+I, [2024-03-17T11:20:23.534028 #3810]  INFO -- : cosmosapiens-en; 0.0016 sec; 10 chapters
+I, [2024-03-17T11:20:23.536245 #3810]  INFO -- : courage-is-calling-en; 0.002203 sec; 8 chapters
+I, [2024-03-17T11:20:23.539385 #3810]  INFO -- : courageous-cultures-en; 0.003126 sec; 9 chapters
+I, [2024-03-17T11:20:23.541493 #3810]  INFO -- : covid-19-the-great-reset-en; 0.002094 sec; 10 chapters
+I, [2024-03-17T11:20:23.543106 #3810]  INFO -- : cracked-it-en; 0.0016 sec; 6 chapters
+I, [2024-03-17T11:20:23.545072 #3810]  INFO -- : cradle-to-cradle-en; 0.001953 sec; 9 chapters
+I, [2024-03-17T11:20:23.548117 #3810]  INFO -- : crashed-en; 0.003032 sec; 11 chapters
+I, [2024-03-17T11:20:23.549951 #3810]  INFO -- : crazy-faith-en; 0.001819 sec; 9 chapters
+I, [2024-03-17T11:20:23.551468 #3810]  INFO -- : crazy-joy-en; 0.001503 sec; 6 chapters
+I, [2024-03-17T11:20:23.553715 #3810]  INFO -- : create-space-en; 0.002231 sec; 11 chapters
+I, [2024-03-17T11:20:23.555826 #3810]  INFO -- : creative-acts-for-curious-people-en; 0.002097 sec; 10 chapters
+I, [2024-03-17T11:20:23.558436 #3810]  INFO -- : creative-confidence-en; 0.002596 sec; 11 chapters
+I, [2024-03-17T11:20:23.560985 #3810]  INFO -- : creative-inc-en; 0.002535 sec; 12 chapters
+I, [2024-03-17T11:20:23.563378 #3810]  INFO -- : creative-schools-en; 0.00238 sec; 9 chapters
+I, [2024-03-17T11:20:23.565285 #3810]  INFO -- : creative-superpowers-en; 0.001889 sec; 10 chapters
+I, [2024-03-17T11:20:23.568033 #3810]  INFO -- : creativity-en; 0.002729 sec; 12 chapters
+I, [2024-03-17T11:20:23.570098 #3810]  INFO -- : creativity-inc-en; 0.00205 sec; 10 chapters
+I, [2024-03-17T11:20:23.572290 #3810]  INFO -- : cribsheet-en; 0.002179 sec; 11 chapters
+I, [2024-03-17T11:20:23.574234 #3810]  INFO -- : crime-and-punishment-en; 0.00193 sec; 9 chapters
+I, [2024-03-17T11:20:23.576900 #3810]  INFO -- : crime-in-progress-en; 0.002652 sec; 11 chapters
+I, [2024-03-17T11:20:23.579254 #3810]  INFO -- : crippled-en; 0.002341 sec; 10 chapters
+I, [2024-03-17T11:20:23.581104 #3810]  INFO -- : crisis-caravan-en; 0.001837 sec; 9 chapters
+I, [2024-03-17T11:20:23.591322 #3810]  INFO -- : dear-america-en; 0.002098 sec; 7 chapters
+I, [2024-03-17T11:20:23.593436 #3810]  INFO -- : dear-founder-en; 0.002096 sec; 10 chapters
+I, [2024-03-17T11:20:23.595741 #3810]  INFO -- : dear-girls-en; 0.002292 sec; 10 chapters
+I, [2024-03-17T11:20:23.598426 #3810]  INFO -- : dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions-en; 0.002671 sec; 12 chapters
+I, [2024-03-17T11:20:23.600624 #3810]  INFO -- : dear-madam-president-en; 0.002176 sec; 8 chapters
+I, [2024-03-17T11:20:23.602584 #3810]  INFO -- : death-of-a-salesman-en; 0.001947 sec; 6 chapters
+I, [2024-03-17T11:20:23.604808 #3810]  INFO -- : deaths-summer-coat-en; 0.002208 sec; 9 chapters
+I, [2024-03-17T11:20:23.606472 #3810]  INFO -- : decision-making-and-problem-solving-en; 0.00165 sec; 7 chapters
+I, [2024-03-17T11:20:23.608032 #3810]  INFO -- : decisions-about-decisions-en; 0.001544 sec; 8 chapters
+I, [2024-03-17T11:20:23.609936 #3810]  INFO -- : decisive-en; 0.001887 sec; 12 chapters
+I, [2024-03-17T11:20:23.612558 #3810]  INFO -- : decoding-the-world-en; 0.002609 sec; 10 chapters
+I, [2024-03-17T11:20:23.614604 #3810]  INFO -- : deep-creativity-en; 0.002032 sec; 9 chapters
+I, [2024-03-17T11:20:23.616370 #3810]  INFO -- : deep-medicine-en; 0.001744 sec; 10 chapters
+I, [2024-03-17T11:20:23.617953 #3810]  INFO -- : deep-nutrition-en; 0.001568 sec; 9 chapters
+I, [2024-03-17T11:20:23.619689 #3810]  INFO -- : deep-thinking-en; 0.001719 sec; 10 chapters
+I, [2024-03-17T11:20:23.621475 #3810]  INFO -- : deep-work-en; 0.001771 sec; 6 chapters
+I, [2024-03-17T11:20:23.622620 #3810]  INFO -- : deeper-dating-en; 0.00113 sec; 8 chapters
+I, [2024-03-17T11:20:23.623671 #3810]  INFO -- : deepfakes-and-the-infocalypse-en; 0.001038 sec; 9 chapters
+I, [2024-03-17T11:20:23.625009 #3810]  INFO -- : dei-deconstructed-en; 0.001325 sec; 5 chapters
+I, [2024-03-17T11:20:23.626655 #3810]  INFO -- : delivering-happiness-en; 0.001634 sec; 8 chapters
+I, [2024-03-17T11:20:23.627719 #3810]  INFO -- : democracy-awakening-en; 0.00105 sec; 5 chapters
+I, [2024-03-17T11:20:23.629247 #3810]  INFO -- : democracy-in-america-en; 0.001515 sec; 10 chapters
+I, [2024-03-17T11:20:23.631226 #3810]  INFO -- : descartes-error-en; 0.001967 sec; 12 chapters
+I, [2024-03-17T11:20:23.632638 #3810]  INFO -- : design-for-how-people-learn-en; 0.001398 sec; 7 chapters
+I, [2024-03-17T11:20:23.635435 #3810]  INFO -- : design-your-future-en; 0.002776 sec; 10 chapters
+I, [2024-03-17T11:20:23.636765 #3810]  INFO -- : designing-and-leading-life-changing-workshops-en; 0.001315 sec; 7 chapters
+I, [2024-03-17T11:20:23.638506 #3810]  INFO -- : designing-your-life-en; 0.001727 sec; 8 chapters
+I, [2024-03-17T11:20:23.639998 #3810]  INFO -- : designing-your-work-life-en; 0.001477 sec; 10 chapters
+I, [2024-03-17T11:20:23.641474 #3810]  INFO -- : destined-for-war-en; 0.001462 sec; 6 chapters
+I, [2024-03-17T11:20:23.643418 #3810]  INFO -- : destiny-disrupted-en; 0.001931 sec; 11 chapters
+I, [2024-03-17T11:20:23.644966 #3810]  INFO -- : determined-en; 0.001536 sec; 6 chapters
+I, [2024-03-17T11:20:23.646089 #3810]  INFO -- : developing-the-leader-within-you-en; 0.001111 sec; 8 chapters
+I, [2024-03-17T11:20:23.648157 #3810]  INFO -- : deviate-en; 0.002052 sec; 11 chapters
+I, [2024-03-17T11:20:24.009701 #3810]  INFO -- : the-case-for-trump-en; 0.001869 sec; 8 chapters
+I, [2024-03-17T11:20:24.010567 #3810]  INFO -- : the-cask-of-amontillado-en; 0.000821 sec; 3 chapters
+I, [2024-03-17T11:20:24.012260 #3810]  INFO -- : the-catcher-in-the-rye-en; 0.001677 sec; 8 chapters
+I, [2024-03-17T11:20:24.014173 #3810]  INFO -- : the-ceo-next-door-en; 0.001895 sec; 9 chapters
+I, [2024-03-17T11:20:24.015927 #3810]  INFO -- : the-challenger-sale-en; 0.001736 sec; 10 chapters
+I, [2024-03-17T11:20:24.159242 #3810]  INFO -- : the-story-of-my-life-en; 0.002088 sec; 6 chapters
+I, [2024-03-17T11:20:24.161369 #3810]  INFO -- : the-story-of-sushi-en; 0.002091 sec; 9 chapters
+I, [2024-03-17T11:20:24.165206 #3810]  INFO -- : the-story-of-the-human-body-en; 0.00382 sec; 13 chapters
+I, [2024-03-17T11:20:24.166806 #3810]  INFO -- : the-storytelling-animal-en; 0.001582 sec; 9 chapters
+I, [2024-03-17T11:20:24.169185 #3810]  INFO -- : the-storytelling-edge-en; 0.002357 sec; 8 chapters
+I, [2024-03-17T11:20:24.171496 #3810]  INFO -- : the-strange-order-of-things-en; 0.002283 sec; 9 chapters
+I, [2024-03-17T11:20:24.173360 #3810]  INFO -- : the-stranger-in-the-woods-en; 0.001847 sec; 6 chapters
+I, [2024-03-17T11:20:24.175920 #3810]  INFO -- : the-strategy-and-tactics-of-pricing-en; 0.002545 sec; 10 chapters
+I, [2024-03-17T11:20:24.177216 #3810]  INFO -- : the-strategy-legacy-en; 0.001281 sec; 7 chapters
+I, [2024-03-17T11:20:24.178907 #3810]  INFO -- : the-strength-switch-en; 0.001677 sec; 10 chapters
+I, [2024-03-17T11:20:24.180582 #3810]  INFO -- : the-stress-code-en; 0.001657 sec; 10 chapters
+I, [2024-03-17T11:20:24.183539 #3810]  INFO -- : the-stress-prescription-en; 0.002941 sec; 9 chapters
+I, [2024-03-17T11:20:24.185271 #3810]  INFO -- : the-structure-of-scientific-revolutions-en; 0.001716 sec; 7 chapters
+I, [2024-03-17T11:20:24.187718 #3810]  INFO -- : the-stuff-of-thought-en; 0.002431 sec; 10 chapters
+I, [2024-03-17T11:20:24.189455 #3810]  INFO -- : the-subtle-art-of-not-giving-a-f-star-ck-en; 0.001718 sec; 10 chapters
+I, [2024-03-17T11:20:24.191336 #3810]  INFO -- : the-success-principles-en; 0.001864 sec; 11 chapters
+I, [2024-03-17T11:20:24.192733 #3810]  INFO -- : the-success-trap-en; 0.00137 sec; 8 chapters
+I, [2024-03-17T11:20:24.194214 #3810]  INFO -- : the-sum-of-us-en; 0.001464 sec; 10 chapters
+I, [2024-03-17T11:20:24.196952 #3810]  INFO -- : the-sun-does-shine-en; 0.002723 sec; 13 chapters
+I, [2024-03-17T11:20:24.198534 #3810]  INFO -- : the-sunflower-en; 0.001563 sec; 7 chapters
+I, [2024-03-17T11:20:24.200232 #3810]  INFO -- : the-surprising-science-of-meetings-en; 0.001681 sec; 9 chapters
+I, [2024-03-17T11:20:24.202331 #3810]  INFO -- : the-surrender-experiment-en; 0.002077 sec; 10 chapters
+I, [2024-03-17T11:20:24.203258 #3810]  INFO -- : the-sweet-spot-en; 0.00091 sec; 5 chapters
+I, [2024-03-17T11:20:24.204157 #3810]  INFO -- : the-symposium-en; 0.000881 sec; 6 chapters
+I, [2024-03-17T11:20:24.206222 #3810]  INFO -- : the-tale-of-the-dueling-neurosurgeons-en; 0.00205 sec; 13 chapters
+I, [2024-03-17T11:20:24.207854 #3810]  INFO -- : the-talent-code-en; 0.001617 sec; 10 chapters
+I, [2024-03-17T11:20:24.209683 #3810]  INFO -- : the-tao-of-physics-en; 0.001814 sec; 10 chapters
+I, [2024-03-17T11:20:24.211195 #3810]  INFO -- : the-teenage-brain-en; 0.001499 sec; 7 chapters
+I, [2024-03-17T11:20:24.214327 #3810]  INFO -- : the-telomere-effect-en; 0.003117 sec; 10 chapters
+I, [2024-03-17T11:20:24.216075 #3810]  INFO -- : the-tempest-en; 0.001733 sec; 6 chapters
+I, [2024-03-17T11:20:24.218598 #3810]  INFO -- : the-thank-you-economy-en; 0.002508 sec; 10 chapters
+I, [2024-03-17T11:20:24.221464 #3810]  INFO -- : the-things-we-make-en; 0.002851 sec; 8 chapters
+I, [2024-03-17T11:20:24.223257 #3810]  INFO -- : the-things-you-can-see-only-when-you-slow-down-en; 0.001777 sec; 7 chapters
+I, [2024-03-17T11:20:24.225680 #3810]  INFO -- : the-third-chimpanzee-en; 0.002406 sec; 9 chapters
+I, [2024-03-17T11:20:24.228330 #3810]  INFO -- : the-third-door-en; 0.00263 sec; 12 chapters
+I, [2024-03-17T11:20:24.231195 #3810]  INFO -- : the-third-pillar-en; 0.002847 sec; 11 chapters
+I, [2024-03-17T11:20:24.233011 #3810]  INFO -- : the-threat-en; 0.001404 sec; 8 chapters
+I, [2024-03-17T11:20:24.234501 #3810]  INFO -- : the-three-marriages-en; 0.001476 sec; 10 chapters
+I, [2024-03-17T11:20:24.237141 #3810]  INFO -- : the-truth-en; 0.001722 sec; 8 chapters
+I, [2024-03-17T11:20:24.239473 #3810]  INFO -- : the-truths-we-hold-en; 0.002317 sec; 12 chapters
+I, [2024-03-17T11:20:24.243074 #3810]  INFO -- : the-twelve-caesars-en; 0.003585 sec; 16 chapters
+I, [2024-03-17T11:20:24.244770 #3810]  INFO -- : the-twenty-four-hour-mind-en; 0.001677 sec; 7 chapters
+I, [2024-03-17T11:20:24.247251 #3810]  INFO -- : the-ultimate-guide-to-great-mentorship-en; 0.002465 sec; 8 chapters
+I, [2024-03-17T11:20:24.248690 #3810]  INFO -- : the-ultimate-introduction-to-nlp-en; 0.001418 sec; 9 chapters
+I, [2024-03-17T11:20:24.251286 #3810]  INFO -- : the-ultimate-retirement-guide-for-50-plus-en; 0.002582 sec; 10 chapters
+I, [2024-03-17T11:20:24.252856 #3810]  INFO -- : the-ultimate-retroactive-jealousy-cure-en; 0.001553 sec; 5 chapters
+I, [2024-03-17T11:20:24.255845 #3810]  INFO -- : the-ultimate-sales-machine-en; 0.002971 sec; 14 chapters
+I, [2024-03-17T11:20:24.257406 #3810]  INFO -- : the-unbearable-lightness-of-being-en; 0.001544 sec; 6 chapters
+I, [2024-03-17T11:20:24.259165 #3810]  INFO -- : the-undercover-economist-en; 0.001745 sec; 9 chapters
+I, [2024-03-17T11:20:24.260131 #3810]  INFO -- : the-undoing-project-en; 0.000949 sec; 4 chapters
+I, [2024-03-17T11:20:24.261472 #3810]  INFO -- : the-undying-en; 0.001327 sec; 8 chapters
+I, [2024-03-17T11:20:24.263410 #3810]  INFO -- : the-unemployed-millionaire-en; 0.00192 sec; 9 chapters
+I, [2024-03-17T11:20:24.265088 #3810]  INFO -- : the-unexpected-joy-of-being-sober-en; 0.001659 sec; 10 chapters
+I, [2024-03-17T11:20:24.267153 #3810]  INFO -- : the-unexpected-joy-of-the-ordinary-en; 0.002049 sec; 9 chapters
+I, [2024-03-17T11:20:24.268380 #3810]  INFO -- : the-unfair-advantage-en; 0.001211 sec; 9 chapters
+I, [2024-03-17T11:20:24.270508 #3810]  INFO -- : the-uninhabitable-earth-en; 0.002113 sec; 12 chapters
+I, [2024-03-17T11:20:24.272333 #3810]  INFO -- : the-universe-has-your-back-en; 0.001806 sec; 8 chapters
+I, [2024-03-17T11:20:24.274069 #3810]  INFO -- : the-untethered-soul-en; 0.00172 sec; 8 chapters
+I, [2024-03-17T11:20:24.276578 #3810]  INFO -- : the-unwinding-of-the-miracle-en; 0.002493 sec; 10 chapters
+I, [2024-03-17T11:20:24.277653 #3810]  INFO -- : the-upcycle-en; 0.00106 sec; 6 chapters
+I, [2024-03-17T11:20:24.279290 #3810]  INFO -- : the-upright-thinkers-en; 0.001622 sec; 11 chapters
+I, [2024-03-17T11:20:24.281057 #3810]  INFO -- : the-upside-of-irrationality-en; 0.001753 sec; 10 chapters
+I, [2024-03-17T11:20:24.282848 #3810]  INFO -- : the-upside-of-stress-en; 0.001777 sec; 9 chapters
+I, [2024-03-17T11:20:24.283409 #3810]  INFO -- : the-upside-of-uncertainty-en; 0.000543 sec; 3 chapters
+I, [2024-03-17T11:20:24.285467 #3810]  INFO -- : the-upside-of-your-dark-side-en; 0.002043 sec; 11 chapters
+I, [2024-03-17T11:20:27.000513 #3810]  INFO -- : the-upskilling-imperative-en; 2.715011 sec; 10 chapters
+I, [2024-03-17T11:20:38.053982 #3810]  INFO -- : the-upstarts-en; 11.051222 sec; 7 chapters
+I, [2024-03-17T11:20:51.461744 #3810]  INFO -- : the-upward-spiral-en; 13.404271 sec; 9 chapters
+I, [2024-03-17T11:21:09.936412 #3810]  INFO -- : the-urban-monk-en; 18.468793 sec; 12 chapters
+I, [2024-03-17T11:21:23.770201 #3810]  INFO -- : the-urgent-life-en; 13.830023 sec; 7 chapters
+I, [2024-03-17T11:21:40.840697 #3810]  INFO -- : the-uses-of-delusion-en; 17.06769 sec; 8 chapters
+I, [2024-03-17T11:21:59.325629 #3810]  INFO -- : the-vagina-bible-en; 18.483746 sec; 10 chapters
+I, [2024-03-17T11:22:15.680403 #3810]  INFO -- : the-value-of-debt-in-building-wealth-en; 16.352833 sec; 7 chapters
+I, [2024-03-17T11:22:30.134082 #3810]  INFO -- : the-value-of-everything-en; 14.452378 sec; 10 chapters
+I, [2024-03-17T11:22:56.332215 #3810]  INFO -- : the-varieties-of-religious-experience-en; 26.19617 sec; 14 chapters
+I, [2024-03-17T11:23:12.152402 #3810]  INFO -- : the-virgin-way-en; 15.81931 sec; 9 chapters
+I, [2024-03-17T11:23:24.215060 #3810]  INFO -- : the-virtue-of-selfishness-en; 12.061464 sec; 8 chapters
+I, [2024-03-17T11:23:47.908524 #3810]  INFO -- : the-vitamin-solution-en; 23.691215 sec; 9 chapters
+I, [2024-03-17T11:24:01.874676 #3810]  INFO -- : the-voltage-effect-en; 13.963475 sec; 7 chapters
+I, [2024-03-17T11:24:21.522804 #3810]  INFO -- : the-volunteer-en; 19.647474 sec; 12 chapters
+I, [2024-03-17T11:24:34.487946 #3810]  INFO -- : the-wager-en; 12.963074 sec; 7 chapters
+I, [2024-03-17T11:24:48.641405 #3810]  INFO -- : the-wandering-mind-en; 14.152265 sec; 8 chapters
+I, [2024-03-17T11:25:05.703259 #3810]  INFO -- : the-war-for-kindness-en; 17.056163 sec; 9 chapters
+I, [2024-03-17T11:25:24.239629 #3810]  INFO -- : the-war-of-art-en; 18.5342 sec; 10 chapters
+I, [2024-03-17T11:25:43.613628 #3810]  INFO -- : the-war-of-the-worlds-en; 19.371957 sec; 6 chapters
+I, [2024-03-17T11:26:09.536760 #3810]  INFO -- : the-war-on-journalism-en; 25.921838 sec; 8 chapters
+I, [2024-03-17T11:26:29.748337 #3810]  INFO -- : the-war-on-normal-people-en; 20.210485 sec; 10 chapters
+I, [2024-03-17T11:26:52.748192 #3810]  INFO -- : the-warmth-of-other-suns-en; 22.997931 sec; 11 chapters
+I, [2024-03-17T11:27:10.954546 #3810]  INFO -- : the-warren-buffett-way-en; 18.204309 sec; 7 chapters
+I, [2024-03-17T11:27:22.848325 #3810]  INFO -- : the-warrior-within-en; 11.89274 sec; 8 chapters
+I, [2024-03-17T11:27:41.934889 #3810]  INFO -- : the-way-back-en; 19.085403 sec; 10 chapters
+I, [2024-03-17T11:27:55.419133 #3810]  INFO -- : the-way-forward-en; 13.48144 sec; 6 chapters
+I, [2024-03-17T11:28:07.802062 #3810]  INFO -- : the-way-of-integrity-en; 12.382534 sec; 7 chapters
+I, [2024-03-17T11:28:31.590117 #3810]  INFO -- : the-way-of-the-seal-en; 23.786876 sec; 10 chapters
+I, [2024-03-17T11:28:47.416452 #3810]  INFO -- : the-way-of-zen-en; 15.82334 sec; 10 chapters
+I, [2024-03-17T11:28:59.481333 #3810]  INFO -- : the-way-up-en; 12.057398 sec; 8 chapters
+I, [2024-03-17T11:29:15.752812 #3810]  INFO -- : the-way-we-eat-now-en; 16.266731 sec; 11 chapters
+I, [2024-03-17T11:29:25.105055 #3810]  INFO -- : the-wealth-of-nations-en; 9.350902 sec; 6 chapters
+I, [2024-03-17T11:29:48.277051 #3810]  INFO -- : the-wealthy-freelancer-en; 23.170959 sec; 10 chapters
+I, [2024-03-17T11:29:59.132676 #3810]  INFO -- : the-web-that-has-no-weaver-en; 10.854461 sec; 7 chapters
+I, [2024-03-17T11:30:14.288119 #3810]  INFO -- : the-weirdest-people-in-the-world-en; 15.153709 sec; 7 chapters
+I, [2024-03-17T11:30:26.216842 #3810]  INFO -- : the-wellness-syndrome-en; 11.927809 sec; 7 chapters
+I, [2024-03-17T11:30:42.891208 #3810]  INFO -- : the-western-guide-to-feng-shui-en; 16.672594 sec; 7 chapters
+I, [2024-03-17T11:30:55.796737 #3810]  INFO -- : the-whole-brain-child-en; 12.903203 sec; 8 chapters
+I, [2024-03-17T17:29:39.223431 #20167]  INFO -- : 1-2-3-magic-en; 0.001886 sec; 7 chapters
+I, [2024-03-17T17:29:39.226055 #20167]  INFO -- : 10-days-to-faster-reading-en; 0.002436 sec; 8 chapters
+I, [2024-03-17T17:29:39.227941 #20167]  INFO -- : 10-leadership-virtues-for-disruptive-times-en; 0.001829 sec; 9 chapters
+I, [2024-03-17T17:29:39.230855 #20167]  INFO -- : 10-percent-happier-en; 0.002887 sec; 9 chapters
+I, [2024-03-17T17:29:39.232931 #20167]  INFO -- : 100-million-years-of-food-en; 0.002048 sec; 9 chapters
+I, [2024-03-17T17:29:39.234867 #20167]  INFO -- : 100-things-every-designer-needs-to-know-about-people-en; 0.001911 sec; 9 chapters
+I, [2024-03-17T17:29:39.236242 #20167]  INFO -- : 100-ways-to-change-your-life-en; 0.001352 sec; 7 chapters
+I, [2024-03-17T17:29:39.238034 #20167]  INFO -- : 100m-leads-en; 0.001768 sec; 7 chapters
+I, [2024-03-17T17:29:39.239754 #20167]  INFO -- : 100m-offers-en; 0.001689 sec; 7 chapters
+I, [2024-03-17T17:29:39.242582 #20167]  INFO -- : 101-essays-that-will-change-the-way-you-think-en; 0.002759 sec; 13 chapters
+I, [2024-03-17T17:29:39.244097 #20167]  INFO -- : 10x-is-easier-than-2x-en; 0.001492 sec; 7 chapters
+I, [2024-03-17T17:29:39.245882 #20167]  INFO -- : 12-months-to-1-dollars-million-en; 0.001765 sec; 6 chapters
+I, [2024-03-17T17:29:39.249567 #20167]  INFO -- : 12-rules-for-life-en; 0.003659 sec; 14 chapters
+I, [2024-03-17T17:29:39.252035 #20167]  INFO -- : 13-things-mentally-strong-parents-dont-do-en; 0.002448 sec; 10 chapters
+I, [2024-03-17T17:29:39.256003 #20167]  INFO -- : 13-things-mentally-strong-people-dont-do-en; 0.003947 sec; 15 chapters
+I, [2024-03-17T17:29:39.259371 #20167]  INFO -- : 1491-en; 0.003341 sec; 11 chapters
+I, [2024-03-17T17:29:39.263101 #20167]  INFO -- : 15-secrets-successful-people-know-about-time-management-en-kevin-kruse; 0.00369 sec; 10 chapters
+I, [2024-03-17T17:29:39.265254 #20167]  INFO -- : 168-hours-en; 0.002116 sec; 10 chapters
+I, [2024-03-17T17:29:39.266636 #20167]  INFO -- : 18-minutes-en; 0.001356 sec; 7 chapters
+I, [2024-03-17T17:29:39.269149 #20167]  INFO -- : 2030-en; 0.002481 sec; 10 chapters
+I, [2024-03-17T17:29:39.271411 #20167]  INFO -- : 21-days-to-a-big-idea-en; 0.002239 sec; 9 chapters
+I, [2024-03-17T17:29:39.273370 #20167]  INFO -- : 21-lessons-for-the-21st-century-en; 0.001938 sec; 8 chapters
+I, [2024-03-17T17:29:39.274838 #20167]  INFO -- : 21st-century-investing-en; 0.001442 sec; 8 chapters
+I, [2024-03-17T17:29:39.276484 #20167]  INFO -- : 23-things-they-dont-tell-you-about-capitalism-en; 0.001625 sec; 12 chapters
+I, [2024-03-17T17:29:39.277486 #20167]  INFO -- : 28-day-fast-start-day-by-day-en; 0.000983 sec; 6 chapters
+I, [2024-03-17T17:29:39.278912 #20167]  INFO -- : 30-lessons-for-loving-en; 0.001409 sec; 8 chapters
+I, [2024-03-17T17:29:39.280470 #20167]  INFO -- : 30-ways-to-reboot-your-body-en; 0.001536 sec; 6 chapters
+I, [2024-03-17T17:29:39.281989 #20167]  INFO -- : 5-gears-en; 0.001499 sec; 10 chapters
+I, [2024-03-17T17:29:39.283099 #20167]  INFO -- : 5-levels-of-leadership-en; 0.00109 sec; 9 chapters
+I, [2024-03-17T17:29:39.289877 #20167]  INFO -- : 5-voices-en; 0.005361 sec; 10 chapters
+I, [2024-03-17T17:29:39.292817 #20167]  INFO -- : 59-seconds-en; 0.002153 sec; 10 chapters
+I, [2024-03-17T17:29:39.293875 #20167]  INFO -- : 60-seconds-and-youre-hired-en; 0.001043 sec; 7 chapters
+I, [2024-03-17T17:29:39.295928 #20167]  INFO -- : 7-business-habits-that-drive-high-performance-en; 0.002037 sec; 9 chapters
+I, [2024-03-17T17:29:39.297769 #20167]  INFO -- : 7-powers-en; 0.001824 sec; 9 chapters
+I, [2024-03-17T17:29:39.300238 #20167]  INFO -- : 7-strategies-for-wealth-and-happiness-en; 0.002443 sec; 9 chapters
+I, [2024-03-17T17:29:39.302349 #20167]  INFO -- : 8-secrets-to-powerful-manifesting-en; 0.00209 sec; 10 chapters
+I, [2024-03-17T17:29:39.303724 #20167]  INFO -- : 80-slash-20-internet-lead-generation-en; 0.001358 sec; 8 chapters
+I, [2024-03-17T17:29:39.304636 #20167]  INFO -- : 80-slash-20-sales-and-marketing-en; 0.000898 sec; 6 chapters
+I, [2024-03-17T17:29:39.305970 #20167]  INFO -- : a-better-world-inc-en; 0.00132 sec; 10 chapters
+I, [2024-03-17T17:29:39.307430 #20167]  INFO -- : a-bigger-prize-en; 0.001446 sec; 8 chapters
+I, [2024-03-17T17:29:39.309110 #20167]  INFO -- : a-biography-of-loneliness-en; 0.001665 sec; 10 chapters
+I, [2024-03-17T17:29:39.311264 #20167]  INFO -- : a-bone-to-pick-en; 0.00214 sec; 8 chapters
+I, [2024-03-17T17:29:39.312622 #20167]  INFO -- : a-brief-history-of-everyone-who-ever-lived-en; 0.001342 sec; 10 chapters
+I, [2024-03-17T17:29:39.314913 #20167]  INFO -- : a-brief-history-of-motion-en; 0.002277 sec; 11 chapters
+I, [2024-03-17T17:29:39.316423 #20167]  INFO -- : a-brief-history-of-thought-en; 0.001496 sec; 9 chapters
+I, [2024-03-17T17:29:39.319352 #20167]  INFO -- : a-brief-history-of-time-en; 0.002913 sec; 14 chapters
+I, [2024-03-17T17:29:39.320623 #20167]  INFO -- : a-city-on-mars-en; 0.001252 sec; 7 chapters
+I, [2024-03-17T17:29:39.322114 #20167]  INFO -- : a-complaint-free-world-en; 0.001477 sec; 7 chapters
+I, [2024-03-17T17:29:39.323972 #20167]  INFO -- : a-court-of-thorns-and-roses-en; 0.001845 sec; 7 chapters
+I, [2024-03-17T17:29:39.325550 #20167]  INFO -- : a-crack-in-creation-en; 0.001564 sec; 10 chapters
+I, [2024-03-17T17:29:39.326888 #20167]  INFO -- : a-cure-for-the-common-company-en; 0.001325 sec; 9 chapters
+I, [2024-03-17T17:29:40.671355 #20167]  INFO -- : a-first-rate-madness-en; 0.003672 sec; 7 chapters
+I, [2024-03-17T17:29:40.677729 #20167]  INFO -- : a-force-for-good-en; 0.006226 sec; 14 chapters
+I, [2024-03-17T17:29:40.680757 #20167]  INFO -- : a-general-theory-of-love-en; 0.002967 sec; 10 chapters
+I, [2024-03-17T17:29:40.682994 #20167]  INFO -- : a-guide-to-the-good-life-en; 0.002212 sec; 11 chapters
+I, [2024-03-17T17:29:40.685031 #20167]  INFO -- : a-handbook-for-new-stoics-en; 0.002015 sec; 10 chapters
+I, [2024-03-17T17:29:40.686876 #20167]  INFO -- : a-higher-loyalty-en; 0.001813 sec; 13 chapters
+I, [2024-03-17T17:29:40.688908 #20167]  INFO -- : a-history-of-god-en; 0.002012 sec; 13 chapters
+I, [2024-03-17T17:29:40.694876 #20167]  INFO -- : a-history-of-nigeria-en; 0.005945 sec; 12 chapters
+I, [2024-03-17T17:29:40.698158 #20167]  INFO -- : a-history-of-the-world-in-6-glasses-en; 0.003236 sec; 10 chapters
+I, [2024-03-17T17:29:40.700574 #20167]  INFO -- : a-hope-more-powerful-than-the-sea-en; 0.002394 sec; 8 chapters
+I, [2024-03-17T17:29:40.703216 #20167]  INFO -- : a-hunter-gatherers-guide-to-the-21st-century-en; 0.002619 sec; 8 chapters
+I, [2024-03-17T17:29:40.706040 #20167]  INFO -- : a-life-decoded-en; 0.00278 sec; 10 chapters
+I, [2024-03-17T17:29:40.707354 #20167]  INFO -- : a-life-on-our-planet-en; 0.001292 sec; 8 chapters
+I, [2024-03-17T17:29:40.709737 #20167]  INFO -- : a-little-history-of-economics-en; 0.002365 sec; 11 chapters
+I, [2024-03-17T17:29:40.711217 #20167]  INFO -- : a-little-history-of-philosophy-en; 0.00146 sec; 9 chapters
+I, [2024-03-17T17:29:40.713050 #20167]  INFO -- : a-little-life-en; 0.001808 sec; 8 chapters
+I, [2024-03-17T17:29:40.715387 #20167]  INFO -- : a-long-way-gone-en; 0.002319 sec; 9 chapters
+I, [2024-03-17T17:29:40.716635 #20167]  INFO -- : a-message-to-garcia-en; 0.001216 sec; 6 chapters
+I, [2024-03-17T17:29:40.718351 #20167]  INFO -- : a-million-years-in-a-day-en; 0.001692 sec; 8 chapters
+I, [2024-03-17T17:29:40.719851 #20167]  INFO -- : a-mind-for-numbers-en; 0.001483 sec; 10 chapters
+I, [2024-03-17T17:29:40.721550 #20167]  INFO -- : a-minute-to-think-en; 0.001679 sec; 9 chapters
+I, [2024-03-17T17:29:40.723395 #20167]  INFO -- : a-monks-guide-to-happiness-en; 0.001826 sec; 10 chapters
+I, [2024-03-17T17:29:40.725076 #20167]  INFO -- : a-more-beautiful-question-en; 0.00165 sec; 8 chapters
+I, [2024-03-17T17:29:40.727426 #20167]  INFO -- : a-new-earth-en; 0.002333 sec; 8 chapters
+I, [2024-03-17T17:29:40.729029 #20167]  INFO -- : a-new-way-for-mothers-en; 0.001581 sec; 8 chapters
+I, [2024-03-17T17:29:40.730386 #20167]  INFO -- : a-new-way-to-think-en; 0.001339 sec; 3 chapters
+I, [2024-03-17T17:29:40.733451 #20167]  INFO -- : a-peace-to-end-all-peace-en-david-fromkin; 0.003049 sec; 14 chapters
+I, [2024-03-17T17:29:40.735525 #20167]  INFO -- : a-people-betrayed-en; 0.002052 sec; 12 chapters
+I, [2024-03-17T17:29:40.739449 #20167]  INFO -- : a-peoples-history-of-the-united-states-en; 0.003901 sec; 16 chapters
+I, [2024-03-17T17:29:40.740955 #20167]  INFO -- : a-planet-of-viruses-en; 0.001469 sec; 7 chapters
+I, [2024-03-17T17:29:40.743039 #20167]  INFO -- : a-promised-land-en; 0.00206 sec; 12 chapters
+I, [2024-03-17T17:29:40.743757 #20167]  INFO -- : a-radical-awakening-en; 0.000698 sec; 6 chapters
+I, [2024-03-17T17:29:40.744182 #20167]  INFO -- : a-random-walk-down-wall-street-en; 0.000408 sec; 3 chapters
+I, [2024-03-17T17:29:40.746196 #20167]  INFO -- : a-really-good-day-en; 0.001997 sec; 10 chapters
+I, [2024-03-17T17:29:40.747394 #20167]  INFO -- : a-return-to-love-en; 0.001181 sec; 9 chapters
+I, [2024-03-17T17:29:40.748525 #20167]  INFO -- : a-river-in-darkness-en; 0.001115 sec; 8 chapters
+I, [2024-03-17T17:29:40.749528 #20167]  INFO -- : a-room-of-ones-own-en; 0.000984 sec; 8 chapters
+I, [2024-03-17T17:29:40.750985 #20167]  INFO -- : a-rose-for-emily-en; 0.001439 sec; 7 chapters
+I, [2024-03-17T17:29:40.752418 #20167]  INFO -- : a-short-history-of-brexit-en; 0.001418 sec; 12 chapters
+I, [2024-03-17T17:29:40.754885 #20167]  INFO -- : a-short-history-of-nearly-everything-en; 0.002451 sec; 15 chapters
+I, [2024-03-17T17:29:40.756221 #20167]  INFO -- : a-sky-full-of-birds-en; 0.001321 sec; 9 chapters
+I, [2024-03-17T17:29:40.757284 #20167]  INFO -- : a-slash-b-testing-en; 0.001047 sec; 9 chapters
+I, [2024-03-17T17:29:40.758754 #20167]  INFO -- : a-splendid-exchange-en; 0.001455 sec; 11 chapters
+I, [2024-03-17T17:29:40.760488 #20167]  INFO -- : a-spy-among-friends-en; 0.001718 sec; 12 chapters
+I, [2024-03-17T17:29:40.761906 #20167]  INFO -- : a-tale-of-two-cities-en; 0.001239 sec; 5 chapters
+I, [2024-03-17T17:29:40.763227 #20167]  INFO -- : a-team-of-leaders-en; 0.0013 sec; 7 chapters
+I, [2024-03-17T17:29:40.763739 #20167]  INFO -- : a-theory-of-justice-en; 0.000498 sec; 4 chapters
+I, [2024-03-17T17:29:40.764751 #20167]  INFO -- : a-thousand-brains-en; 0.000998 sec; 7 chapters
+I, [2024-03-17T17:29:40.765775 #20167]  INFO -- : a-very-english-scandal-en; 0.00101 sec; 8 chapters
+I, [2024-03-17T17:29:40.768091 #20167]  INFO -- : a-very-stable-genius-en; 0.002302 sec; 9 chapters
+I, [2024-03-17T17:29:40.769409 #20167]  INFO -- : a-vindication-of-the-rights-of-woman-en; 0.001304 sec; 7 chapters
+I, [2024-03-17T17:29:40.771255 #20167]  INFO -- : a-walk-in-the-woods-en; 0.001829 sec; 12 chapters
+I, [2024-03-17T17:29:40.773047 #20167]  INFO -- : a-warning-en; 0.001778 sec; 10 chapters
+I, [2024-03-17T17:29:40.774936 #20167]  INFO -- : a-wealth-of-common-sense-en; 0.001874 sec; 8 chapters
+I, [2024-03-17T17:29:40.776405 #20167]  INFO -- : a-whole-new-mind-en; 0.001446 sec; 10 chapters
+I, [2024-03-17T17:29:40.778430 #20167]  INFO -- : a-woman-of-no-importance-en; 0.00201 sec; 11 chapters
+I, [2024-03-17T17:29:40.779764 #20167]  INFO -- : a-world-gone-social-en; 0.001321 sec; 10 chapters
+I, [2024-03-17T17:29:40.781328 #20167]  INFO -- : a-world-in-disarray-en; 0.001551 sec; 9 chapters
+I, [2024-03-17T17:29:40.783026 #20167]  INFO -- : a-world-without-email-en; 0.001684 sec; 10 chapters
+I, [2024-03-17T17:29:40.784184 #20167]  INFO -- : a-world-without-ice-en; 0.001144 sec; 9 chapters
+I, [2024-03-17T17:29:40.785877 #20167]  INFO -- : a-world-without-work-en; 0.001679 sec; 9 chapters
+I, [2024-03-17T17:29:40.786996 #20167]  INFO -- : a-year-in-the-life-of-william-shakespeare-en; 0.001104 sec; 9 chapters
+I, [2024-03-17T17:29:40.788171 #20167]  INFO -- : a-year-of-positive-thinking-en; 0.001161 sec; 14 chapters
+I, [2024-03-17T17:29:40.788970 #20167]  INFO -- : a-year-of-self-care-en; 0.000786 sec; 7 chapters
+I, [2024-03-17T17:29:40.790535 #20167]  INFO -- : a-year-with-peter-drucker-en; 0.001552 sec; 9 chapters
+I, [2024-03-17T17:29:40.791739 #20167]  INFO -- : abortion-and-the-law-in-america-en; 0.00119 sec; 7 chapters
+I, [2024-03-17T17:29:40.794241 #20167]  INFO -- : abundance-en-deepak-chopra; 0.002487 sec; 7 chapters
+I, [2024-03-17T17:29:40.795478 #20167]  INFO -- : accelerate-en; 0.001211 sec; 7 chapters
+I, [2024-03-17T17:29:40.796529 #20167]  INFO -- : accelerating-performance-en; 0.001037 sec; 7 chapters
+I, [2024-03-17T17:29:40.798315 #20167]  INFO -- : accessing-the-healing-power-of-the-vagus-nerve-en; 0.001773 sec; 8 chapters
+I, [2024-03-17T17:29:40.799770 #20167]  INFO -- : accidental-genius-en; 0.001441 sec; 10 chapters
+I, [2024-03-17T17:29:40.800663 #20167]  INFO -- : accounting-for-non-accountants-en; 0.000874 sec; 8 chapters
+I, [2024-03-17T17:29:40.802077 #20167]  INFO -- : accounting-made-simple-en; 0.001401 sec; 8 chapters
+I, [2024-03-17T17:29:40.802744 #20167]  INFO -- : achieve-more-by-working-less-en; 0.000654 sec; 5 chapters
+I, [2024-03-17T17:29:40.803737 #20167]  INFO -- : across-that-bridge-en; 0.000978 sec; 9 chapters
+I, [2024-03-17T17:29:40.805061 #20167]  INFO -- : acting-with-power-en; 0.001311 sec; 10 chapters
+I, [2024-03-17T17:29:40.806422 #20167]  INFO -- : activate-your-brain-en; 0.001348 sec; 10 chapters
+I, [2024-03-17T17:29:40.807465 #20167]  INFO -- : activate-your-greatness-en; 0.001026 sec; 6 chapters
+I, [2024-03-17T17:29:40.809033 #20167]  INFO -- : adaptability-en; 0.001555 sec; 10 chapters
+I, [2024-03-17T17:29:40.811086 #20167]  INFO -- : adaptive-markets-en; 0.002036 sec; 10 chapters
+I, [2024-03-17T17:29:40.812140 #20167]  INFO -- : adaptive-resilience-en; 0.001023 sec; 7 chapters
+I, [2024-03-17T17:29:40.813170 #20167]  INFO -- : adhd-2-dot-0-en; 0.001016 sec; 8 chapters
+I, [2024-03-17T17:29:40.814293 #20167]  INFO -- : adhd-an-a-z-en; 0.00111 sec; 6 chapters
+I, [2024-03-17T17:29:40.815064 #20167]  INFO -- : adhd-for-smart-ass-women-en; 0.000757 sec; 6 chapters
+I, [2024-03-17T17:29:40.816351 #20167]  INFO -- : adrift-en; 0.001274 sec; 7 chapters
+I, [2024-03-17T17:29:40.817291 #20167]  INFO -- : adult-children-of-emotionally-immature-parents-en; 0.000927 sec; 8 chapters
+I, [2024-03-17T17:29:40.818672 #20167]  INFO -- : adult-daughters-of-narcissistic-mothers-en; 0.001367 sec; 6 chapters
+I, [2024-03-17T17:29:40.819641 #20167]  INFO -- : adults-in-the-room-en; 0.000953 sec; 9 chapters
+I, [2024-03-17T17:29:40.820691 #20167]  INFO -- : adventures-in-human-being-en; 0.001036 sec; 9 chapters
+I, [2024-03-17T17:29:40.822584 #20167]  INFO -- : adventures-in-the-anthropocene-en; 0.00188 sec; 12 chapters
+I, [2024-03-17T17:29:40.824003 #20167]  INFO -- : advice-not-given-en; 0.001406 sec; 10 chapters
+I, [2024-03-17T17:29:40.826350 #20167]  INFO -- : affluenza-en; 0.002333 sec; 11 chapters
+I, [2024-03-17T17:29:40.827825 #20167]  INFO -- : afropean-en; 0.001462 sec; 11 chapters
+I, [2024-03-17T17:29:40.829314 #20167]  INFO -- : after-the-fall-en; 0.001476 sec; 9 chapters
+I, [2024-03-17T17:29:40.830840 #20167]  INFO -- : against-creativity-en; 0.001512 sec; 8 chapters
+I, [2024-03-17T17:29:40.832472 #20167]  INFO -- : against-empathy-en; 0.001618 sec; 9 chapters
+I, [2024-03-17T17:29:40.833367 #20167]  INFO -- : age-of-anger-en; 0.000874 sec; 7 chapters
+I, [2024-03-17T17:29:40.834451 #20167]  INFO -- : age-of-discovery-en; 0.001068 sec; 9 chapters
+I, [2024-03-17T17:29:40.835582 #20167]  INFO -- : age-of-propaganda-en; 0.001117 sec; 11 chapters
+I, [2024-03-17T17:29:40.837240 #20167]  INFO -- : agent-sonya-en; 0.001644 sec; 10 chapters
+I, [2024-03-17T17:29:40.838098 #20167]  INFO -- : agile-selling-en; 0.000845 sec; 9 chapters
+I, [2024-03-17T17:29:40.839290 #20167]  INFO -- : ai-2041-en; 0.001179 sec; 11 chapters
+I, [2024-03-17T17:29:40.840430 #20167]  INFO -- : ai-superpowers-en; 0.001127 sec; 9 chapters
+I, [2024-03-17T17:29:40.841618 #20167]  INFO -- : aint-i-a-woman-en; 0.001174 sec; 9 chapters
+I, [2024-03-17T17:29:40.842772 #20167]  INFO -- : alchemy-en; 0.001142 sec; 9 chapters
+I, [2024-03-17T17:29:40.843723 #20167]  INFO -- : alcoholics-anonymous-en; 0.000938 sec; 7 chapters
+I, [2024-03-17T17:29:40.845339 #20167]  INFO -- : alex-and-me-en; 0.001599 sec; 9 chapters
+I, [2024-03-17T17:29:40.848056 #20167]  INFO -- : alexander-hamilton-en; 0.002703 sec; 17 chapters
+I, [2024-03-17T17:29:40.850405 #20167]  INFO -- : alexander-the-great-en; 0.002329 sec; 14 chapters
+I, [2024-03-17T17:29:40.852706 #20167]  INFO -- : algorithms-to-live-by-en; 0.002284 sec; 12 chapters
+I, [2024-03-17T17:29:40.854755 #20167]  INFO -- : ali-en; 0.002035 sec; 12 chapters
+I, [2024-03-17T17:29:40.857028 #20167]  INFO -- : alibaba-en; 0.002259 sec; 10 chapters
+I, [2024-03-17T17:29:40.858567 #20167]  INFO -- : alibabas-world-en; 0.001519 sec; 9 chapters
+I, [2024-03-17T17:29:40.859684 #20167]  INFO -- : alien-thinking-en; 0.001102 sec; 8 chapters
+I, [2024-03-17T17:29:40.860525 #20167]  INFO -- : all-about-love-en; 0.000827 sec; 8 chapters
+I, [2024-03-17T17:29:40.861783 #20167]  INFO -- : all-about-me-en; 0.001245 sec; 10 chapters
+I, [2024-03-17T17:29:40.862576 #20167]  INFO -- : all-boys-arent-blue-en; 0.00078 sec; 5 chapters
+I, [2024-03-17T17:29:40.863461 #20167]  INFO -- : all-creatures-great-and-small-en; 0.000871 sec; 9 chapters
+I, [2024-03-17T17:29:40.864316 #20167]  INFO -- : all-in-en-mike-michalowicz; 0.000842 sec; 7 chapters
+I, [2024-03-17T17:29:40.865890 #20167]  INFO -- : all-in-en; 0.001561 sec; 13 chapters
+I, [2024-03-17T17:29:40.866310 #20167]  INFO -- : all-in-on-ai-en; 0.000407 sec; 3 chapters
+I, [2024-03-17T17:29:40.867578 #20167]  INFO -- : all-joy-and-no-fun-en; 0.001251 sec; 8 chapters
+I, [2024-03-17T17:29:40.868624 #20167]  INFO -- : all-marketers-are-liars-en; 0.001032 sec; 8 chapters
+I, [2024-03-17T17:29:40.869482 #20167]  INFO -- : all-my-knotted-up-life-en; 0.000845 sec; 8 chapters
+I, [2024-03-17T17:29:40.870689 #20167]  INFO -- : all-the-frequent-troubles-of-our-days-en; 0.001193 sec; 11 chapters
+I, [2024-03-17T17:29:40.871650 #20167]  INFO -- : all-the-sinners-bleed-en; 0.000948 sec; 6 chapters
+I, [2024-03-17T17:29:40.872523 #20167]  INFO -- : all-work-no-play-en; 0.000857 sec; 8 chapters
+I, [2024-03-17T17:29:40.873530 #20167]  INFO -- : all-you-have-to-do-is-ask-en; 0.000993 sec; 10 chapters
+I, [2024-03-17T17:29:40.874411 #20167]  INFO -- : allen-carrs-easy-way-to-quit-emotional-eating-en; 0.000868 sec; 7 chapters
+I, [2024-03-17T17:29:40.877046 #20167]  INFO -- : alone-together-en; 0.002622 sec; 13 chapters
+I, [2024-03-17T17:29:40.878375 #20167]  INFO -- : altered-traits-en; 0.001315 sec; 10 chapters
+I, [2024-03-17T17:29:40.880461 #20167]  INFO -- : altruism-en; 0.002073 sec; 11 chapters
+I, [2024-03-17T17:29:40.882883 #20167]  INFO -- : always-hungry-en; 0.002407 sec; 10 chapters
+I, [2024-03-17T17:29:40.885731 #20167]  INFO -- : amazon-en; 0.00283 sec; 10 chapters
+I, [2024-03-17T17:29:40.889499 #20167]  INFO -- : america-before-en; 0.003745 sec; 12 chapters
+I, [2024-03-17T17:29:40.892197 #20167]  INFO -- : american-carnage-en; 0.002682 sec; 10 chapters
+I, [2024-03-17T17:29:40.894014 #20167]  INFO -- : american-crisis-en; 0.001802 sec; 10 chapters
+I, [2024-03-17T17:29:40.895296 #20167]  INFO -- : american-kompromat-en; 0.001266 sec; 8 chapters
+I, [2024-03-17T17:29:40.897994 #20167]  INFO -- : american-lion-en; 0.002684 sec; 13 chapters
+I, [2024-03-17T17:29:40.899509 #20167]  INFO -- : american-prometheus-en; 0.0015 sec; 7 chapters
+I, [2024-03-17T17:29:40.900672 #20167]  INFO -- : american-psycho-en; 0.001149 sec; 6 chapters
+I, [2024-03-17T17:29:40.903130 #20167]  INFO -- : american-savage-en; 0.002444 sec; 10 chapters
+I, [2024-03-17T17:29:40.905237 #20167]  INFO -- : americana-en; 0.002093 sec; 13 chapters
+I, [2024-03-17T17:29:40.906515 #20167]  INFO -- : americas-bank-en; 0.001263 sec; 10 chapters
+I, [2024-03-17T17:29:40.907418 #20167]  INFO -- : amp-it-up-en; 0.000885 sec; 8 chapters
+I, [2024-03-17T17:29:40.908391 #20167]  INFO -- : amusing-ourselves-to-death-en; 0.000959 sec; 8 chapters
+I, [2024-03-17T17:29:40.910564 #20167]  INFO -- : an-american-sickness-en; 0.002158 sec; 12 chapters
+I, [2024-03-17T17:29:40.912292 #20167]  INFO -- : an-astronauts-guide-to-life-on-earth-en; 0.001714 sec; 8 chapters
+I, [2024-03-17T17:29:40.914149 #20167]  INFO -- : an-audience-of-one-en; 0.001843 sec; 10 chapters
+I, [2024-03-17T17:29:40.917939 #20167]  INFO -- : an-autobiography-en; 0.003776 sec; 13 chapters
+I, [2024-03-17T17:29:40.919227 #20167]  INFO -- : an-economist-walks-into-a-brothel-en; 0.001261 sec; 8 chapters
+I, [2024-03-17T17:29:40.921259 #20167]  INFO -- : an-elegant-defense-en; 0.002018 sec; 13 chapters
+I, [2024-03-17T17:29:40.922737 #20167]  INFO -- : an-enquiry-concerning-human-understanding-en; 0.001462 sec; 9 chapters
+I, [2024-03-17T17:29:40.924696 #20167]  INFO -- : an-immense-world-en; 0.001946 sec; 6 chapters
+I, [2024-03-17T17:29:40.925964 #20167]  INFO -- : an-ordinary-man-en; 0.001255 sec; 6 chapters
+I, [2024-03-17T17:29:40.927478 #20167]  INFO -- : an-ugly-truth-en; 0.001497 sec; 10 chapters
+I, [2024-03-17T17:29:40.929345 #20167]  INFO -- : analysis-without-paralysis-en; 0.001849 sec; 12 chapters
+I, [2024-03-17T17:29:40.931209 #20167]  INFO -- : anarchism-en; 0.00185 sec; 7 chapters
+I, [2024-03-17T17:29:40.933962 #20167]  INFO -- : anatomy-of-an-epidemic-en; 0.002739 sec; 9 chapters
+I, [2024-03-17T17:29:40.935945 #20167]  INFO -- : ancient-egypt-en; 0.001969 sec; 9 chapters
+I, [2024-03-17T17:29:40.937494 #20167]  INFO -- : and-finally-en; 0.001536 sec; 7 chapters
+I, [2024-03-17T17:29:40.938935 #20167]  INFO -- : and-the-good-news-is-dot-dot-dot-en; 0.001427 sec; 8 chapters
+I, [2024-03-17T17:29:40.941317 #20167]  INFO -- : and-there-was-light-en; 0.002368 sec; 10 chapters
+I, [2024-03-17T17:29:40.943938 #20167]  INFO -- : anger-management-for-dummies-en; 0.002607 sec; 8 chapters
+I, [2024-03-17T17:29:40.945570 #20167]  INFO -- : angrynomics-en; 0.001619 sec; 7 chapters
+I, [2024-03-17T17:29:40.946983 #20167]  INFO -- : animal-farm-en; 0.001398 sec; 6 chapters
+I, [2024-03-17T17:29:40.949252 #20167]  INFO -- : anticipate-en; 0.002256 sec; 9 chapters
+I, [2024-03-17T17:29:40.951601 #20167]  INFO -- : antifragile-en; 0.00233 sec; 13 chapters
+I, [2024-03-17T17:29:40.953105 #20167]  INFO -- : antigone-en; 0.001489 sec; 6 chapters
+I, [2024-03-17T17:29:40.955184 #20167]  INFO -- : antimatter-en; 0.002061 sec; 8 chapters
+I, [2024-03-17T17:29:40.957653 #20167]  INFO -- : anxiety-at-work-en; 0.002451 sec; 9 chapters
+I, [2024-03-17T17:29:40.960156 #20167]  INFO -- : anxious-en; 0.002489 sec; 11 chapters
+I, [2024-03-17T17:29:40.961953 #20167]  INFO -- : anything-you-want-en; 0.001773 sec; 8 chapters
+I, [2024-03-17T17:29:40.963681 #20167]  INFO -- : apollos-arrow-en; 0.001714 sec; 10 chapters
+I, [2024-03-17T17:29:40.966254 #20167]  INFO -- : arabs-en; 0.002556 sec; 11 chapters
+I, [2024-03-17T17:29:40.969370 #20167]  INFO -- : architects-of-intelligence-en; 0.003099 sec; 10 chapters
+I, [2024-03-17T17:29:40.971088 #20167]  INFO -- : are-you-fully-charged-en; 0.001699 sec; 9 chapters
+I, [2024-03-17T17:29:40.972601 #20167]  INFO -- : arete-en; 0.001497 sec; 6 chapters
+I, [2024-03-17T17:29:40.974526 #20167]  INFO -- : arise-awake-en; 0.001911 sec; 8 chapters
+I, [2024-03-17T17:29:40.977350 #20167]  INFO -- : aristotles-way-en; 0.002808 sec; 9 chapters
+I, [2024-03-17T17:29:40.980042 #20167]  INFO -- : art-inc-en; 0.002674 sec; 9 chapters
+I, [2024-03-17T17:29:40.980961 #20167]  INFO -- : article-why-cant-the-worlds-greatest-minds-solve-the-mystery-of-consciousness-en; 0.000901 sec; 2 chapters
+I, [2024-03-17T17:29:40.982146 #20167]  INFO -- : as-a-man-thinketh-en; 0.001165 sec; 6 chapters
+I, [2024-03-17T17:29:40.984103 #20167]  INFO -- : ask-en; 0.001943 sec; 9 chapters
+I, [2024-03-17T17:29:40.987247 #20167]  INFO -- : ask-for-it-en; 0.003125 sec; 10 chapters
+I, [2024-03-17T17:29:40.988541 #20167]  INFO -- : ask-me-about-my-uterus-en; 0.001275 sec; 9 chapters
+I, [2024-03-17T17:29:40.990473 #20167]  INFO -- : asking-for-it-en; 0.001908 sec; 10 chapters
+I, [2024-03-17T17:29:40.992977 #20167]  INFO -- : astor-en; 0.00248 sec; 8 chapters
+I, [2024-03-17T17:29:40.994628 #20167]  INFO -- : astroball-en; 0.001635 sec; 10 chapters
+I, [2024-03-17T17:29:40.996452 #20167]  INFO -- : at-home-en; 0.00181 sec; 8 chapters
+I, [2024-03-17T17:29:40.998087 #20167]  INFO -- : at-the-existentialist-cafe-en; 0.001621 sec; 11 chapters
+I, [2024-03-17T17:29:40.999230 #20167]  INFO -- : at-your-best-en; 0.001128 sec; 8 chapters
+I, [2024-03-17T17:29:41.001238 #20167]  INFO -- : atlas-of-the-heart-en; 0.001995 sec; 10 chapters
+I, [2024-03-17T17:29:41.002376 #20167]  INFO -- : atlas-shrugged-en; 0.001122 sec; 5 chapters
+I, [2024-03-17T17:29:41.005079 #20167]  INFO -- : atomic-accidents-en; 0.002689 sec; 8 chapters
+I, [2024-03-17T17:29:41.007068 #20167]  INFO -- : atomic-habits-en; 0.001968 sec; 9 chapters
+I, [2024-03-17T17:29:41.009488 #20167]  INFO -- : attached-en; 0.002367 sec; 10 chapters
+I, [2024-03-17T17:29:41.011180 #20167]  INFO -- : attention-span-en; 0.001677 sec; 7 chapters
+I, [2024-03-17T17:29:41.012426 #20167]  INFO -- : attitude-reflects-leadership-en; 0.001231 sec; 7 chapters
+I, [2024-03-17T17:29:41.013973 #20167]  INFO -- : austerity-en-alberto-alesina-carlo-favero-and-francesco-giavazzi; 0.001528 sec; 9 chapters
+I, [2024-03-17T17:29:41.015509 #20167]  INFO -- : austerity-en; 0.001521 sec; 8 chapters
+I, [2024-03-17T17:29:41.017650 #20167]  INFO -- : autobiography-of-a-yogi-en; 0.002109 sec; 7 chapters
+I, [2024-03-17T17:29:41.019779 #20167]  INFO -- : autonomy-en; 0.002111 sec; 10 chapters
+I, [2024-03-17T17:29:41.021278 #20167]  INFO -- : awaken-your-genius-en; 0.00148 sec; 8 chapters
+I, [2024-03-17T17:29:41.022810 #20167]  INFO -- : awakening-compassion-at-work-en; 0.001517 sec; 10 chapters
+I, [2024-03-17T17:29:41.024006 #20167]  INFO -- : awakening-your-ikigai-en; 0.001181 sec; 7 chapters
+I, [2024-03-17T17:29:41.025313 #20167]  INFO -- : aware-en; 0.001291 sec; 10 chapters
+I, [2024-03-17T17:29:41.026349 #20167]  INFO -- : awe-en; 0.001013 sec; 6 chapters
+I, [2024-03-17T17:29:41.027279 #20167]  INFO -- : ayurveda-en; 0.000912 sec; 8 chapters
+I, [2024-03-17T17:29:41.027936 #20167]  INFO -- : baby-steps-millionaires-en; 0.000642 sec; 6 chapters
+I, [2024-03-17T17:29:41.030515 #20167]  INFO -- : back-channel-to-cuba-en; 0.002566 sec; 16 chapters
+I, [2024-03-17T17:29:41.031670 #20167]  INFO -- : back-to-human-en; 0.001137 sec; 9 chapters
+I, [2024-03-17T17:29:41.032991 #20167]  INFO -- : bad-blood-en; 0.001308 sec; 9 chapters
+I, [2024-03-17T17:29:41.034276 #20167]  INFO -- : bad-feminist-en; 0.001271 sec; 7 chapters
+I, [2024-03-17T17:29:41.036100 #20167]  INFO -- : bad-science-en; 0.001811 sec; 11 chapters
+I, [2024-03-17T17:29:41.037390 #20167]  INFO -- : badass-habits-en; 0.001277 sec; 7 chapters
+I, [2024-03-17T17:29:41.038672 #20167]  INFO -- : bank-investing-en; 0.001269 sec; 6 chapters
+I, [2024-03-17T17:29:41.040768 #20167]  INFO -- : barbarians-at-the-gate-en; 0.002083 sec; 10 chapters
+I, [2024-03-17T17:29:41.042760 #20167]  INFO -- : bargaining-for-advantage-en; 0.001978 sec; 10 chapters
+I, [2024-03-17T17:29:41.043781 #20167]  INFO -- : barking-up-the-wrong-tree-en; 0.001007 sec; 8 chapters
+I, [2024-03-17T17:29:41.044937 #20167]  INFO -- : bartleby-the-scrivener-en; 0.001143 sec; 5 chapters
+I, [2024-03-17T17:29:41.046285 #20167]  INFO -- : basic-economics-en; 0.001334 sec; 6 chapters
+I, [2024-03-17T17:29:41.047735 #20167]  INFO -- : battle-hymn-of-the-tiger-mother-en; 0.001435 sec; 7 chapters
+I, [2024-03-17T17:29:41.049732 #20167]  INFO -- : be-a-free-range-human-en; 0.001983 sec; 9 chapters
+I, [2024-03-17T17:29:41.052371 #20167]  INFO -- : be-fearless-en; 0.002619 sec; 10 chapters
+I, [2024-03-17T17:29:41.054475 #20167]  INFO -- : be-obsessed-or-be-average-en; 0.00209 sec; 9 chapters
+I, [2024-03-17T17:29:41.055664 #20167]  INFO -- : be-our-guest-en; 0.001174 sec; 9 chapters
+I, [2024-03-17T17:29:41.056596 #20167]  INFO -- : be-seen-en; 0.000914 sec; 7 chapters
+I, [2024-03-17T17:29:41.058450 #20167]  INFO -- : be-the-love-en; 0.001841 sec; 9 chapters
+I, [2024-03-17T17:29:41.060038 #20167]  INFO -- : be-the-unicorn-en; 0.001574 sec; 8 chapters
+I, [2024-03-17T17:29:41.061515 #20167]  INFO -- : be-useful-en; 0.001459 sec; 9 chapters
+I, [2024-03-17T17:29:41.062230 #20167]  INFO -- : be-water-my-friend-en; 0.000692 sec; 7 chapters
+I, [2024-03-17T17:29:41.064790 #20167]  INFO -- : be-where-your-feet-are-en; 0.002543 sec; 8 chapters
+I, [2024-03-17T17:29:41.065998 #20167]  INFO -- : be-your-future-self-now-en; 0.001194 sec; 8 chapters
+I, [2024-03-17T17:29:41.067259 #20167]  INFO -- : beat-gender-bias-en; 0.001247 sec; 8 chapters
+I, [2024-03-17T17:29:41.068628 #20167]  INFO -- : beat-sugar-addiction-now-en; 0.001354 sec; 10 chapters
+I, [2024-03-17T17:29:41.071335 #20167]  INFO -- : beautiful-game-theory-en; 0.002694 sec; 9 chapters
+I, [2024-03-17T17:29:41.072878 #20167]  INFO -- : because-internet-en; 0.001526 sec; 9 chapters
+I, [2024-03-17T17:29:41.074951 #20167]  INFO -- : becoming-attached-en; 0.00206 sec; 10 chapters
+I, [2024-03-17T17:29:41.077210 #20167]  INFO -- : becoming-beauvoir-en; 0.002245 sec; 10 chapters
+I, [2024-03-17T17:29:41.079391 #20167]  INFO -- : becoming-en; 0.00216 sec; 13 chapters
+I, [2024-03-17T17:29:41.080639 #20167]  INFO -- : becoming-fdr-en; 0.001229 sec; 7 chapters
+I, [2024-03-17T17:29:41.082425 #20167]  INFO -- : becoming-kim-jong-un-en; 0.001772 sec; 9 chapters
+I, [2024-03-17T17:29:41.083733 #20167]  INFO -- : becoming-myself-en; 0.001293 sec; 7 chapters
+I, [2024-03-17T17:29:41.085555 #20167]  INFO -- : becoming-steve-jobs-en; 0.001808 sec; 12 chapters
+I, [2024-03-17T17:29:41.086594 #20167]  INFO -- : becoming-supernatural-en; 0.001026 sec; 6 chapters
+I, [2024-03-17T17:29:41.087618 #20167]  INFO -- : becoming-the-boss-en; 0.001011 sec; 9 chapters
+I, [2024-03-17T17:29:41.089076 #20167]  INFO -- : bedtime-biography-an-autobiography-en; 0.001444 sec; 6 chapters
+I, [2024-03-17T17:29:41.090905 #20167]  INFO -- : bedtime-biography-black-spartacus-en; 0.001816 sec; 6 chapters
+I, [2024-03-17T17:29:41.092831 #20167]  INFO -- : bedtime-biography-born-a-crime-en; 0.001912 sec; 8 chapters
+I, [2024-03-17T17:29:41.094236 #20167]  INFO -- : bedtime-biography-edison-en; 0.001387 sec; 6 chapters
+I, [2024-03-17T17:29:41.096933 #20167]  INFO -- : bedtime-biography-florence-nightingale-en; 0.002681 sec; 6 chapters
+I, [2024-03-17T17:29:41.098476 #20167]  INFO -- : bedtime-biography-frida-en; 0.001517 sec; 5 chapters
+I, [2024-03-17T17:29:41.100309 #20167]  INFO -- : bedtime-biography-genghis-khan-and-the-making-of-the-modern-world-en; 0.001818 sec; 6 chapters
+I, [2024-03-17T17:29:41.101439 #20167]  INFO -- : bedtime-biography-harriet-tubman-en; 0.001115 sec; 7 chapters
+I, [2024-03-17T17:29:41.102874 #20167]  INFO -- : bedtime-biography-hidden-figures-en; 0.001422 sec; 6 chapters
+I, [2024-03-17T17:29:41.103888 #20167]  INFO -- : bedtime-biography-isaac-newton-en; 0.001001 sec; 5 chapters
+I, [2024-03-17T17:29:41.105448 #20167]  INFO -- : bedtime-biography-long-walk-to-freedom-en; 0.001547 sec; 7 chapters
+I, [2024-03-17T17:29:41.106949 #20167]  INFO -- : bedtime-biography-madame-curie-en; 0.001487 sec; 6 chapters
+I, [2024-03-17T17:29:41.107932 #20167]  INFO -- : bedtime-biography-margaret-thatcher-en; 0.000969 sec; 4 chapters
+I, [2024-03-17T17:29:41.109034 #20167]  INFO -- : bedtime-biography-me-en; 0.001084 sec; 6 chapters
+I, [2024-03-17T17:29:41.109890 #20167]  INFO -- : bedtime-biography-napoleon-the-great-en; 0.000842 sec; 6 chapters
+I, [2024-03-17T17:29:41.111056 #20167]  INFO -- : bedtime-biography-notorious-rbg-en; 0.001153 sec; 6 chapters
+I, [2024-03-17T17:29:41.112014 #20167]  INFO -- : bedtime-biography-queen-of-fashion-en; 0.000942 sec; 5 chapters
+I, [2024-03-17T17:29:41.113287 #20167]  INFO -- : bedtime-biography-shoot-for-the-moon-en; 0.001255 sec; 7 chapters
+I, [2024-03-17T17:29:41.115308 #20167]  INFO -- : bedtime-biography-stasiland-en; 0.002009 sec; 7 chapters
+I, [2024-03-17T17:29:41.116267 #20167]  INFO -- : bedtime-biography-the-autobiography-of-eleanor-roosevelt-en; 0.000941 sec; 6 chapters
+I, [2024-03-17T17:29:41.118553 #20167]  INFO -- : bedtime-biography-the-autobiography-of-martin-luther-king-jr-en; 0.002272 sec; 6 chapters
+I, [2024-03-17T17:29:41.120014 #20167]  INFO -- : bedtime-biography-the-rebellious-life-of-mrs-rosa-parks-en; 0.001444 sec; 7 chapters
+I, [2024-03-17T17:29:41.120740 #20167]  INFO -- : bedtime-biography-vindication-en; 0.000713 sec; 6 chapters
+I, [2024-03-17T17:29:41.122180 #20167]  INFO -- : bedtime-biography-yes-i-can-en; 0.001426 sec; 7 chapters
+I, [2024-03-17T17:29:41.124537 #20167]  INFO -- : beethoven-en; 0.00234 sec; 12 chapters
+I, [2024-03-17T17:29:41.126289 #20167]  INFO -- : before-happiness-en; 0.001739 sec; 10 chapters
+I, [2024-03-17T17:29:41.127454 #20167]  INFO -- : begin-again-en; 0.001151 sec; 9 chapters
+I, [2024-03-17T17:29:41.129116 #20167]  INFO -- : beginners-en; 0.001645 sec; 9 chapters
+I, [2024-03-17T17:29:41.130621 #20167]  INFO -- : behave-en; 0.00149 sec; 11 chapters
+I, [2024-03-17T17:29:41.131829 #20167]  INFO -- : behind-the-beautiful-forevers-en; 0.001194 sec; 11 chapters
+I, [2024-03-17T17:29:41.133097 #20167]  INFO -- : behind-the-cloud-en; 0.001246 sec; 9 chapters
+I, [2024-03-17T17:29:41.134339 #20167]  INFO -- : being-and-nothingness-en; 0.001228 sec; 7 chapters
+I, [2024-03-17T17:29:41.135115 #20167]  INFO -- : being-and-time-en; 0.000763 sec; 5 chapters
+I, [2024-03-17T17:29:41.136187 #20167]  INFO -- : being-boss-en; 0.001059 sec; 8 chapters
+I, [2024-03-17T17:29:41.138296 #20167]  INFO -- : being-mortal-en; 0.002093 sec; 10 chapters
+I, [2024-03-17T17:29:41.139551 #20167]  INFO -- : being-you-en; 0.00124 sec; 10 chapters
+I, [2024-03-17T17:29:41.140343 #20167]  INFO -- : beloved-en; 0.00078 sec; 6 chapters
+I, [2024-03-17T17:29:41.141318 #20167]  INFO -- : beowulf-en; 0.000963 sec; 5 chapters
+I, [2024-03-17T17:29:41.142901 #20167]  INFO -- : berkshire-beyond-buffett-en; 0.00157 sec; 9 chapters
+I, [2024-03-17T17:29:41.144095 #20167]  INFO -- : best-job-ever-en; 0.00118 sec; 7 chapters
+I, [2024-03-17T17:29:41.145417 #20167]  INFO -- : best-self-en; 0.001309 sec; 8 chapters
+I, [2024-03-17T17:29:41.146247 #20167]  INFO -- : bet-on-yourself-en; 0.000816 sec; 5 chapters
+I, [2024-03-17T17:29:41.148079 #20167]  INFO -- : better-and-faster-en; 0.001811 sec; 8 chapters
+I, [2024-03-17T17:29:41.149708 #20167]  INFO -- : better-living-through-criticism-en; 0.001614 sec; 10 chapters
+I, [2024-03-17T17:29:41.151498 #20167]  INFO -- : better-sex-through-mindfulness-en; 0.001772 sec; 10 chapters
+I, [2024-03-17T17:29:41.153148 #20167]  INFO -- : better-than-alpha-en; 0.001632 sec; 9 chapters
+I, [2024-03-17T17:29:41.155607 #20167]  INFO -- : better-than-before-en; 0.002445 sec; 9 chapters
+I, [2024-03-17T17:29:41.161861 #20167]  INFO -- : better-together-en; 0.005317 sec; 10 chapters
+I, [2024-03-17T17:29:41.165973 #20167]  INFO -- : betting-on-you-en; 0.003022 sec; 10 chapters
+I, [2024-03-17T17:29:41.167694 #20167]  INFO -- : between-the-world-and-me-en; 0.001705 sec; 9 chapters
+I, [2024-03-17T17:29:41.169270 #20167]  INFO -- : beyond-culture-en; 0.001554 sec; 8 chapters
+I, [2024-03-17T17:29:41.171318 #20167]  INFO -- : beyond-entrepreneurship-2-dot-0-en; 0.002033 sec; 10 chapters
+I, [2024-03-17T17:29:41.173773 #20167]  INFO -- : beyond-good-and-evil-en; 0.002441 sec; 9 chapters
+I, [2024-03-17T17:29:41.176400 #20167]  INFO -- : beyond-order-en; 0.002614 sec; 14 chapters
+I, [2024-03-17T17:29:41.178177 #20167]  INFO -- : beyond-the-wand-en; 0.001759 sec; 9 chapters
+I, [2024-03-17T17:29:41.179820 #20167]  INFO -- : beyond-tidy-en; 0.00162 sec; 11 chapters
+I, [2024-03-17T17:29:41.181590 #20167]  INFO -- : beyond-willpower-en; 0.001756 sec; 9 chapters
+I, [2024-03-17T17:29:41.183118 #20167]  INFO -- : beyond-words-en; 0.001514 sec; 12 chapters
+I, [2024-03-17T17:29:41.185268 #20167]  INFO -- : big-bang-disruption-en; 0.002137 sec; 9 chapters
+I, [2024-03-17T17:29:41.187373 #20167]  INFO -- : big-data-en; 0.002092 sec; 13 chapters
+I, [2024-03-17T17:29:41.188549 #20167]  INFO -- : big-feelings-en; 0.001163 sec; 9 chapters
+I, [2024-03-17T17:29:41.190404 #20167]  INFO -- : big-magic-en; 0.001842 sec; 8 chapters
+I, [2024-03-17T17:29:41.192360 #20167]  INFO -- : big-mistakes-en; 0.001935 sec; 10 chapters
+I, [2024-03-17T17:29:41.193778 #20167]  INFO -- : big-potential-en; 0.001402 sec; 8 chapters
+I, [2024-03-17T17:29:41.195020 #20167]  INFO -- : big-weed-en; 0.001228 sec; 8 chapters
+I, [2024-03-17T17:29:41.198245 #20167]  INFO -- : billion-dollar-whale-en; 0.003212 sec; 12 chapters
+I, [2024-03-17T17:29:41.200078 #20167]  INFO -- : biohack-your-brain-en; 0.001817 sec; 9 chapters
+I, [2024-03-17T17:29:41.202268 #20167]  INFO -- : bird-by-bird-en; 0.002177 sec; 13 chapters
+I, [2024-03-17T17:29:41.203741 #20167]  INFO -- : birnam-wood-en; 0.001459 sec; 5 chapters
+I, [2024-03-17T17:29:41.205910 #20167]  INFO -- : bit-literacy-en; 0.002145 sec; 10 chapters
+I, [2024-03-17T17:29:41.207236 #20167]  INFO -- : bittersweet-en; 0.001312 sec; 6 chapters
+I, [2024-03-17T17:29:41.209845 #20167]  INFO -- : black-and-british-en; 0.002596 sec; 12 chapters
+I, [2024-03-17T17:29:41.211286 #20167]  INFO -- : black-and-white-thinking-en; 0.001427 sec; 9 chapters
+I, [2024-03-17T17:29:41.213085 #20167]  INFO -- : black-box-thinking-en; 0.001786 sec; 8 chapters
+I, [2024-03-17T17:29:41.215038 #20167]  INFO -- : black-edge-en; 0.001936 sec; 10 chapters
+I, [2024-03-17T17:29:41.216923 #20167]  INFO -- : black-flags-en; 0.001872 sec; 9 chapters
+I, [2024-03-17T17:29:41.218477 #20167]  INFO -- : bless-this-mess-en; 0.00154 sec; 11 chapters
+I, [2024-03-17T17:29:41.219994 #20167]  INFO -- : blink-en; 0.001503 sec; 10 chapters
+I, [2024-03-17T17:29:41.221621 #20167]  INFO -- : blinkracy-en; 0.001614 sec; 8 chapters
+I, [2024-03-17T17:29:41.223173 #20167]  INFO -- : bliss-more-en; 0.001538 sec; 9 chapters
+I, [2024-03-17T17:29:41.225237 #20167]  INFO -- : blitzscaling-en; 0.00205 sec; 12 chapters
+I, [2024-03-17T17:29:41.227100 #20167]  INFO -- : blockchain-chicken-farm-en; 0.001848 sec; 9 chapters
+I, [2024-03-17T17:29:41.228906 #20167]  INFO -- : blockchain-revolution-en; 0.001792 sec; 9 chapters
+I, [2024-03-17T17:29:41.230384 #20167]  INFO -- : blood-feud-en; 0.00146 sec; 7 chapters
+I, [2024-03-17T17:29:41.233581 #20167]  INFO -- : bloodlands-en; 0.003184 sec; 14 chapters
+I, [2024-03-17T17:29:41.235600 #20167]  INFO -- : bloody-brilliant-women-en; 0.002004 sec; 9 chapters
+I, [2024-03-17T17:29:41.237553 #20167]  INFO -- : blowout-en; 0.001936 sec; 11 chapters
+I, [2024-03-17T17:29:41.238962 #20167]  INFO -- : blue-hour-en; 0.001394 sec; 6 chapters
+I, [2024-03-17T17:29:41.241991 #20167]  INFO -- : blue-ocean-shift-en; 0.00301 sec; 12 chapters
+I, [2024-03-17T17:29:41.243337 #20167]  INFO -- : blue-ocean-strategy-en; 0.001327 sec; 4 chapters
+I, [2024-03-17T17:29:41.245776 #20167]  INFO -- : blueprint-en; 0.002422 sec; 9 chapters
+I, [2024-03-17T17:29:41.247198 #20167]  INFO -- : blueprint-for-revolution-en; 0.001402 sec; 8 chapters
+I, [2024-03-17T17:29:41.249019 #20167]  INFO -- : body-by-science-en; 0.001805 sec; 9 chapters
+I, [2024-03-17T17:29:41.250996 #20167]  INFO -- : body-kindness-en; 0.001963 sec; 10 chapters
+I, [2024-03-17T17:29:41.253048 #20167]  INFO -- : boost-en; 0.002039 sec; 9 chapters
+I, [2024-03-17T17:29:41.254473 #20167]  INFO -- : bored-and-brilliant-en; 0.001411 sec; 10 chapters
+I, [2024-03-17T17:29:41.256488 #20167]  INFO -- : born-a-crime-en; 0.002002 sec; 10 chapters
+I, [2024-03-17T17:29:41.259759 #20167]  INFO -- : born-for-this-en; 0.003254 sec; 9 chapters
+I, [2024-03-17T17:29:41.261308 #20167]  INFO -- : born-liars-en; 0.001536 sec; 9 chapters
+I, [2024-03-17T17:29:41.263066 #20167]  INFO -- : born-to-run-en; 0.001744 sec; 10 chapters
+I, [2024-03-17T17:29:41.264111 #20167]  INFO -- : born-to-win-en; 0.001031 sec; 7 chapters
+I, [2024-03-17T17:29:55.307753 #20167]  INFO -- : boss-it-en; 14.043588 sec; 9 chapters
+I, [2024-03-17T17:30:02.645219 #20167]  INFO -- : both-slash-and-thinking-en; 7.336983 sec; 4 chapters
+I, [2024-03-17T17:30:02.653328 #20167]  INFO -- : bounce-back-en; 0.006603 sec; 9 chapters
+I, [2024-03-17T17:30:02.659084 #20167]  INFO -- : bounce-en; 0.005602 sec; 10 chapters
+I, [2024-03-17T17:30:02.663576 #20167]  INFO -- : boundaries-en; 0.00436 sec; 10 chapters
+I, [2024-03-17T17:30:02.666519 #20167]  INFO -- : boundaries-for-leaders-en; 0.002855 sec; 7 chapters
+I, [2024-03-17T17:30:02.668862 #20167]  INFO -- : bourbon-empire-en; 0.002197 sec; 8 chapters
+I, [2024-03-17T17:30:16.806857 #20167]  INFO -- : bowerman-and-the-men-of-oregon-en; 14.137905 sec; 9 chapters
+I, [2024-03-17T17:30:16.816920 #20167]  INFO -- : boy-erased-en; 0.009667 sec; 8 chapters
+I, [2024-03-17T17:30:16.820238 #20167]  INFO -- : boys-and-sex-en; 0.003241 sec; 10 chapters
+I, [2024-03-17T17:30:16.822450 #20167]  INFO -- : braiding-sweetgrass-en; 0.002146 sec; 8 chapters
+I, [2024-03-17T17:30:16.825396 #20167]  INFO -- : brain-food-en; 0.002916 sec; 10 chapters
+I, [2024-03-17T17:30:16.827740 #20167]  INFO -- : brain-maker-en; 0.002318 sec; 10 chapters
+I, [2024-03-17T17:30:16.829727 #20167]  INFO -- : brain-rules-en; 0.001962 sec; 10 chapters
+I, [2024-03-17T17:30:16.833837 #20167]  INFO -- : brain-wash-en; 0.004083 sec; 13 chapters
+I, [2024-03-17T17:30:16.835206 #20167]  INFO -- : brainfluence-en; 0.001331 sec; 8 chapters
+I, [2024-03-17T17:30:16.836925 #20167]  INFO -- : brainstorm-en; 0.001695 sec; 9 chapters
+I, [2024-03-17T17:30:16.838738 #20167]  INFO -- : branding-between-the-ears-en; 0.00179 sec; 8 chapters
+I, [2024-03-17T17:30:16.840381 #20167]  INFO -- : brave-en; 0.001619 sec; 10 chapters
+I, [2024-03-17T17:30:16.842160 #20167]  INFO -- : brave-new-war-en; 0.001757 sec; 10 chapters
+I, [2024-03-17T17:30:16.844218 #20167]  INFO -- : brave-new-work-en; 0.002023 sec; 11 chapters
+I, [2024-03-17T17:30:16.846558 #20167]  INFO -- : brave-new-world-en; 0.002301 sec; 7 chapters
+I, [2024-03-17T17:30:16.848405 #20167]  INFO -- : brave-not-perfect-en; 0.001757 sec; 7 chapters
+I, [2024-03-17T17:30:16.851227 #20167]  INFO -- : braving-the-wilderness-en; 0.002766 sec; 8 chapters
+I, [2024-03-17T17:30:16.853000 #20167]  INFO -- : brazillionaires-en; 0.001736 sec; 7 chapters
+I, [2024-03-17T17:30:16.855348 #20167]  INFO -- : breaking-the-cycle-en-george-n-collins-with-andrew-adleman; 0.002321 sec; 8 chapters
+I, [2024-03-17T17:30:16.856910 #20167]  INFO -- : breaking-the-habit-of-being-yourself-en; 0.001538 sec; 8 chapters
+I, [2024-03-17T17:30:27.749388 #20167]  INFO -- : breaking-the-page-en; 10.892413 sec; 7 chapters
+I, [2024-03-17T17:30:27.758913 #20167]  INFO -- : breaking-up-with-sugar-en; 0.008959 sec; 8 chapters
+I, [2024-03-17T17:30:27.769091 #20167]  INFO -- : breakpoint-en; 0.009929 sec; 8 chapters
+I, [2024-03-17T17:30:27.773999 #20167]  INFO -- : breath-en; 0.004688 sec; 10 chapters
+I, [2024-03-17T17:30:27.777313 #20167]  INFO -- : brief-answers-to-the-big-questions-en; 0.003108 sec; 10 chapters
+I, [2024-03-17T17:30:27.779540 #20167]  INFO -- : brief-en; 0.002176 sec; 9 chapters
+I, [2024-03-17T17:30:42.225996 #20167]  INFO -- : brilliance-by-design-en; 14.446411 sec; 9 chapters
+I, [2024-03-17T17:30:56.306456 #20167]  INFO -- : bring-your-human-to-work-en; 14.080091 sec; 9 chapters
+I, [2024-03-17T17:31:02.896952 #20167]  INFO -- : bringing-out-the-best-in-people-en; 6.588783 sec; 3 chapters
+I, [2024-03-17T17:31:15.867840 #20167]  INFO -- : bringing-up-bebe-en; 12.969511 sec; 8 chapters
+I, [2024-03-17T17:31:26.940832 #20167]  INFO -- : bringing-up-the-boss-en; 11.071563 sec; 7 chapters
+I, [2024-03-17T17:31:49.880882 #20167]  INFO -- : brit-ish-en; 22.939307 sec; 15 chapters
+I, [2024-03-17T17:32:04.289320 #20167]  INFO -- : broad-band-en; 14.407623 sec; 10 chapters
+I, [2024-03-17T17:32:15.214889 #20167]  INFO -- : broadcasting-happiness-en; 10.923867 sec; 7 chapters
+I, [2024-03-17T17:32:31.348744 #20167]  INFO -- : broke-millennial-en; 16.133348 sec; 10 chapters
+I, [2024-03-17T17:32:44.219350 #20167]  INFO -- : brotopia-en; 12.862329 sec; 8 chapters
+I, [2024-03-17T17:32:56.115002 #20167]  INFO -- : brown-girl-dreaming-en; 11.894902 sec; 7 chapters
+I, [2024-03-17T17:33:14.572604 #20167]  INFO -- : buddhas-brain-en; 18.455671 sec; 11 chapters
+I, [2024-03-17T17:33:26.334334 #20167]  INFO -- : buddhism-plain-and-simple-en; 11.759889 sec; 7 chapters
+I, [2024-03-17T17:33:39.417836 #20167]  INFO -- : buffett-en; 13.08183 sec; 8 chapters
+I, [2024-03-17T17:33:51.501369 #20167]  INFO -- : build-en; 12.082234 sec; 7 chapters
+I, [2024-03-17T17:34:02.512105 #20167]  INFO -- : build-for-change-en; 11.00978 sec; 7 chapters
+I, [2024-03-17T17:34:16.433034 #20167]  INFO -- : build-for-tomorrow-en; 13.918422 sec; 8 chapters
+I, [2024-03-17T17:34:39.126757 #20167]  INFO -- : build-it-en; 22.692538 sec; 15 chapters
+I, [2024-03-17T17:34:50.303025 #20167]  INFO -- : build-the-life-you-want-en; 11.174582 sec; 7 chapters
+I, [2024-03-17T17:35:01.468426 #20167]  INFO -- : building-a-non-anxious-life-en; 11.164382 sec; 6 chapters
+I, [2024-03-17T17:35:13.284634 #20167]  INFO -- : building-a-second-brain-en; 11.815108 sec; 6 chapters
+I, [2024-03-17T17:35:30.353811 #20167]  INFO -- : building-a-storybrand-en; 17.067453 sec; 11 chapters
+I, [2024-03-17T17:35:46.921324 #20167]  INFO -- : building-an-inclusive-organization-en; 16.56702 sec; 10 chapters
+I, [2024-03-17T17:35:59.119236 #20167]  INFO -- : building-social-business-en; 12.195518 sec; 7 chapters
+I, [2024-03-17T17:36:16.235001 #20167]  INFO -- : building-your-business-the-right-brain-way-en; 17.113714 sec; 10 chapters
+I, [2024-03-17T17:36:39.273389 #20167]  INFO -- : built-en; 23.03744 sec; 14 chapters
+I, [2024-03-17T17:36:52.357433 #20167]  INFO -- : built-from-broken-en; 13.081481 sec; 8 chapters
+I, [2024-03-17T17:37:09.465754 #20167]  INFO -- : built-not-born-en; 17.105909 sec; 10 chapters
+I, [2024-03-17T17:37:28.436372 #20167]  INFO -- : built-to-last-en; 18.968295 sec; 10 chapters
+I, [2024-03-17T17:37:42.107182 #20167]  INFO -- : built-to-move-en; 13.670066 sec; 8 chapters
+I, [2024-03-17T17:37:57.020978 #20167]  INFO -- : bulletproof-problem-solving-en; 14.911922 sec; 8 chapters
+I, [2024-03-17T17:38:12.553116 #20167]  INFO -- : bunk-en; 15.529088 sec; 8 chapters
+I, [2024-03-17T17:38:29.401992 #20167]  INFO -- : burn-en; 16.847776 sec; 10 chapters
+I, [2024-03-17T17:38:51.395454 #20167]  INFO -- : burn-rate-en; 21.992718 sec; 15 chapters
+I, [2024-03-17T17:38:59.739142 #20167]  INFO -- : burn-the-boats-en; 8.3419 sec; 5 chapters
+I, [2024-03-17T17:39:19.132075 #20167]  INFO -- : burnout-en; 19.390523 sec; 10 chapters
+I, [2024-03-17T17:39:41.875525 #20167]  INFO -- : business-adventures-en; 22.741532 sec; 14 chapters
+I, [2024-03-17T17:39:56.783695 #20167]  INFO -- : business-chemistry-en; 14.907285 sec; 10 chapters
+I, [2024-03-17T17:40:12.179584 #20167]  INFO -- : business-execution-for-results-en; 15.386572 sec; 8 chapters
+I, [2024-03-17T17:40:27.073869 #20167]  INFO -- : business-for-bohemians-en; 14.893206 sec; 10 chapters
+I, [2024-03-17T17:40:43.598030 #20167]  INFO -- : business-model-generation-en; 16.5212 sec; 9 chapters
+I, [2024-03-17T17:40:56.187290 #20167]  INFO -- : business-writing-tips-en; 12.587315 sec; 7 chapters
+I, [2024-03-17T17:41:10.763692 #20167]  INFO -- : buy-back-your-time-en; 14.575009 sec; 8 chapters
+I, [2024-03-17T17:41:22.094450 #20167]  INFO -- : buy-this-not-that-en; 11.329041 sec; 6 chapters
+I, [2024-03-17T17:41:38.113912 #20167]  INFO -- : buyer-personas-en; 16.017676 sec; 10 chapters
+I, [2024-03-17T17:41:53.834232 #20167]  INFO -- : buying-your-first-home-en; 15.719567 sec; 10 chapters
+I, [2024-03-17T17:42:08.544291 #20167]  INFO -- : buyology-en; 14.708245 sec; 10 chapters
+I, [2024-03-17T17:42:25.692714 #20167]  INFO -- : call-sign-chaos-en; 17.145687 sec; 11 chapters
+I, [2024-03-17T17:42:40.006035 #20167]  INFO -- : calling-bullshit-en; 14.311733 sec; 10 chapters
+I, [2024-03-17T17:42:55.523225 #20167]  INFO -- : campaigns-that-shook-the-world-en; 15.515573 sec; 10 chapters
+I, [2024-03-17T17:43:09.445566 #20167]  INFO -- : can-we-talk-en; 13.921518 sec; 9 chapters
